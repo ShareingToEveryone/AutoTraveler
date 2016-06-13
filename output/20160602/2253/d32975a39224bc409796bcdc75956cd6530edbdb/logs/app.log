@@ -1,0 +1,444 @@
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: viewDidLoad
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: viewWillDisappear:
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: imagePickerControllerDidCancel:
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: imagePickerController:didFinishPickingMediaWithInfo:
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: className
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: .cxx_destruct
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: finish
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: getDate
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: setPresenter:
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: presenter
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: cancel:
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 12
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_添加车辆页
+2016-06-02 22:54:25 app_log : Jun  2 22:47:29 iPhone PANewToapAPP[3188] <Warning>: TalkingData: event 汽车加挂:添加车辆_点击_车辆行驶证
+2016-06-02 22:54:25 app_log : Jun  2 22:47:42 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_添加车辆页停留时间: 13
+2016-06-02 22:54:25 app_log : Jun  2 22:47:42 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 22:54:25 app_log : Jun  2 22:47:42 iPhone PANewToapAPP[3188] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:25 app_log : Jun  2 22:47:52 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 10
+2016-06-02 22:54:25 app_log : Jun  2 22:48:13 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 22:54:25 app_log : Jun  2 22:48:13 iPhone PANewToapAPP[3188] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:25 app_log : Jun  2 22:48:14 iPhone PANewToapAPP[3188] <Warning>: Received memory warning.
+2016-06-02 22:54:25 app_log : Jun  2 22:48:20 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 22:54:25 app_log : Jun  2 22:48:21 iPhone PANewToapAPP[3188] <Warning>: Received memory warning.
+2016-06-02 22:54:25 app_log : Jun  2 22:48:41 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 22:54:25 app_log : Jun  2 22:48:41 iPhone PANewToapAPP[3188] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:48 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:48:53 iPhone PANewToapAPP[3188] <Warning>: Received memory warning.
+2016-06-02 22:54:25 app_log : Jun  2 22:49:05 iPhone PANewToapAPP[3188] <Warning>: Received memory warning.
+2016-06-02 22:54:25 app_log : Jun  2 22:49:06 iPhone PANewToapAPP[3188] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:54:25 app_log : Jun  2 22:49:06 iPhone PANewToapAPP[3188] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 22:54:25 app_log : Jun  2 22:49:23 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 22:54:25 app_log : Jun  2 22:49:23 iPhone PANewToapAPP[3188] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 9
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:32 iPhone PANewToapAPP[3188] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:25 app_log : Jun  2 22:49:51 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 22:54:25 app_log : Jun  2 22:49:51 iPhone PANewToapAPP[3188] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:25 app_log : Jun  2 22:49:58 iPhone PANewToapAPP[3188] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 22:54:25 app_log : Jun  2 22:49:58 iPhone PANewToapAPP[3188] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_车贷计算器
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: paramUI
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: fixSeperateLine
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: numberOfSectionsInTableView:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: didReceiveMemoryWarning
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: viewWillAppear:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: viewDidLoad
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: viewWillDisappear:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: className
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: .cxx_destruct
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 16
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车贷计算器
+2016-06-02 22:54:25 app_log : Jun  2 22:50:08 iPhone PANewToapAPP[3188] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车抵贷计算器
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: TalkingData: event 汽车加挂:车贷款_点击车贷计算器
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: initParamUI
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: failView
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: setFailView:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: requestWebView
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: KWebView
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: backAction:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: closeAction:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: WKWeb
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: setWKWeb:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: setKWebView:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: URLEncodedString:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: didReceiveMemoryWarning
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: viewWillAppear:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: viewDidLoad
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: viewWillDisappear:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: webViewDidStartLoad:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: className
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: .cxx_destruct
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: userContentController:didReceiveScriptMessage:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: initWithInteger:
+2016-06-02 22:54:25 app_log : Jun  2 22:50:17 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间: 9
+2016-06-02 22:54:25 app_log : Jun  2 22:52:02 iPhone PANewToapAPP[3188] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 22:54:25 app_log : Jun  2 22:52:10 iPhone assertiond[58] <Warning>: Disallowing application state monitor connection from unentitled process: PANewToapAPP (3188)
+2016-06-02 22:54:25 app_log : Jun  2 22:52:10 iPhone PANewToapAPP[3188] <Warning>: BSXPCMessage received error for message: Connection interrupted
+2016-06-02 22:54:25 app_log : Jun  2 22:52:11 iPhone PANewToapAPP[3188] <Warning>: TalkingData: enterBackground
+2016-06-02 22:54:25 app_log : Jun  2 22:52:11 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间8
+2016-06-02 22:54:25 app_log : Jun  2 22:52:11 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 持久化缓存数据
+2016-06-02 22:54:25 app_log : Jun  2 22:52:11 iPhone PANewToapAPP[3188] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:54:25 app_log : Jun  2 22:52:12 iPhone PANewToapAPP[3188] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 22:54:25 app_log : Jun  2 22:52:14 iPhone PANewToapAPP[3188] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0xd665240>.
+2016-06-02 22:54:25 app_log : Jun  2 22:52:14 iPhone PANewToapAPP[3188] <Warning>: TalkingData: enterBackground
+2016-06-02 22:54:25 app_log : Jun  2 22:52:14 iPhone PANewToapAPP[3188] <Warning>: TalkingData: 持久化缓存数据
+2016-06-02 22:54:25 app_log : Jun  2 22:52:54 iPhone PANewToapAPP[3232] <Error>: objc[3232]: Class MGLivenessDetectionFrame is implemented in both /private/var/mobile/Containers/Bundle/Application/49C242D7-51FF-4F1F-9319-1744797D0B74/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/49C242D7-51FF-4F1F-9319-1744797D0B74/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:54:25 app_log : Jun  2 22:52:54 iPhone PANewToapAPP[3232] <Error>: objc[3232]: Class FaceIDData is implemented in both /private/var/mobile/Containers/Bundle/Application/49C242D7-51FF-4F1F-9319-1744797D0B74/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/49C242D7-51FF-4F1F-9319-1744797D0B74/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:54:25 app_log : Jun  2 22:52:54 iPhone PANewToapAPP[3232] <Error>: objc[3232]: Class MGLivenessDetector is implemented in both /private/var/mobile/Containers/Bundle/Application/49C242D7-51FF-4F1F-9319-1744797D0B74/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/49C242D7-51FF-4F1F-9319-1744797D0B74/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:54:25 app_log : Jun  2 22:52:55 iPhone PANewToapAPP[3232] <Error>: assertion failed: 12D508: libxpc.dylib + 51923 [0DB6E5DB-4D63-3912-8043-38BEE3B1EA27]: 0x7d
+2016-06-02 22:54:25 app_log : Jun  2 22:52:55 iPhone PANewToapAPP[3232] <Warning>: /var/mobile/Containers/Data/Application/2E76F59F-BE07-4723-89E2-DA6545AC0440/Documents/Anydoor/db/anydoor.sqlite
+2016-06-02 22:54:25 app_log : Jun  2 22:52:55 iPhone PANewToapAPP[3232] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 22:54:25 app_log : Jun  2 22:52:55 iPhone PANewToapAPP[3232] <Warning>: SELECT * FROM hf_db_info_t WHERE id = 0
+2016-06-02 22:54:25 app_log : Jun  2 22:52:55 iPhone PANewToapAPP[3232] <Warning>: update hf_db_info_t set version=0 where id=0
+2016-06-02 22:54:25 app_log : Jun  2 22:52:55 iPhone PANewToapAPP[3232] <Warning>: 向 APNs 注册服务中....
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: TalkingData: TalkingData start sdk:iOS+talkingdata+V1.1.0/appKey:33DD4B94A344AA58F6007B6C2F32F42E/渠道:appstore
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 开始监听crash
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: device register: {
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: TalkingData: event 设备启动:设备启动 parameters：{
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: introDidFinish
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setAdvertModel:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: advertModel
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: showIntroWithCrossDissolve
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: showMainViewController
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setIntro:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: intro
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: viewDidLoad
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: className
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: .cxx_destruct
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: headView
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webView0
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webView1
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webView2
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webView3
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setWeb:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: yzt_openLink:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: failView
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: web
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView0
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView1
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView2
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView3
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setWebView0:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: avoidRequestArray
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setAvoidRequestArray:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setWebView1:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setWebView2:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setWebView3:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setHeadView:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: urlArray
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setUrlArray:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webArray
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setWebArray:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setFailView:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: viewWillAppear:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: viewDidLoad
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: viewWillDisappear:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: selectedIndex
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: setSelectedIndex:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: className
+2016-06-02 22:54:25 app_log : Jun  2 22:52:56 iPhone PANewToapAPP[3232] <Warning>: .cxx_destruct
+2016-06-02 22:54:25 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: /var/mobile/Containers/Data/Application/2E76F59F-BE07-4723-89E2-DA6545AC0440/Documents/Anydoor/db/anydoor_messagecenter.sqlite
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: SELECT * FROM hf_db_info_t WHERE id = 0
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: update hf_db_info_t set version=0 where id=0
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter'
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter_pulltime'
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:50 app_log : Jun  2 22:52:57 iPhone PANewToapAPP[3232] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 22:54:50 app_log : Jun  2 22:52:58 iPhone PANewToapAPP[3232] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:50 app_log : Jun  2 22:52:58 iPhone PANewToapAPP[3232] <Warning>: BUGTAGS: Bugtags v1.2.3 started successfully
+2016-06-02 22:54:50 app_log : Jun  2 22:52:58 iPhone PANewToapAPP[3232] <Warning>: TalkingData: TDRequestSessionTerminateAndLaunch send data success!
+2016-06-02 22:54:50 app_log : Jun  2 22:52:58 iPhone PANewToapAPP[3232] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x2af0930>.
+2016-06-02 22:54:50 app_log : Jun  2 22:52:59 iPhone PANewToapAPP[3232] <Warning>: Unbalanced calls to begin/end appearance transitions for <PAMainViewController: 0x2ae1890>.
+2016-06-02 22:54:50 app_log : Jun  2 22:52:59 iPhone PANewToapAPP[3232] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 22:54:50 app_log : Jun  2 22:52:59 iPhone PANewToapAPP[3232] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 22:54:50 app_log : Jun  2 22:52:59 iPhone PANewToapAPP[3232] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 22:54:50 app_log : Jun  2 22:52:59 iPhone PANewToapAPP[3232] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 22:54:50 app_log : Jun  2 22:53:03 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: headView
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView0
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView1
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView2
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView3
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWeb:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_openLink:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: failView
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: web
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView0
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView1
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView2
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView3
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView0:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: avoidRequestArray
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setAvoidRequestArray:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView1:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView2:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView3:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setHeadView:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: urlArray
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setUrlArray:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webArray
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebArray:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setFailView:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: viewWillAppear:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: viewDidLoad
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: viewWillDisappear:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: selectedIndex
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setSelectedIndex:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: className
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: .cxx_destruct
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: TalkingData: event 设备启动:设备匹配 parameters：{
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 页面首页停留时间: 7
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x29adb60>.
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:54:50 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 22:54:50 app_log : Jun  2 22:53:05 iPhone PANewToapAPP[3232] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:50 app_log : Jun  2 22:53:06 iPhone PANewToapAPP[3232] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x29adb60>.
+2016-06-02 22:54:50 app_log : Jun  2 22:53:26 iPhone assertiond[58] <Warning>: Disallowing application state monitor connection from unentitled process: PANewToapAPP (3232)
+2016-06-02 22:54:50 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: BSXPCMessage received error for message: Connection interrupted
+2016-06-02 22:54:50 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: enterBackground
+2016-06-02 22:54:50 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 页面首页停留时间21
+2016-06-02 22:54:50 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 持久化缓存数据
+2016-06-02 22:54:50 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:54:50 app_log : Jun  2 22:53:27 iPhone PANewToapAPP[3232] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 22:54:50 app_log : Jun  2 22:54:00 iPhone installd[2516] <Notice>: 0x581000 -[MIClientConnection _doBackgroundInstallationForPath:withOptions:completion:]: Install of "/var/mobile/Media/PublicStaging/PANewToapAPP.app" type Developer requested by mobile_installation_proxy (pid 142)
+2016-06-02 22:54:50 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: objc[3238]: Class MGLivenessDetectionFrame is implemented in both /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:54:50 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: objc[3238]: Class FaceIDData is implemented in both /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:54:50 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: objc[3238]: Class MGLivenessDetector is implemented in both /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:54:50 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: assertion failed: 12D508: libxpc.dylib + 51923 [0DB6E5DB-4D63-3912-8043-38BEE3B1EA27]: 0x7d
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: /var/mobile/Containers/Data/Application/B421C264-A62F-4270-9D2C-E719C8A36D18/Documents/Anydoor/db/anydoor.sqlite
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: CREATE TABLE IF NOT EXISTS hf_db_info_t (id integer primary key,version integer) 
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: INSERT INTO hf_db_info_t (id,version) VALUES (0,0)
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: 向 APNs 注册服务中....
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: TalkingData: TalkingData start sdk:iOS+talkingdata+V1.1.0/appKey:33DD4B94A344AA58F6007B6C2F32F42E/渠道:appstore
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 开始监听crash
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: device register: {
+2016-06-02 22:54:50 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 设备启动:设备启动 parameters：{
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: introDidFinish
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: setAdvertModel:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: advertModel
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: showIntroWithCrossDissolve
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: showMainViewController
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: setIntro:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: intro
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: BUGTAGS: Bugtags v1.2.3 started successfully
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: device register: {
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: TalkingData: TDRequestInitAndLaunch send data success!
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 22:54:50 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 22:54:50 app_log : Jun  2 22:54:09 iPhone assertiond[58] <Warning>: Disallowing application state monitor connection from unentitled process: PANewToapAPP (3238)
+2016-06-02 22:54:50 app_log : Jun  2 22:54:09 iPhone PANewToapAPP[3238] <Warning>: BSXPCMessage received error for message: Connection interrupted
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: headView
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView0
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView1
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView2
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView3
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWeb:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_openLink:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: failView
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: web
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView0
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView1
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView2
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView3
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView0:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: avoidRequestArray
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setAvoidRequestArray:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView1:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView2:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView3:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setHeadView:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: urlArray
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setUrlArray:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webArray
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebArray:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setFailView:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: viewWillAppear:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: viewWillDisappear:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: selectedIndex
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setSelectedIndex:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:54:50 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: /var/mobile/Containers/Data/Application/B421C264-A62F-4270-9D2C-E719C8A36D18/Documents/Anydoor/db/anydoor_messagecenter.sqlite
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: CREATE TABLE IF NOT EXISTS hf_db_info_t (id integer primary key,version integer) 
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: INSERT INTO hf_db_info_t (id,version) VALUES (0,0)
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter'
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter_pulltime'
+2016-06-02 22:54:50 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 22:54:50 app_log : Jun  2 22:54:35 iPhone PANewToapAPP[3238] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:54:50 app_log : Jun  2 22:54:37 iPhone PANewToapAPP[3238] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x6e3b810>.
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 登录:首页_点击_登录 parameters：{
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: Received memory warning.
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: networkRequestFail:requestType:parameter:error:otherInfo:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setBHaveLeftArrow:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setBNotPopQuit:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: headView
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: nextBtn
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setNextBtn:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: createSubViews
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: switchEnvirenment:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: buttonUneabled
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: loginPresenter
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setLoginPresenter:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: touchAction
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: onBack
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: longinInputView
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: nameLable
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: userNameLoginBtn
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: headImageView
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: chectPhoneNumber
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setIsNewUser:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setIsSetedPassword:
+2016-06-02 22:54:50 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: isSetedPassword
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: onClickNextButton
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: onClickUserNameLoginBtn
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: getUserTypeWithIsSuccess:andResultModel:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: bNotPopQuit
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: bHaveLeftArrow
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: inPutDescLabel
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setInPutDescLabel:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: phoneNumView
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setPhoneNumView:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setUserNameLoginBtn:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: iInputCount
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setIInputCount:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: isNewUser
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setHeadImageView:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setNameLable:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setLonginInputView:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: didReceiveMemoryWarning
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setScrollView:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: textField:shouldChangeCharactersInRange:replacementString:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: textFieldShouldReturn:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: viewWillAppear:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: viewWillDisappear:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: scrollView
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setNextButton:
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: nextButton
+2016-06-02 22:57:20 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:登录注册优化_引导页
+2016-06-02 22:57:20 app_log : Jun  2 22:54:47 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面首页停留时间: 12
+2016-06-02 22:57:20 app_log : Jun  2 22:54:47 iPhone PANewToapAPP[3238] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x6e3b810>.
+2016-06-02 22:57:20 app_log : Jun  2 22:54:50 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 登录注册优化:引导页_点击_用户名登录
+2016-06-02 22:57:20 app_log : Jun  2 22:54:51 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面登录注册优化_引导页停留时间: 4
+2016-06-02 22:57:20 app_log : Jun  2 22:54:51 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:全新登录页面
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 全新登录:全新登录_点击_确定（全新登录） parameters：{
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: headView
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView0
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView1
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView2
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView3
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWeb:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_openLink:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: failView
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: web
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView0
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView1
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView2
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView3
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView0:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: avoidRequestArray
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setAvoidRequestArray:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView1:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView2:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView3:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setHeadView:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: urlArray
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setUrlArray:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webArray
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebArray:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setFailView:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: viewWillAppear:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: viewWillDisappear:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: selectedIndex
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setSelectedIndex:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 22:57:20 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 设备启动:设备匹配 parameters：{
+2016-06-02 22:57:20 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面全新登录页面停留时间: 30
+2016-06-02 22:57:20 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: DB Error: 1 "no such table: TableBusinessCardInfo"
+2016-06-02 22:57:20 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: DB Query: SELECT * FROM 'TableBusinessCardInfo' WHERE userID = '15618971003'
+2016-06-02 22:57:20 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: DB Path: /var/mobile/Containers/Data/Application/B421C264-A62F-4270-9D2C-E719C8A36D18/Documents/6d6a47793862f3d15a3bb7717e02aef1/DBUser.sqlite
+2016-06-02 22:57:20 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 22:57:20 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 22:57:20 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:57:20 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:57:20 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 22:57:20 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:57:20 app_log : Jun  2 22:56:56 iPhone PANewToapAPP[3238] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0xad9de10>.
+2016-06-02 22:57:20 app_log : Jun  2 22:57:04 iPhone PANewToapAPP[3238] <Warning>: RFQuiltLayout: cannot fit block of size: {79.625, 85} in frame {{0, 0}, {0, 0}}!  Defaulting to 1
+2016-06-02 22:57:20 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: enterBackground
+2016-06-02 22:57:20 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面首页停留时间15
+2016-06-02 22:57:20 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 持久化缓存数据
+2016-06-02 22:57:20 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:57:20 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: TDRequestContinue send data success!

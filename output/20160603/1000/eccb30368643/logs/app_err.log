@@ -1,0 +1,20 @@
+2016-06-03 10:01:08 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.baidu.location.f in 5000ms
+2016-06-03 10:01:08 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.igexin.sdk.PushService in 14984ms
+2016-06-03 10:01:08 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.mrocker.push.service.PushService in 24948ms
+2016-06-03 10:01:18 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.baidu.location.f in 5000ms
+2016-06-03 10:01:18 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.igexin.sdk.PushService in 14984ms
+2016-06-03 10:01:18 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.mrocker.push.service.PushService in 24962ms
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.yzt.service.ReflectUtil.newInstance(ReflectUtil.java:29)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.yzt.service.ServiceManager.getService(ServiceManager.java:123)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.yzt.service.config.cache.ConfigCache.<clinit>(ConfigCache.java:28)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.yzt.service.config.ConfigService.admsAppPlugininfo(ConfigService.java:75)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.home.a.a.b(HomeModel.java:238)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.home.a.j.b(HomePresenter.java:176)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.home.ui.HomeFragment.y_(HomeFragment.java:437)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.mobile.mvp.UIViewFragment.onCreateView(UIViewFragment.java:59)
+2016-06-03 10:02:00 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.util.FragmentTabHost.onAttachedToWindow(FragmentTabHost.java:294)
+2016-06-03 10:03:35 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.asset.a.e(AssetsConstants.java:312)
+2016-06-03 10:03:35 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity.a(AssetsAddActivity.java:125)
+2016-06-03 10:03:35 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.asset.b.c.a(MyAssetsPresenter.java:1038)
+2016-06-03 10:03:35 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.treasure.asset.b.b.onSuccess(MyAssetsModel.java:77)
+2016-06-03 10:03:35 app_log : W/System.err(11622): 	at com.pingan.mobile.borrow.http.c.handleMessage(HttpCall.java:229)

@@ -1,0 +1,1504 @@
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView2
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: yzt_refreshWebView3
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView0:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: avoidRequestArray
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setAvoidRequestArray:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView1:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView2:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebView3:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setHeadView:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: urlArray
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setUrlArray:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webArray
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setWebArray:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setFailView:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: viewWillAppear:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: viewDidLoad
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: viewWillDisappear:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: selectedIndex
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: setSelectedIndex:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: className
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: .cxx_destruct
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: TalkingData: event 设备启动:设备匹配 parameters：{
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 页面首页停留时间: 7
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x29adb60>.
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 22:59:46 app_log : Jun  2 22:53:04 iPhone PANewToapAPP[3232] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 22:59:46 app_log : Jun  2 22:53:05 iPhone PANewToapAPP[3232] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:59:46 app_log : Jun  2 22:53:06 iPhone PANewToapAPP[3232] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x29adb60>.
+2016-06-02 22:59:46 app_log : Jun  2 22:53:26 iPhone assertiond[58] <Warning>: Disallowing application state monitor connection from unentitled process: PANewToapAPP (3232)
+2016-06-02 22:59:46 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: BSXPCMessage received error for message: Connection interrupted
+2016-06-02 22:59:46 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: enterBackground
+2016-06-02 22:59:46 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 页面首页停留时间21
+2016-06-02 22:59:46 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: 持久化缓存数据
+2016-06-02 22:59:46 app_log : Jun  2 22:53:26 iPhone PANewToapAPP[3232] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:59:46 app_log : Jun  2 22:53:27 iPhone PANewToapAPP[3232] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 22:59:46 app_log : Jun  2 22:54:00 iPhone installd[2516] <Notice>: 0x581000 -[MIClientConnection _doBackgroundInstallationForPath:withOptions:completion:]: Install of "/var/mobile/Media/PublicStaging/PANewToapAPP.app" type Developer requested by mobile_installation_proxy (pid 142)
+2016-06-02 22:59:46 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: objc[3238]: Class MGLivenessDetectionFrame is implemented in both /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:59:46 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: objc[3238]: Class FaceIDData is implemented in both /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:59:46 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: objc[3238]: Class MGLivenessDetector is implemented in both /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/E15B057B-B5E3-4C72-B588-359E21FEB4A7/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 22:59:46 app_log : Jun  2 22:54:06 iPhone PANewToapAPP[3238] <Error>: assertion failed: 12D508: libxpc.dylib + 51923 [0DB6E5DB-4D63-3912-8043-38BEE3B1EA27]: 0x7d
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: /var/mobile/Containers/Data/Application/B421C264-A62F-4270-9D2C-E719C8A36D18/Documents/Anydoor/db/anydoor.sqlite
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: CREATE TABLE IF NOT EXISTS hf_db_info_t (id integer primary key,version integer) 
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: INSERT INTO hf_db_info_t (id,version) VALUES (0,0)
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: 向 APNs 注册服务中....
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: TalkingData: TalkingData start sdk:iOS+talkingdata+V1.1.0/appKey:33DD4B94A344AA58F6007B6C2F32F42E/渠道:appstore
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 开始监听crash
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: device register: {
+2016-06-02 22:59:46 app_log : Jun  2 22:54:07 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 设备启动:设备启动 parameters：{
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: introDidFinish
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: setAdvertModel:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: advertModel
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: showIntroWithCrossDissolve
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: showMainViewController
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: setIntro:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: intro
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: BUGTAGS: Bugtags v1.2.3 started successfully
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: device register: {
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: TalkingData: TDRequestInitAndLaunch send data success!
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 22:59:46 app_log : Jun  2 22:54:08 iPhone PANewToapAPP[3238] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 22:59:46 app_log : Jun  2 22:54:09 iPhone assertiond[58] <Warning>: Disallowing application state monitor connection from unentitled process: PANewToapAPP (3238)
+2016-06-02 22:59:46 app_log : Jun  2 22:54:09 iPhone PANewToapAPP[3238] <Warning>: BSXPCMessage received error for message: Connection interrupted
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: headView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView0
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView1
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView2
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView3
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWeb:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_openLink:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: failView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: web
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView0
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView1
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView2
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView3
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView0:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: avoidRequestArray
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setAvoidRequestArray:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView1:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView2:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebView3:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setHeadView:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: urlArray
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setUrlArray:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webArray
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setWebArray:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setFailView:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: viewWillAppear:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: viewWillDisappear:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: selectedIndex
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: setSelectedIndex:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView:didFailLoadWithError:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: webViewDidFinishLoad:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:59:46 app_log : Jun  2 22:54:33 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: /var/mobile/Containers/Data/Application/B421C264-A62F-4270-9D2C-E719C8A36D18/Documents/Anydoor/db/anydoor_messagecenter.sqlite
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: CREATE TABLE IF NOT EXISTS hf_db_info_t (id integer primary key,version integer) 
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: INSERT INTO hf_db_info_t (id,version) VALUES (0,0)
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter'
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter_pulltime'
+2016-06-02 22:59:46 app_log : Jun  2 22:54:34 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 22:59:46 app_log : Jun  2 22:54:35 iPhone PANewToapAPP[3238] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 22:59:46 app_log : Jun  2 22:54:37 iPhone PANewToapAPP[3238] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x6e3b810>.
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 登录:首页_点击_登录 parameters：{
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: Received memory warning.
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: networkRequestFail:requestType:parameter:error:otherInfo:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setBHaveLeftArrow:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setBNotPopQuit:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: headView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: nextBtn
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setNextBtn:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: createSubViews
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: switchEnvirenment:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: buttonUneabled
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: loginPresenter
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setLoginPresenter:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: touchAction
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: onBack
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: longinInputView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: nameLable
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: userNameLoginBtn
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: headImageView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: chectPhoneNumber
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setIsNewUser:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setIsSetedPassword:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: isSetedPassword
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: onClickNextButton
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: onClickUserNameLoginBtn
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: getUserTypeWithIsSuccess:andResultModel:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: bNotPopQuit
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: bHaveLeftArrow
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: inPutDescLabel
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setInPutDescLabel:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: phoneNumView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setPhoneNumView:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setUserNameLoginBtn:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: iInputCount
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setIInputCount:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: isNewUser
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setHeadImageView:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setNameLable:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setLonginInputView:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: didReceiveMemoryWarning
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setScrollView:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: textField:shouldChangeCharactersInRange:replacementString:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: textFieldShouldReturn:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: viewWillAppear:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: viewWillDisappear:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: scrollView
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: setNextButton:
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: nextButton
+2016-06-02 22:59:46 app_log : Jun  2 22:54:46 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:登录注册优化_引导页
+2016-06-02 22:59:46 app_log : Jun  2 22:54:47 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面首页停留时间: 12
+2016-06-02 22:59:46 app_log : Jun  2 22:54:47 iPhone PANewToapAPP[3238] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x6e3b810>.
+2016-06-02 22:59:46 app_log : Jun  2 22:54:50 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 登录注册优化:引导页_点击_用户名登录
+2016-06-02 22:59:46 app_log : Jun  2 22:54:51 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面登录注册优化_引导页停留时间: 4
+2016-06-02 22:59:46 app_log : Jun  2 22:54:51 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:全新登录页面
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 全新登录:全新登录_点击_确定（全新登录） parameters：{
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: headView
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView0
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView1
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView2
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView3
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWeb:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_openLink:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: failView
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: web
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView0
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView1
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView2
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: yzt_refreshWebView3
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView0:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: avoidRequestArray
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setAvoidRequestArray:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView1:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView2:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebView3:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setHeadView:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: urlArray
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setUrlArray:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webArray
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setWebArray:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setFailView:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: viewWillAppear:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: viewDidLoad
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: viewWillDisappear:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: selectedIndex
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: setSelectedIndex:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView:didFailLoadWithError:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: webViewDidFinishLoad:
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: className
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: .cxx_destruct
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 23:00:11 app_log : Jun  2 22:55:21 iPhone PANewToapAPP[3238] <Warning>: TalkingData: event 设备启动:设备匹配 parameters：{
+2016-06-02 23:00:11 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面全新登录页面停留时间: 30
+2016-06-02 23:00:11 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: DB Error: 1 "no such table: TableBusinessCardInfo"
+2016-06-02 23:00:11 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: DB Query: SELECT * FROM 'TableBusinessCardInfo' WHERE userID = '15618971003'
+2016-06-02 23:00:11 app_log : Jun  2 22:55:22 iPhone PANewToapAPP[3238] <Warning>: DB Path: /var/mobile/Containers/Data/Application/B421C264-A62F-4270-9D2C-E719C8A36D18/Documents/6d6a47793862f3d15a3bb7717e02aef1/DBUser.sqlite
+2016-06-02 23:00:11 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:00:11 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:00:11 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:00:11 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:00:11 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:00:11 app_log : Jun  2 22:56:55 iPhone PANewToapAPP[3238] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:00:11 app_log : Jun  2 22:56:56 iPhone PANewToapAPP[3238] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0xad9de10>.
+2016-06-02 23:00:11 app_log : Jun  2 22:57:04 iPhone PANewToapAPP[3238] <Warning>: RFQuiltLayout: cannot fit block of size: {79.625, 85} in frame {{0, 0}, {0, 0}}!  Defaulting to 1
+2016-06-02 23:00:11 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: enterBackground
+2016-06-02 23:00:11 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 页面首页停留时间15
+2016-06-02 23:00:11 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: 持久化缓存数据
+2016-06-02 23:00:11 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:00:11 app_log : Jun  2 22:57:10 iPhone PANewToapAPP[3238] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:00:11 app_log : Jun  2 22:59:22 iPhone installd[2516] <Notice>: 0x685000 -[MIClientConnection _doBackgroundInstallationForPath:withOptions:completion:]: Install of "/var/mobile/Media/PublicStaging/PANewToapAPP.app" type Developer requested by mobile_installation_proxy (pid 142)
+2016-06-02 23:00:11 app_log : Jun  2 22:59:27 iPhone PANewToapAPP[3260] <Error>: objc[3260]: Class MGLivenessDetectionFrame is implemented in both /private/var/mobile/Containers/Bundle/Application/63785148-B96D-4CF8-BB0A-CB31E22BD8FF/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/63785148-B96D-4CF8-BB0A-CB31E22BD8FF/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 23:00:11 app_log : Jun  2 22:59:27 iPhone PANewToapAPP[3260] <Error>: objc[3260]: Class FaceIDData is implemented in both /private/var/mobile/Containers/Bundle/Application/63785148-B96D-4CF8-BB0A-CB31E22BD8FF/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/63785148-B96D-4CF8-BB0A-CB31E22BD8FF/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 23:00:11 app_log : Jun  2 22:59:27 iPhone PANewToapAPP[3260] <Error>: objc[3260]: Class MGLivenessDetector is implemented in both /private/var/mobile/Containers/Bundle/Application/63785148-B96D-4CF8-BB0A-CB31E22BD8FF/PANewToapAPP.app/PANewToapAPP and /private/var/mobile/Containers/Bundle/Application/63785148-B96D-4CF8-BB0A-CB31E22BD8FF/PANewToapAPP.app/PANewToapAPP. One of the two will be used. Which one is undefined.
+2016-06-02 23:00:11 app_log : Jun  2 22:59:27 iPhone PANewToapAPP[3260] <Error>: assertion failed: 12D508: libxpc.dylib + 51923 [0DB6E5DB-4D63-3912-8043-38BEE3B1EA27]: 0x7d
+2016-06-02 23:00:11 app_log : Jun  2 22:59:28 iPhone PANewToapAPP[3260] <Warning>: /var/mobile/Containers/Data/Application/80A69E2F-5C67-415B-BF3F-7C65A5AFF097/Documents/Anydoor/db/anydoor.sqlite
+2016-06-02 23:00:11 app_log : Jun  2 22:59:28 iPhone PANewToapAPP[3260] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 23:00:11 app_log : Jun  2 22:59:28 iPhone PANewToapAPP[3260] <Warning>: CREATE TABLE IF NOT EXISTS hf_db_info_t (id integer primary key,version integer) 
+2016-06-02 23:00:11 app_log : Jun  2 22:59:28 iPhone PANewToapAPP[3260] <Warning>: INSERT INTO hf_db_info_t (id,version) VALUES (0,0)
+2016-06-02 23:00:11 app_log : Jun  2 22:59:28 iPhone PANewToapAPP[3260] <Warning>: 向 APNs 注册服务中....
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TalkingData start sdk:iOS+talkingdata+V1.1.0/appKey:33DD4B94A344AA58F6007B6C2F32F42E/渠道:appstore
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 开始监听crash
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: device register: {
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 设备启动:设备启动 parameters：{
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: introDidFinish
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: setAdvertModel:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: advertModel
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: showIntroWithCrossDissolve
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: showMainViewController
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: setIntro:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: intro
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: BUGTAGS: Bugtags v1.2.3 started successfully
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: device register: {
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:00:11 app_log : Jun  2 22:59:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestInitAndLaunch send data success!
+2016-06-02 23:00:11 app_log : Jun  2 22:59:30 iPhone PANewToapAPP[3260] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 23:00:11 app_log : Jun  2 22:59:30 iPhone PANewToapAPP[3260] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 23:00:11 app_log : Jun  2 22:59:30 iPhone PANewToapAPP[3260] <Warning>: DeviceToken 获取失败，请检查证书是否正确或确认是否是在真机运行，模拟器无法实现Push推送！！
+2016-06-02 23:00:11 app_log : Jun  2 22:59:30 iPhone PANewToapAPP[3260] <Warning>: error: 未找到应用程序的“aps-environment”的授权字符串
+2016-06-02 23:00:11 app_log : Jun  2 22:59:30 iPhone assertiond[58] <Warning>: Disallowing application state monitor connection from unentitled process: PANewToapAPP (3260)
+2016-06-02 23:00:11 app_log : Jun  2 22:59:30 iPhone PANewToapAPP[3260] <Warning>: BSXPCMessage received error for message: Connection interrupted
+2016-06-02 23:00:11 app_log : Jun  2 22:59:41 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: headView
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webView0
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webView1
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webView2
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webView3
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setWeb:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: yzt_openLink:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: failView
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: web
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView0
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView1
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView2
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView3
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setWebView0:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: avoidRequestArray
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setAvoidRequestArray:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setWebView1:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setWebView2:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setWebView3:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setHeadView:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: urlArray
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setUrlArray:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webArray
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setWebArray:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setFailView:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: selectedIndex
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: setSelectedIndex:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webView:didFailLoadWithError:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: webViewDidFinishLoad:
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: /var/mobile/Containers/Data/Application/80A69E2F-5C67-415B-BF3F-7C65A5AFF097/Documents/Anydoor/db/anydoor_messagecenter.sqlite
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'hf_db_info_t'
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: CREATE TABLE IF NOT EXISTS hf_db_info_t (id integer primary key,version integer) 
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: INSERT INTO hf_db_info_t (id,version) VALUES (0,0)
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter'
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: CREATE TABLE IF NOT EXISTS anydoor_messagecenter (pullMessageId VARCHAR PRIMARY KEY NOT NULL, isDisplayed VARCHAR, isReaded VARCHAR, actionType VARCHAR,     actionValue VARCHAR, msgContent TEXT, appId VARCHAR, businessType VARCHAR, msgType VARCHAR, imgUrl VARCHAR, tag VARCHAR,     msgTitle VARCHAR, msgTime VARCHAR, userType VARCHAR, userId VARCHAR, businessTypeTxt VARCHAR, exParams VARCHAR, isProtected VARCHAR)
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: select [sql] from sqlite_master where [type] = 'table' and name = 'anydoor_messagecenter_pulltime'
+2016-06-02 23:00:11 app_log : Jun  2 22:59:55 iPhone PANewToapAPP[3260] <Warning>: CREATE TABLE IF NOT EXISTS anydoor_messagecenter_pulltime (mamcId VARCHAR, pullMsgTime VARCHAR, pullMsgType VARCHAR)
+2016-06-02 23:00:11 app_log : Jun  2 22:59:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:00:11 app_log : Jun  2 22:59:56 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:00:11 app_log : Jun  2 22:59:58 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:00:11 app_log : Jun  2 22:59:58 iPhone PANewToapAPP[3260] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x9b07a00>.
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 登录:首页_点击_登录 parameters：{
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: networkRequestFail:requestType:parameter:error:otherInfo:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setBHaveLeftArrow:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setBNotPopQuit:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: headView
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: nextBtn
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setNextBtn:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: createSubViews
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: switchEnvirenment:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: buttonUneabled
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: loginPresenter
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setLoginPresenter:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: touchAction
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: onBack
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: longinInputView
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: nameLable
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: userNameLoginBtn
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: headImageView
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: chectPhoneNumber
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setIsNewUser:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setIsSetedPassword:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: isSetedPassword
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: onClickNextButton
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: onClickUserNameLoginBtn
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: getUserTypeWithIsSuccess:andResultModel:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: bNotPopQuit
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: bHaveLeftArrow
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: inPutDescLabel
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setInPutDescLabel:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: phoneNumView
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setPhoneNumView:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setUserNameLoginBtn:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: iInputCount
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setIInputCount:
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: isNewUser
+2016-06-02 23:00:11 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setHeadImageView:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setNameLable:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setLonginInputView:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setScrollView:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: textField:shouldChangeCharactersInRange:replacementString:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: textFieldShouldReturn:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: scrollView
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: setNextButton:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: nextButton
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:登录注册优化_引导页
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 12
+2016-06-02 23:07:06 app_log : Jun  2 23:00:08 iPhone PANewToapAPP[3260] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x9b07a00>.
+2016-06-02 23:07:06 app_log : Jun  2 23:00:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 登录注册优化:引导页_点击_用户名登录
+2016-06-02 23:07:06 app_log : Jun  2 23:00:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面登录注册优化_引导页停留时间: 4
+2016-06-02 23:07:06 app_log : Jun  2 23:00:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:全新登录页面
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 全新登录:全新登录_点击_确定（全新登录） parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: headView
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webView0
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webView1
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webView2
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webView3
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setWeb:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: yzt_openLink:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: failView
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: web
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView0
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView1
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView2
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: yzt_refreshWebView3
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: headView:didSelectButton:withIndex:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setWebView0:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: avoidRequestArray
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setAvoidRequestArray:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setWebView1:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setWebView2:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setWebView3:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setHeadView:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: urlArray
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setUrlArray:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webArray
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setWebArray:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setFailView:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: selectedIndex
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: setSelectedIndex:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webView:didFailLoadWithError:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: webViewDidFinishLoad:
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 设备启动:设备匹配 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面全新登录页面停留时间: 30
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: DB Error: 1 "no such table: TableBusinessCardInfo"
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: DB Query: SELECT * FROM 'TableBusinessCardInfo' WHERE userID = '15618971003'
+2016-06-02 23:07:06 app_log : Jun  2 23:00:43 iPhone PANewToapAPP[3260] <Warning>: DB Path: /var/mobile/Containers/Data/Application/80A69E2F-5C67-415B-BF3F-7C65A5AFF097/Documents/6d6a47793862f3d15a3bb7717e02aef1/DBUser.sqlite
+2016-06-02 23:07:06 app_log : Jun  2 23:02:16 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:07:06 app_log : Jun  2 23:02:16 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:07:06 app_log : Jun  2 23:02:17 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:07:06 app_log : Jun  2 23:02:17 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:07:06 app_log : Jun  2 23:02:17 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:07:06 app_log : Jun  2 23:02:17 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:02:18 iPhone PANewToapAPP[3260] <Warning>: Unbalanced calls to begin/end appearance transitions for <UINavigationController: 0x682e8b0>.
+2016-06-02 23:07:06 app_log : Jun  2 23:02:25 iPhone PANewToapAPP[3260] <Warning>: RFQuiltLayout: cannot fit block of size: {79.625, 85} in frame {{0, 0}, {0, 0}}!  Defaulting to 1
+2016-06-02 23:07:06 app_log : Jun  2 23:02:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 总资产:首页_点击_总资产 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:02:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的资产
+2016-06-02 23:07:06 app_log : Jun  2 23:02:46 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:02:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 29
+2016-06-02 23:07:06 app_log : Jun  2 23:02:57 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的资产:我的资产_点击_添加资产(加号) parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:02:57 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:资产加挂聚合页
+2016-06-02 23:07:06 app_log : Jun  2 23:02:57 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的资产停留时间: 11
+2016-06-02 23:07:06 app_log : Jun  2 23:03:14 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的资产
+2016-06-02 23:07:06 app_log : Jun  2 23:03:14 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:03:14 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面资产加挂聚合页停留时间: 17
+2016-06-02 23:07:06 app_log : Jun  2 23:03:20 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的资产:我的资产_点击_分布图股票 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:03:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的资产:我的资产_点击_分布图房产 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:03:38 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的资产:我的资产_点击_分布图车产 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:03:47 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的资产:我的资产_点击_添加资产(banner) parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:03:47 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:资产加挂聚合页
+2016-06-02 23:07:06 app_log : Jun  2 23:03:48 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的资产停留时间: 33
+2016-06-02 23:07:06 app_log : Jun  2 23:04:04 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的资产
+2016-06-02 23:07:06 app_log : Jun  2 23:04:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面资产加挂聚合页停留时间: 17
+2016-06-02 23:07:06 app_log : Jun  2 23:04:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:07:06 app_log : Jun  2 23:04:27 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:04:28 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的资产停留时间: 23
+2016-06-02 23:07:06 app_log : Jun  2 23:04:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:07:06 app_log : Jun  2 23:04:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:07:06 app_log : Jun  2 23:04:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 保险:首页_点击_保险 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:04:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的保险_列表页
+2016-06-02 23:07:06 app_log : Jun  2 23:04:46 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:04:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 19
+2016-06-02 23:07:06 app_log : Jun  2 23:05:03 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的保险_列表页停留时间: 17
+2016-06-02 23:07:06 app_log : Jun  2 23:05:03 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:07:06 app_log : Jun  2 23:05:03 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:05:16 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:首页_点击_信用卡 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:05:16 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:07:06 app_log : Jun  2 23:05:16 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:05:17 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 13
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_添加信用卡白板 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: yzt_requestData
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: prepareWithURL:parameters:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: setAddCardtableView:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: addCardtableView
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: isAddManualBankCard
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: setIsAddManualBankCard:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: setAddSuccessReturnType:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: addSuccessReturnType
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: initWithNibName:bundle:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:28 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:07:06 app_log : Jun  2 23:05:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 12
+2016-06-02 23:07:06 app_log : Jun  2 23:05:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:07:06 app_log : Jun  2 23:05:45 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 16
+2016-06-02 23:07:06 app_log : Jun  2 23:05:45 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:07:06 app_log : Jun  2 23:05:45 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:05:52 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_添加信用卡白板 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: yzt_requestData
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: prepareWithURL:parameters:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: setAddCardtableView:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: addCardtableView
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: isAddManualBankCard
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: setIsAddManualBankCard:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: setAddSuccessReturnType:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: addSuccessReturnType
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: initWithNibName:bundle:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:07:06 app_log : Jun  2 23:05:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:07:06 app_log : Jun  2 23:06:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 16
+2016-06-02 23:07:06 app_log : Jun  2 23:06:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:07:06 app_log : Jun  2 23:06:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_查看示例卡按钮 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:06:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_办卡进度 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:06:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 27
+2016-06-02 23:07:06 app_log : Jun  2 23:06:54 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:07:06 app_log : Jun  2 23:06:54 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_信用卡申请 parameters：{
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: initSubViews
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setSelectIndex:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: initCollectionView
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: yzt_requestCreditCardData
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: selectIndex
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setSelectCards:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: selectCards
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: bigCard
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: cardTitle
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: specialDetails
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: Choosetype
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: chooseIt:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setChoosetype:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setCardTitle:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: currencyDescrpitions
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setCurrencyDescrpitions:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setSpecialDetails:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setBigCard:
+2016-06-02 23:07:06 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: data
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setData:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: collectionView
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: collectionView:didSelectItemAtIndexPath:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: collectionView:numberOfItemsInSection:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: collectionView:cellForItemAtIndexPath:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: setCollectionView:
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:07:02 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡申请_选择卡页
+2016-06-02 23:17:42 app_log : Jun  2 23:07:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡申请_选择卡页停留时间: 16
+2016-06-02 23:17:42 app_log : Jun  2 23:07:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:07:19 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:07:20 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:17:42 app_log : Jun  2 23:07:26 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_办卡进度 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:07:26 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:07:30 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:17:42 app_log : Jun  2 23:08:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:08:05 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:08:18 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_办卡进度 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:08:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 13
+2016-06-02 23:17:42 app_log : Jun  2 23:08:35 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:08:35 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:08:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_应急钱包 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:08:43 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:17:42 app_log : Jun  2 23:08:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:08:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:应急钱包产品引导页
+2016-06-02 23:17:42 app_log : Jun  2 23:08:57 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 应急钱包:引导页_点击_返回
+2016-06-02 23:17:42 app_log : Jun  2 23:08:57 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面应急钱包产品引导页停留时间: 14
+2016-06-02 23:17:42 app_log : Jun  2 23:08:57 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:09:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_信用卡分期 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:09:05 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:17:42 app_log : Jun  2 23:09:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:09:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:贷你还_引导页
+2016-06-02 23:17:42 app_log : Jun  2 23:09:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 贷你还:引导页_点击_返回
+2016-06-02 23:17:42 app_log : Jun  2 23:09:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面贷你还_引导页停留时间: 14
+2016-06-02 23:17:42 app_log : Jun  2 23:09:20 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:09:20 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:09:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_应急钱包 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:09:27 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:17:42 app_log : Jun  2 23:09:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:09:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:应急钱包产品引导页
+2016-06-02 23:17:42 app_log : Jun  2 23:09:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:17:42 app_log : Jun  2 23:09:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:17:42 app_log : Jun  2 23:09:42 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 应急钱包:引导页_点击_返回
+2016-06-02 23:17:42 app_log : Jun  2 23:09:42 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面应急钱包产品引导页停留时间: 14
+2016-06-02 23:17:42 app_log : Jun  2 23:09:42 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:09:42 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:09:49 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_任意购 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:09:49 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:09:50 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:17:42 app_log : Jun  2 23:09:59 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:17:42 app_log : Jun  2 23:10:11 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:10:11 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_信用分 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: networkRequestFail:requestType:parameter:error:otherInfo:
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: controller:state:info:
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用_首页
+2016-06-02 23:17:42 app_log : Jun  2 23:10:19 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:10:20 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用:财富_点击_信用 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:10:28 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用:资料不足弹框_点击_开始认证
+2016-06-02 23:17:42 app_log : Jun  2 23:10:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用_首页停留时间: 26
+2016-06-02 23:17:42 app_log : Jun  2 23:10:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:10:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_任意购 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:10:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:11:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_一键挂失 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pageControlValueChanged:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: contentContainer
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: setPageControl:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: setContentContainer:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: selectedController
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: updateTitleLabels
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: setPageControlHidden:animated:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: setSelectedPageIndex:animated:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: dealloc
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pageControl
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pageViewController:didFinishAnimating:previousViewControllers:transitionCompleted:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pageViewController:viewControllerBeforeViewController:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pageViewController:viewControllerAfterViewController:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pageViewController
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: setPageViewController:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: pages
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: setPages:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:11:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:一键挂失
+2016-06-02 23:17:42 app_log : Jun  2 23:11:40 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面一键挂失停留时间: 20
+2016-06-02 23:17:42 app_log : Jun  2 23:11:40 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_网点查询 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: rightBarButtonAction
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: failView
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setFailView:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: yzt_setUpSubViews
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: yzt_setUpSubViewsAutoLayout
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: isFromNearbyBranch
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: talkingDataDict
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setTalkingDataDict:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setIsFromNearbyBranch:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: selectedBankTableView
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: selectedBankSearchBar
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: cardListArray
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setCardListArray:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: havePinganBank
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setHavePinganBank:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: customBankBlock
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: searchBankButton
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: searchBank:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: presenter:networkSuccess:queryHandmadeBankListResult:error:isHaveCache:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: prepareWithURL:parameters:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setCustomBankBlock:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setSelectedBankTableView:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setSelectedBankSearchBar:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setSearchBankButton:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForFooterInSection:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: sectionIndexTitlesForTableView:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setPlaceholder:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: placeholder
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:17:42 app_log : Jun  2 23:11:48 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:网点查询_选择银行页
+2016-06-02 23:17:42 app_log : Jun  2 23:12:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面网点查询_选择银行页停留时间: 50
+2016-06-02 23:17:42 app_log : Jun  2 23:12:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_一键挂失 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pageControlValueChanged:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: contentContainer
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: setPageControl:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: setContentContainer:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: selectedController
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: updateTitleLabels
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: setPageControlHidden:animated:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: setSelectedPageIndex:animated:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: dealloc
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pageControl
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pageViewController:didFinishAnimating:previousViewControllers:transitionCompleted:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pageViewController:viewControllerBeforeViewController:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pageViewController:viewControllerAfterViewController:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pageViewController
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: setPageViewController:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: pages
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: setPages:
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 11
+2016-06-02 23:17:42 app_log : Jun  2 23:12:50 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:一键挂失
+2016-06-02 23:17:42 app_log : Jun  2 23:14:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:17:42 app_log : Jun  2 23:14:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:17:42 app_log : Jun  2 23:16:23 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:17:42 app_log : Jun  2 23:17:07 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面一键挂失停留时间: 257
+2016-06-02 23:17:42 app_log : Jun  2 23:17:07 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:17:42 app_log : Jun  2 23:17:07 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:17:42 app_log : Jun  2 23:17:20 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_应急钱包 parameters：{
+2016-06-02 23:17:42 app_log : Jun  2 23:17:21 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:17:42 app_log : Jun  2 23:17:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 13
+2016-06-02 23:17:42 app_log : Jun  2 23:17:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:应急钱包产品引导页
+2016-06-02 23:17:42 app_log : Jun  2 23:17:35 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 应急钱包:引导页_点击_返回
+2016-06-02 23:17:42 app_log : Jun  2 23:17:35 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面应急钱包产品引导页停留时间: 14
+2016-06-02 23:17:42 app_log : Jun  2 23:17:35 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:35:46 app_log : Jun  2 23:17:42 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_任意购 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:17:42 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:35:46 app_log : Jun  2 23:18:01 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:35:46 app_log : Jun  2 23:18:01 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:列表页_点击_一键挂失 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pageControlValueChanged:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: contentContainer
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: setPageControl:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: setContentContainer:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: selectedController
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: updateTitleLabels
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: setPageControlHidden:animated:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: setSelectedPageIndex:animated:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: dealloc
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pageControl
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pageViewController:didFinishAnimating:previousViewControllers:transitionCompleted:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pageViewController:viewControllerBeforeViewController:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pageViewController:viewControllerAfterViewController:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pageViewController
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: setPageViewController:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: pages
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: setPages:
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 7
+2016-06-02 23:35:46 app_log : Jun  2 23:18:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:一键挂失
+2016-06-02 23:35:46 app_log : Jun  2 23:18:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面一键挂失停留时间: 22
+2016-06-02 23:35:46 app_log : Jun  2 23:18:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_列表页
+2016-06-02 23:35:46 app_log : Jun  2 23:19:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:35:46 app_log : Jun  2 23:19:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:35:46 app_log : Jun  2 23:19:59 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_列表页停留时间: 88
+2016-06-02 23:35:46 app_log : Jun  2 23:19:59 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:35:46 app_log : Jun  2 23:20:00 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:20:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 理财·基金:首页_点击_理财·基金 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:20:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:理财基金_列表页
+2016-06-02 23:35:46 app_log : Jun  2 23:20:13 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:20:13 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 13
+2016-06-02 23:35:46 app_log : Jun  2 23:20:25 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 理财基金:理财基金列表页_点击_已加挂运营活动位
+2016-06-02 23:35:46 app_log : Jun  2 23:20:36 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 理财基金:理财基金列表页_点击_已加挂运营活动位
+2016-06-02 23:35:46 app_log : Jun  2 23:20:58 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 理财基金:理财基金未加挂页_点击_查看示例账户
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 理财基金:理财基金列表页_点击_专家咨询 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: initSubViews
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: rightDialogueBtnClick:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: functionAnimation
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: updateLoad
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: adController
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setAdController:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: firstViews
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: secondHeardViews
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: thirdHeardViews
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: lineLab:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: yzt_doGetAdInfo
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: expertPresenter
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: isClick
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setIsLogin:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: expertHeardViewMoreButton:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: presenter:didGetExpertListSuccess:socialFinanceResult:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: presenter:didGetExpertURLSuccess:expertURLResult:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: controller:state:info:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: advertisingController:willOpenAdvertModel:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: thirdView
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setThirdView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: footTableView
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setFootTableView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setAdView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: rightDialogueBtn
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setRightDialogueBtn:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: isadvertisement
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setIsadvertisement:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setExpertPresenter:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: adBusiness
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setAdBusiness:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: recomendationArray
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setRecomendationArray:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: privateArray
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setPrivateArray:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: isLogin
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setIsClick:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: dealloc
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: count
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForFooterInSection:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: viewDidLayoutSubviews
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setCount:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setTableView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: tableView
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setTimer:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: timer
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: adView
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setFirstView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: setSecondView:
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: firstView
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: secondView
+2016-06-02 23:35:46 app_log : Jun  2 23:21:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:专家_首页
+2016-06-02 23:35:46 app_log : Jun  2 23:21:10 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面理财基金_列表页停留时间: 57
+2016-06-02 23:35:46 app_log : Jun  2 23:21:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 专家:首页_点击_右上角对话图标 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:21:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面专家_首页停留时间: 22
+2016-06-02 23:35:46 app_log : Jun  2 23:21:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: page name can not be null
+2016-06-02 23:35:46 app_log : Jun  2 23:21:36 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:22:30 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:22:50 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:专家_首页
+2016-06-02 23:35:46 app_log : Jun  2 23:24:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 专家:首页_点击_右上角对话图标 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:24:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面专家_首页停留时间: 79
+2016-06-02 23:35:46 app_log : Jun  2 23:24:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: page name can not be null
+2016-06-02 23:35:46 app_log : Jun  2 23:24:12 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:24:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:35:46 app_log : Jun  2 23:24:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:35:46 app_log : Jun  2 23:25:26 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:专家_首页
+2016-06-02 23:35:46 app_log : Jun  2 23:25:35 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:26:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面专家_首页停留时间: 72
+2016-06-02 23:35:46 app_log : Jun  2 23:26:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:理财基金_列表页
+2016-06-02 23:35:46 app_log : Jun  2 23:26:39 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:27:03 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:35:46 app_log : Jun  2 23:27:03 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:27:04 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面理财基金_列表页停留时间: 24
+2016-06-02 23:35:46 app_log : Jun  2 23:29:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:35:46 app_log : Jun  2 23:29:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:35:46 app_log : Jun  2 23:29:45 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:29:54 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:31:58 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 保险:首页_点击_保险 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:31:58 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的保险_列表页
+2016-06-02 23:35:46 app_log : Jun  2 23:31:58 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:31:59 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 295
+2016-06-02 23:35:46 app_log : Jun  2 23:32:01 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:32:13 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的保险_列表页停留时间: 15
+2016-06-02 23:35:46 app_log : Jun  2 23:32:13 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:35:46 app_log : Jun  2 23:32:14 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:32:21 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:32:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 首页爆款:首页_点击_ parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:32:28 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 14
+2016-06-02 23:35:46 app_log : Jun  2 23:32:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:35:46 app_log : Jun  2 23:32:46 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:32:58 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 贷你还:首页_点击_贷你还 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:32:58 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:贷你还_引导页
+2016-06-02 23:35:46 app_log : Jun  2 23:32:59 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 13
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: <DnhCreditCardViewController: 0x12f6dd90>
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: _________________-0.000000
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: <DnhCreditCardViewController: 0x12f6dd90>
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: _________________-0.000000
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面贷你还_引导页停留时间: 16
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:贷你还_信用卡选择
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: <DnhCreditCardViewController: 0x12f6dd90>
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: <DnhCreditCardViewController: 0x12f6dd90>
+2016-06-02 23:35:46 app_log : Jun  2 23:33:15 iPhone PANewToapAPP[3260] <Warning>: <DnhCreditCardViewController: 0x12f6dd90>
+2016-06-02 23:35:46 app_log : Jun  2 23:33:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 贷你还:信用卡选择_点击_返回
+2016-06-02 23:35:46 app_log : Jun  2 23:33:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面贷你还_信用卡选择停留时间: 22
+2016-06-02 23:35:46 app_log : Jun  2 23:33:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:贷你还_引导页
+2016-06-02 23:35:46 app_log : Jun  2 23:34:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:35:46 app_log : Jun  2 23:34:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:35:46 app_log : Jun  2 23:34:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 贷你还:引导页_点击_返回
+2016-06-02 23:35:46 app_log : Jun  2 23:34:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面贷你还_引导页停留时间: 76
+2016-06-02 23:35:46 app_log : Jun  2 23:34:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:35:46 app_log : Jun  2 23:34:53 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:34:54 iPhone PANewToapAPP[3260] <Warning>: Communications error: <OS_xpc_error: <error: 0x3bfa1614> { count = 1, contents =
+2016-06-02 23:35:46 app_log : Jun  2 23:34:55 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:35:02 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:06 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:07 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:07 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:35:46 app_log : Jun  2 23:35:45 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 健康:首页_点击_健康 parameters：{
+2016-06-02 23:35:46 app_log : Jun  2 23:35:45 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:健康账户_首页
+2016-06-02 23:44:04 app_log : Jun  2 23:35:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 52
+2016-06-02 23:44:04 app_log : Jun  2 23:36:02 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面健康账户_首页停留时间: 16
+2016-06-02 23:44:04 app_log : Jun  2 23:36:02 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:44:04 app_log : Jun  2 23:36:02 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:36:15 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 存款:首页_点击_存款 parameters：{
+2016-06-02 23:44:04 app_log : Jun  2 23:36:15 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的存款_账户列表
+2016-06-02 23:44:04 app_log : Jun  2 23:36:15 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:36:15 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 13
+2016-06-02 23:44:04 app_log : Jun  2 23:36:16 iPhone PANewToapAPP[3260] <Warning>: 0
+2016-06-02 23:44:04 app_log : Jun  2 23:36:16 iPhone PANewToapAPP[3260] <Warning>: 0
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: initData
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: defineLayout
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: addSubviews
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: initSubviews
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的存款_账户列表停留时间: 9
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:36:25 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的存款_现金账户详情
+2016-06-02 23:44:04 app_log : Jun  2 23:36:40 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的存款:现金账户详情_点击_返回
+2016-06-02 23:44:04 app_log : Jun  2 23:36:40 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的存款_账户列表
+2016-06-02 23:44:04 app_log : Jun  2 23:36:40 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的存款_现金账户详情停留时间: 15
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: yzt_requestData
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: prepareWithURL:parameters:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: setAddCardtableView:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: addCardtableView
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: isAddManualBankCard
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: setIsAddManualBankCard:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: setAddSuccessReturnType:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: addSuccessReturnType
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: initWithNibName:bundle:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的存款_账户列表停留时间: 5
+2016-06-02 23:44:04 app_log : Jun  2 23:36:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:36:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:添加信用卡页_点击_邮箱账单导入
+2016-06-02 23:44:04 app_log : Jun  2 23:36:56 iPhone PANewToapAPP[3260] <Warning>: initSubviews
+2016-06-02 23:44:04 app_log : Jun  2 23:36:56 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:44:04 app_log : Jun  2 23:36:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 10
+2016-06-02 23:44:04 app_log : Jun  2 23:36:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_他行信用卡账单导入页
+2016-06-02 23:44:04 app_log : Jun  2 23:37:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_他行信用卡账单导入页停留时间: 16
+2016-06-02 23:44:04 app_log : Jun  2 23:37:12 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:37:18 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:添加信用卡页_点击_网银账单导入
+2016-06-02 23:44:04 app_log : Jun  2 23:37:18 iPhone PANewToapAPP[3260] <Warning>: leftBtnItemAction
+2016-06-02 23:44:04 app_log : Jun  2 23:37:18 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 5
+2016-06-02 23:44:04 app_log : Jun  2 23:37:18 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_选择银行页
+2016-06-02 23:44:04 app_log : Jun  2 23:37:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的存款:网银导入选择银行_点击_返回
+2016-06-02 23:44:04 app_log : Jun  2 23:37:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_选择银行页停留时间: 12
+2016-06-02 23:44:04 app_log : Jun  2 23:37:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:添加信用卡页_点击_手工添加
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: yzt_setUpSubViews
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: yzt_setUpSubViewsAutoLayout
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: yzt_titleForNetFailedView:withNetFailedType:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: yzt_netFailedView:didTapView:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: keyboardWillClosed:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didSelectedCreditCardManualAddTextFieldCell:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didChangedText:currentText:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: yzt_checkSaveButtonState
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didSelectedCreditCardCameraCell:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didChangedCreditCardCameraCellText:currentText:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: creditCardCameraCell:didScanImageWithCreditCardNo:isSuccess:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: presenter:querySystemTimeResult:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: presenter:addHandmadeCreditCardResult:result:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: setCustomCreditCardBank:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: customCreditCardBank
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didSelectedBank:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: setSelectedBankModel:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: selectedBankModel
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didClickAccessoryButton:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: didSelectedDate:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: manualAddCreditCardTableView
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: yzt_handleKeyboardNotification:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: saveFootView
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: saveButtonClick:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: setManualAddCreditCardTableView:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: setSaveFootView:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: dealloc
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: saveButton
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: setSaveButton:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: tapAction
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: keyboardWillShow:
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 8
+2016-06-02 23:44:04 app_log : Jun  2 23:37:39 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_手工添加页
+2016-06-02 23:44:04 app_log : Jun  2 23:37:59 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_手工添加页停留时间: 20
+2016-06-02 23:44:04 app_log : Jun  2 23:37:59 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:添加信用卡页_点击_平安银行信用卡
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: yzt_setUpSubViews
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: setTitleArr:
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: titleArr
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: yzt_loadData
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: addBtnAction
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: reLoginBtnAction
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: presenter:requestUserLogout:result:error:
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: subTitleArr
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: setSubTitleArr:
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 5
+2016-06-02 23:44:04 app_log : Jun  2 23:38:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加平安信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:38:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加平安信用卡页停留时间: 16
+2016-06-02 23:44:04 app_log : Jun  2 23:38:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:39:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:44:04 app_log : Jun  2 23:39:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:添加信用卡页_点击_平安银行信用卡
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: yzt_setUpSubViews
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: setTitleArr:
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: titleArr
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: yzt_loadData
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: addBtnAction
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: reLoginBtnAction
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: presenter:requestUserLogout:result:error:
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: subTitleArr
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: setSubTitleArr:
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 69
+2016-06-02 23:44:04 app_log : Jun  2 23:39:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加平安信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:39:47 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加平安信用卡页停留时间: 16
+2016-06-02 23:44:04 app_log : Jun  2 23:39:47 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:41:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 78
+2016-06-02 23:44:04 app_log : Jun  2 23:41:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的存款_账户列表
+2016-06-02 23:44:04 app_log : Jun  2 23:41:05 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: yzt_requestData
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: prepareWithURL:parameters:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: setAddCardtableView:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: addCardtableView
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: isAddManualBankCard
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: setIsAddManualBankCard:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: setAddSuccessReturnType:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: addSuccessReturnType
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: initWithNibName:bundle:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: setPresenter:
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: presenter
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的存款_账户列表停留时间: 69
+2016-06-02 23:44:04 app_log : Jun  2 23:42:14 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡_添加信用卡页
+2016-06-02 23:44:04 app_log : Jun  2 23:42:33 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡_添加信用卡页停留时间: 18
+2016-06-02 23:44:04 app_log : Jun  2 23:42:33 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:我的存款_账户列表
+2016-06-02 23:44:04 app_log : Jun  2 23:42:33 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:42:35 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:44:04 app_log : Jun  2 23:43:51 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 我的存款:账户列表_点击_返回
+2016-06-02 23:44:04 app_log : Jun  2 23:43:51 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面我的存款_账户列表停留时间: 78
+2016-06-02 23:44:04 app_log : Jun  2 23:43:51 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:首页
+2016-06-02 23:44:04 app_log : Jun  2 23:43:51 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:44:04 app_log : Jun  2 23:43:58 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:49:46 app_log : Jun  2 23:44:04 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 车·车险:首页_点击_车·车险 parameters：{
+2016-06-02 23:49:46 app_log : Jun  2 23:44:04 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:44:05 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:49:46 app_log : Jun  2 23:44:05 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:49:46 app_log : Jun  2 23:44:05 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:49:46 app_log : Jun  2 23:44:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面首页停留时间: 14
+2016-06-02 23:49:46 app_log : Jun  2 23:44:17 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 12
+2016-06-02 23:49:46 app_log : Jun  2 23:44:19 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:49:46 app_log : Jun  2 23:44:27 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:49:46 app_log : Jun  2 23:44:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:49:46 app_log : Jun  2 23:44:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:49:46 app_log : Jun  2 23:44:36 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:44:36 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:49:46 app_log : Jun  2 23:44:43 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 23:49:46 app_log : Jun  2 23:45:02 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:45:02 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:49:46 app_log : Jun  2 23:45:09 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:10 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:13 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:49:46 app_log : Jun  2 23:45:18 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:49:46 app_log : Jun  2 23:45:27 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:45:27 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:34 iPhone PANewToapAPP[3260] <Error>:  SecTrustEvaluate  [leaf AnchorTrusted]
+2016-06-02 23:49:46 app_log : Jun  2 23:45:52 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:45:58 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:49:46 app_log : Jun  2 23:45:58 iPhone PANewToapAPP[3260] <Warning>: Unable to simultaneously satisfy constraints.
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_车贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: paramUI
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: fixSeperateLine
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 16
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:46:08 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车抵贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:46:24 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间: 15
+2016-06-02 23:49:46 app_log : Jun  2 23:46:24 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_违章查询
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: initUI
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: initParam
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: carNum
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: createTableView
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setCarNum:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: getNewString:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: carEngineNum
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: carFrameNum
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: myTag
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: createFooterView
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: startCheckResult:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: didCellButtonClicked:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: cellEngineViewTextFieldDidChange:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setMyTag:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: carBrand
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setCarBrand:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: carID
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setCarID:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setCarFrameNum:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setCarEngineNum:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: mainTableView
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: setMainTableView:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: switchAction:
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 7
+2016-06-02 23:49:46 app_log : Jun  2 23:46:31 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:违章查询_查询其他车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:46:49 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面违章查询_查询其他车辆页停留时间: 18
+2016-06-02 23:49:46 app_log : Jun  2 23:46:49 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:46:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_买车险
+2016-06-02 23:49:46 app_log : Jun  2 23:46:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 7
+2016-06-02 23:49:46 app_log : Jun  2 23:46:56 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:买车险
+2016-06-02 23:49:46 app_log : Jun  2 23:47:14 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面买车险停留时间: 18
+2016-06-02 23:49:46 app_log : Jun  2 23:47:14 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:47:14 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_购车贷款
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: paramUI
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: fixSeperateLine
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 23:49:46 app_log : Jun  2 23:47:21 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_车贷款页
+2016-06-02 23:49:46 app_log : Jun  2 23:47:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_车贷款页停留时间: 15
+2016-06-02 23:49:46 app_log : Jun  2 23:47:37 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_车贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: paramUI
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: fixSeperateLine
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 7
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:47:44 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车抵贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:车贷款_点击车贷计算器
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: initParamUI
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: failView
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: setFailView:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: requestWebView
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: KWebView
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: backAction:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: closeAction:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: WKWeb
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: setWKWeb:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: setKWebView:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: URLEncodedString:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: webView:didFailLoadWithError:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: webViewDidStartLoad:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: webViewDidFinishLoad:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: userContentController:didReceiveScriptMessage:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: initWithInteger:
+2016-06-02 23:49:46 app_log : Jun  2 23:47:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间: 9
+2016-06-02 23:49:46 app_log : Jun  2 23:49:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:49:46 app_log : Jun  2 23:49:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:49:46 app_log : Jun  2 23:49:38 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:车贷款_点击车贷计算器
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: initParamUI
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: failView
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: setFailView:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: requestWebView
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: KWebView
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: backAction:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: closeAction:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: WKWeb
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: setWKWeb:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: setKWebView:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: URLEncodedString:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: webView:didFailLoadWithError:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: webView:shouldStartLoadWithRequest:navigationType:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: webViewDidStartLoad:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: webViewDidFinishLoad:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: userContentController:didReceiveScriptMessage:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: initWithInteger:
+2016-06-02 23:55:25 app_log : Jun  2 23:49:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间: 8
+2016-06-02 23:55:25 app_log : Jun  2 23:50:03 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 23:55:25 app_log : Jun  2 23:50:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间: 15
+2016-06-02 23:55:25 app_log : Jun  2 23:50:19 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:55:25 app_log : Jun  2 23:50:19 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:55:25 app_log : Jun  2 23:51:22 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_车贷计算器
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: paramUI
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: fixSeperateLine
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 71
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_小工具页
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车贷计算器
+2016-06-02 23:55:25 app_log : Jun  2 23:51:30 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:小工具_点击_车抵贷计算器
+2016-06-02 23:55:25 app_log : Jun  2 23:51:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_小工具页停留时间: 15
+2016-06-02 23:55:25 app_log : Jun  2 23:51:46 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:汽车加挂_我的车辆页
+2016-06-02 23:55:25 app_log : Jun  2 23:51:46 iPhone PANewToapAPP[3260] <Warning>: UIDeviceWhiteColorSpace 0 1
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 汽车加挂:我的车辆_点击_车主信用卡
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: initSubViews
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setSelectIndex:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: initCollectionView
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: yzt_requestCreditCardData
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: selectIndex
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setSelectCards:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: selectCards
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: bigCard
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: cardTitle
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: specialDetails
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: Choosetype
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: chooseIt:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setChoosetype:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setCardTitle:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: currencyDescrpitions
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setCurrencyDescrpitions:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setSpecialDetails:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setBigCard:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: data
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setData:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: collectionView
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: collectionView:didSelectItemAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: collectionView:numberOfItemsInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: collectionView:cellForItemAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: setCollectionView:
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面汽车加挂_我的车辆页停留时间: 6
+2016-06-02 23:55:25 app_log : Jun  2 23:51:53 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡申请_选择卡页
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:选卡面_点击_就选这个卡片
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: IDTakePhotoFinishWithUserInfo:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: initSubViews
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: card
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setCard:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setPageControl:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: cardTitle
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: specialDetails
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: initWithCards:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: chooseIt:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setCardTitle:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: currencyDescrpitions
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setCurrencyDescrpitions:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setSpecialDetails:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setCards:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: cards
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: currenciesDetails
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: requestIdentityInfo
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setCurrenciesDetails:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: scrollViewDidEndDecelerating:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: collectionView
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: collectionView:didSelectItemAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: collectionView:numberOfItemsInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: collectionView:cellForItemAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: viewDidAppear:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: pageControl
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: setCollectionView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡申请_选择卡页停留时间: 132
+2016-06-02 23:55:25 app_log : Jun  2 23:54:05 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:信用卡申请_选择卡面页
+2016-06-02 23:55:25 app_log : Jun  2 23:54:07 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:55:25 app_log : Jun  2 23:54:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: send data to talkingdata server
+2016-06-02 23:55:25 app_log : Jun  2 23:54:29 iPhone PANewToapAPP[3260] <Warning>: TalkingData: TDRequestContinue send data success!
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: TalkingData: event 信用卡:选卡_点击_就选这张
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: initData
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: uploadAndScanImage:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: openEditor:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: createRoundedRectImage:size:radius:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: addTopScrollView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: confirmBtnAction
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: didFinishedFetchCard:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: resetMessage:Tag:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: cropViewController:didFinishCroppingImage:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: cropViewControllerDidCancel:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: ad_scrollView
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setAd_scrollView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: moreTableView
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setMoreTableView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: initWithNibName:bundle:viewMode:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setIsFromPAWalletFlow:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: photoHandle:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: customModalView:selectString:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setIsFromApplyCreditCard:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setViewFrom:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setIsFromDnh:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: resetCardInfo:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: getImageFileById:WithType:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setIsFromOpenAccount:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: walletFlowController
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setWalletFlowController:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableDate
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setTableDate:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: reloadIDCardView
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: viewModel
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: isFromApplyCreditCard
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: hasFullIDCardInfo
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: showActionsheetWithPhotoCount:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setTakePhotoViewWithCount:WithView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: takePicture:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: viewFrom
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: uploadIdentityCardImageToserver:withCount:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: datepickerAction
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: isFromPAWalletFlow
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: isFromDnh
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: isFromOpenAccount
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: isFromMyLoan
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: isFromMyFinance
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: requestUploadIdentityInfo
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setViewModel:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: deleteInfoBTN
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setDeleteInfoBTN:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setPromptView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setIsFromMyLoan:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setIsFromMyFinance:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: setDelegate:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:willDisplayCell:forRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForHeaderInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:heightForFooterInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForHeaderInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:viewForFooterInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:didSelectRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: scrollViewDidEndDecelerating:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:numberOfRowsInSection:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableView:cellForRowAtIndexPath:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: numberOfSectionsInTableView:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: delegate
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: didReceiveMemoryWarning
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: actionSheet:clickedButtonAtIndex:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: actionSheet:willDismissWithButtonIndex:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: actionSheet:didDismissWithButtonIndex:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: touchesBegan:withEvent:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: viewDidLayoutSubviews
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: promptView
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: viewWillAppear:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: viewDidLoad
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: viewWillDisappear:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: imagePickerControllerDidCancel:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: imagePickerController:didFinishPickingMediaWithInfo:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: className
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: tableDataSource
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: .cxx_destruct
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: cancel:
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: TalkingData: 页面信用卡申请_选择卡面页停留时间: 48
+2016-06-02 23:55:25 app_log : Jun  2 23:54:54 iPhone PANewToapAPP[3260] <Warning>: TalkingData: trackPage begin pageName:实名认证_认证信息列表
+2016-06-02 23:55:25 app_log : Jun  2 23:54:57 iPhone PANewToapAPP[3260] <Warning>: Received memory warning.
+2016-06-02 23:55:25 app_log : Jun  2 23:55:25 iPhone PANewToapAPP[3260] <Warning>: setInputType:
+2016-06-02 23:55:25 app_log : Jun  2 23:55:25 iPhone PANewToapAPP[3260] <Warning>: inputType
+2016-06-02 23:55:25 app_log : Jun  2 23:55:25 iPhone PANewToapAPP[3260] <Warning>: textFiledEditChanged:
+2016-06-02 23:55:25 app_log : Jun  2 23:55:25 iPhone PANewToapAPP[3260] <Warning>: setCanSetEmptyName:

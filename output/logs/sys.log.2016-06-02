@@ -1,0 +1,126 @@
+2016-06-02 22:43:38 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-02 22:43:38 sys_log : [INFO] mode=2
+2016-06-02 22:43:38 sys_log : [INFO] depth=3
+2016-06-02 22:43:38 sys_log : [INFO] port=5757
+2016-06-02 22:43:38 sys_log : [INFO] reverse=1
+2016-06-02 22:43:38 sys_log : [INFO] filter=1
+2016-06-02 22:43:38 sys_log : [INFO] port=5757
+2016-06-02 22:43:38 sys_log : [INFO] duration=0
+2016-06-02 22:43:38 sys_log : [INFO] interval=1
+2016-06-02 22:43:38 sys_log : [INFO] timeout=60
+2016-06-02 22:43:38 sys_log : [INFO] host=127.0.0.1
+2016-06-02 22:43:38 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-02 22:43:38 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-02 22:43:38 sys_log : [INFO] tips=null
+2016-06-02 22:43:38 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160602224338/
+2016-06-02 22:43:38 sys_log : [INFO] appPackage=null
+2016-06-02 22:43:38 sys_log : [INFO] identifyDefault=8
+2016-06-02 22:43:38 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-02 22:43:38 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-02 22:43:38 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-02 22:43:38 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-02 22:43:38 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-02 22:43:38 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-02 22:43:38 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-02 22:43:38 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-02 22:43:38 sys_log : [INFO] #########################################################################
+2016-06-02 22:43:38 sys_log : [INFO] date = 20160602
+2016-06-02 22:43:38 sys_log : [INFO] time = 2243
+2016-06-02 22:43:38 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-02 22:43:38 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-02 22:43:38 sys_log : [INFO] noReset = false
+2016-06-02 22:43:38 sys_log : [INFO] autoLaunch = true
+2016-06-02 22:43:38 sys_log : [INFO] appiumVersion = 1.0
+2016-06-02 22:43:38 sys_log : [INFO] platformVersion = 8.2
+2016-06-02 22:43:38 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-02 22:43:38 sys_log : [INFO] language = zh-Hans
+2016-06-02 22:43:38 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-02 22:43:38 sys_log : [INFO] platformName = iOS
+2016-06-02 22:43:38 sys_log : [INFO] deviceName = iPhone 5
+2016-06-02 22:43:38 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-02 22:43:38 sys_log : [INFO] ###########################################################################
+2016-06-02 22:43:38 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-02 22:53:38 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-02 22:53:38 sys_log : [INFO] mode=2
+2016-06-02 22:53:38 sys_log : [INFO] depth=3
+2016-06-02 22:53:38 sys_log : [INFO] port=5757
+2016-06-02 22:53:38 sys_log : [INFO] reverse=1
+2016-06-02 22:53:38 sys_log : [INFO] filter=1
+2016-06-02 22:53:38 sys_log : [INFO] port=5757
+2016-06-02 22:53:38 sys_log : [INFO] duration=0
+2016-06-02 22:53:38 sys_log : [INFO] interval=1
+2016-06-02 22:53:38 sys_log : [INFO] timeout=60
+2016-06-02 22:53:38 sys_log : [INFO] host=127.0.0.1
+2016-06-02 22:53:38 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-02 22:53:38 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-02 22:53:38 sys_log : [INFO] tips=null
+2016-06-02 22:53:38 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160602225338/
+2016-06-02 22:53:38 sys_log : [INFO] appPackage=null
+2016-06-02 22:53:38 sys_log : [INFO] identifyDefault=8
+2016-06-02 22:53:38 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-02 22:53:38 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-02 22:53:38 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-02 22:53:38 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-02 22:53:38 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-02 22:53:38 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-02 22:53:38 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-02 22:53:38 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-02 22:53:38 sys_log : [INFO] #########################################################################
+2016-06-02 22:53:39 sys_log : [INFO] date = 20160602
+2016-06-02 22:53:39 sys_log : [INFO] time = 2253
+2016-06-02 22:53:39 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-02 22:53:39 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-02 22:53:39 sys_log : [INFO] noReset = false
+2016-06-02 22:53:39 sys_log : [INFO] autoLaunch = true
+2016-06-02 22:53:39 sys_log : [INFO] appiumVersion = 1.0
+2016-06-02 22:53:39 sys_log : [INFO] platformVersion = 8.2
+2016-06-02 22:53:39 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-02 22:53:39 sys_log : [INFO] language = zh-Hans
+2016-06-02 22:53:39 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-02 22:53:39 sys_log : [INFO] platformName = iOS
+2016-06-02 22:53:39 sys_log : [INFO] deviceName = iPhone 5
+2016-06-02 22:53:39 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-02 22:53:39 sys_log : [INFO] ###########################################################################
+2016-06-02 22:53:39 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-02 22:59:03 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-02 22:59:03 sys_log : [INFO] mode=2
+2016-06-02 22:59:03 sys_log : [INFO] depth=3
+2016-06-02 22:59:03 sys_log : [INFO] port=5757
+2016-06-02 22:59:03 sys_log : [INFO] reverse=1
+2016-06-02 22:59:03 sys_log : [INFO] filter=1
+2016-06-02 22:59:03 sys_log : [INFO] port=5757
+2016-06-02 22:59:03 sys_log : [INFO] duration=0
+2016-06-02 22:59:03 sys_log : [INFO] interval=1
+2016-06-02 22:59:03 sys_log : [INFO] timeout=60
+2016-06-02 22:59:03 sys_log : [INFO] host=127.0.0.1
+2016-06-02 22:59:03 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-02 22:59:03 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-02 22:59:03 sys_log : [INFO] tips=null
+2016-06-02 22:59:03 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160602225903/
+2016-06-02 22:59:03 sys_log : [INFO] appPackage=null
+2016-06-02 22:59:03 sys_log : [INFO] identifyDefault=8
+2016-06-02 22:59:03 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-02 22:59:03 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-02 22:59:03 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-02 22:59:03 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-02 22:59:03 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-02 22:59:03 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-02 22:59:03 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-02 22:59:03 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-02 22:59:03 sys_log : [INFO] #########################################################################
+2016-06-02 22:59:03 sys_log : [INFO] date = 20160602
+2016-06-02 22:59:03 sys_log : [INFO] time = 2259
+2016-06-02 22:59:03 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-02 22:59:03 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-02 22:59:03 sys_log : [INFO] noReset = false
+2016-06-02 22:59:03 sys_log : [INFO] autoLaunch = true
+2016-06-02 22:59:03 sys_log : [INFO] appiumVersion = 1.0
+2016-06-02 22:59:03 sys_log : [INFO] platformVersion = 8.2
+2016-06-02 22:59:03 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-02 22:59:03 sys_log : [INFO] language = zh-Hans
+2016-06-02 22:59:03 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-02 22:59:03 sys_log : [INFO] platformName = iOS
+2016-06-02 22:59:03 sys_log : [INFO] deviceName = iPhone 5
+2016-06-02 22:59:03 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-02 22:59:03 sys_log : [INFO] ###########################################################################
+2016-06-02 22:59:03 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub

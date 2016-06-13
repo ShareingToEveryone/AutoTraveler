@@ -1,0 +1,9 @@
+2016-06-02 22:57:19 sys_log : [ERROR]   节点任务 -> [info = UIAImage,home_bg_night,,,/0/0/4], 发生未知异常, 弹出下一个节点任务, 187ea068ebc93a06192abbb8b02caca5-0,0-320,519-//UIAApplication[1]/UIAWindow[1]/UIAImage[2]
+2016-06-02 22:57:19 sys_log : [ERROR]   org.openqa.selenium.WebDriverException: Instruments died while responding to command, please check appium logs (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.70 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'macdeMBP', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_74'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities [{app=/Users/mac/Desktop/apk/PANewToapAPP.app, networkConnectionEnabled=false, noReset=false, warnings={}, appiumVersion=1.0, bundleId=com.pingan.yizhangtong, language=zh-Hans, databaseEnabled=false, deviceName=iPhone 5, platform=MAC, desired={app=/Users/mac/Desktop/apk/PANewToapAPP.app, noReset=false, autoLaunch=true, appiumVersion=1.0, platformVersion=8.2, bundleId=com.pingan.yizhangtong, language=zh-Hans, udid=d32975a39224bc409796bcdc75956cd6530edbdb, platformName=iOS, deviceName=iPhone 5, autoAcceptAlerts=true}, autoLaunch=true, platformVersion=8.2, webStorageEnabled=false, locationContextEnabled=false, browserName=iOS, takesScreenshot=true, javascriptEnabled=true, udid=d32975a39224bc409796bcdc75956cd6530edbdb, platformName=iOS, autoAcceptAlerts=true}]
+Session ID: ca3eee56-eee6-4c27-9621-c3b8e94ad4c8
+2016-06-02 22:57:19 sys_log : [ERROR]   会话丢失,退出 >> 节点任务 -> [info = UIAButton,PA01100000001_02_WDCX,PA01100000001_02_WDCX,,/0/0/5/0/2], NoSuchSessionException, 弹出下一个节点任务, 187ea068ebc93a06192abbb8b02caca5-31.5,435-84,84-//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIAButton[1]

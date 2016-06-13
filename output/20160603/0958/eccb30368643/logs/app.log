@@ -1,0 +1,527 @@
+2016-06-03 09:59:34 app_log : I/binder_sample(23008): [android.hardware.display.IDisplayManager,1,54,com.pingan.yzt:pushservice,10]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14969]
+2016-06-03 09:59:34 app_log : I/am_broadcast_discard_filter(  974): [0,1104560752,AlarmTaskSchedule.com.pingan.yzt,0,1104306032]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24944]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,26063,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,26063,com.pingan.yzt:pushservice]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1114788624,com.pingan.yzt/com.igexin.sdk.PushService,26063]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,26095,10075,com.pingan.yzt,service,com.pingan.yzt/com.igexin.sdk.PushServiceUser]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,26095,com.pingan.yzt]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1110538360,com.pingan.yzt/com.igexin.sdk.PushServiceUser,26095]
+2016-06-03 09:59:34 app_log : I/binder_sample(26095): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,10,com.pingan.yzt,2]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,26165,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,26165,com.pingan.yzt:push]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1111200544,com.pingan.yzt/com.mrocker.push.service.PushService,26165]
+2016-06-03 09:59:34 app_log : I/binder_sample(26165): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,5,com.pingan.yzt:push,1]
+2016-06-03 09:59:34 app_log : I/binder_sample(26095): [android.app.IActivityManager,83,6,com.pingan.yzt,1]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,26226,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,26226,com.pingan.yzt:remote]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1113931072,com.pingan.yzt/com.baidu.location.f,26226]
+2016-06-03 09:59:34 app_log : I/binder_sample(26226): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:remote,1]
+2016-06-03 09:59:34 app_log : I/binder_sample(26063): [android.app.IActivityManager,16,268,com.pingan.yzt:pushservice,53]
+2016-06-03 09:59:34 app_log : I/binder_sample(26063): [android.app.IActivityManager,16,269,com.pingan.yzt:pushservice,53]
+2016-06-03 09:59:34 app_log : I/binder_sample(26165): [android.app.IAlarmManager,6,34,com.pingan.yzt:push,6]
+2016-06-03 09:59:34 app_log : I/binder_sample(26063): [android.app.IActivityManager,16,13,com.pingan.yzt:pushservice,2]
+2016-06-03 09:59:34 app_log : I/binder_sample(26165): [android.app.IActivityManager,61,41,com.pingan.yzt:push,8]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1111059736,168,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1111059736,168,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(26095): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1111059736,com.pingan.yzt/.SplashActivityPro,308,308]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1111511336,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,26063]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1111384840,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,26095]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1102713128,168,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1111059736,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1111059736,168,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(26095): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1102713128,168,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(26095): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1102713128,com.pingan.yzt/.FirstIntroduceActivity,403,403]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1111059736,168,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1103042320,168,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1102713128,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1102713128,168,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(26095): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1103042320,168,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(26095): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.MainActivity,2879,2879]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1102713128,168,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(26095): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14989]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24966]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1103042320,168,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1103042320,168,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1109313104,170,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,28473,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,28473,com.pingan.yzt]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1109313104,170,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1103458264,170,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1109313104,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,28509,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,28509,com.pingan.yzt:tools]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1103458264,170,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(28509): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1103458264,com.pingan.yzt/.SplashActivityProForMultidex,339,971]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1103458264,170,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1103458264,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:34 app_log : I/am_proc_died(  974): [0,28509,com.pingan.yzt:tools]
+2016-06-03 09:59:34 app_log : I/am_resume_activity(  974): [0,1109313104,170,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/binder_sample(28473): [android.content.pm.IPackageManager,1,44,com.pingan.yzt,8]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,28628,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,28628,com.pingan.yzt:push]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1111511336,com.pingan.yzt/com.mrocker.push.service.PushService,28628]
+2016-06-03 09:59:34 app_log : I/binder_sample(28628): [android.content.pm.IPackageManager,10,8,com.pingan.yzt:push,1]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(28473): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(28473): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_failed_to_pause(  974): [0,1109313104,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(28473): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1109313104,com.pingan.yzt/.SplashActivityPro,10485,10485]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,28704,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,28704,com.pingan.yzt:pushservice]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1106624456,com.pingan.yzt/com.igexin.sdk.PushService,28704]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,28720,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,28720,com.pingan.yzt:remote]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1104815608,com.pingan.yzt/com.baidu.location.f,28720]
+2016-06-03 09:59:34 app_log : I/binder_sample(28720): [android.content.pm.IPackageManager,1,6,com.pingan.yzt:remote,1]
+2016-06-03 09:59:34 app_log : I/binder_sample(28704): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,5,com.pingan.yzt:pushservice,1]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1115843208,com.pingan.yzt/com.igexin.sdk.PushServiceUser,28473]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1103496568,170,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1109313104,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1109313104,170,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(28473): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1103496568,170,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(28473): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1103496568,com.pingan.yzt/.FirstIntroduceActivity,436,436]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1109313104,170,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1111487776,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,28704]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1104555120,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,28473]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1103496568,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(28473): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14985]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24952]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1103496568,170,com.pingan.yzt/.FirstIntroduceActivity,force-stop]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1103496568,170,com.pingan.yzt/.FirstIntroduceActivity,finish-idle]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1101343008,171,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,29472,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,29472,com.pingan.yzt]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1101343008,171,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,29543,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,29543,com.pingan.yzt:push]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1117462744,com.pingan.yzt/com.mrocker.push.service.PushService,29543]
+2016-06-03 09:59:34 app_log : I/binder_sample(29543): [android.content.pm.IPackageManager,10,9,com.pingan.yzt:push,1]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(29472): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,1551,1551]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,29600,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,29600,com.pingan.yzt:pushservice]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1111511336,com.pingan.yzt/com.igexin.sdk.PushService,29600]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,29613,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,29613,com.pingan.yzt:remote]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1116000848,com.pingan.yzt/com.baidu.location.f,29613]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1115462736,com.pingan.yzt/com.igexin.sdk.PushServiceUser,29472]
+2016-06-03 09:59:34 app_log : I/binder_sample(29613): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,7,com.pingan.yzt:remote,1]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1115118056,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,29600]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1102713128,171,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1101343008,171,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(29472): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1102713128,171,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1114912456,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,29472]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(29472): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1102713128,com.pingan.yzt/.FirstIntroduceActivity,335,335]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1101343008,171,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1103042320,171,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1102713128,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1102713128,171,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(29472): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1103042320,171,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(29472): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.MainActivity,2853,2853]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1102713128,171,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(29472): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14990]
+2016-06-03 09:59:34 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24968]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1103042320,171,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-03 09:59:34 app_log : I/am_destroy_activity(  974): [0,1103042320,171,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1109000160,172,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,31704,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,31704,com.pingan.yzt]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1109000160,172,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,31770,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,31770,com.pingan.yzt:push]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1117462744,com.pingan.yzt/com.mrocker.push.service.PushService,31770]
+2016-06-03 09:59:34 app_log : I/binder_sample(31770): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,7,com.pingan.yzt:push,1]
+2016-06-03 09:59:34 app_log : I/am_on_resume_called(31704): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_activity_launch_time(  974): [0,1109000160,com.pingan.yzt/.SplashActivityPro,1543,1543]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,31832,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,31832,com.pingan.yzt:pushservice]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1115843208,com.pingan.yzt/com.igexin.sdk.PushService,31832]
+2016-06-03 09:59:34 app_log : I/am_proc_start(  974): [0,31845,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:34 app_log : I/am_proc_bound(  974): [0,31845,com.pingan.yzt:remote]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1114912456,com.pingan.yzt/com.baidu.location.f,31845]
+2016-06-03 09:59:34 app_log : I/binder_sample(31832): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:pushservice,1]
+2016-06-03 09:59:34 app_log : I/binder_sample(31845): [,1,5,com.pingan.yzt:remote,1]
+2016-06-03 09:59:34 app_log : I/am_create_service(  974): [0,1114499480,com.pingan.yzt/com.igexin.sdk.PushServiceUser,31704]
+2016-06-03 09:59:34 app_log : I/am_create_activity(  974): [0,1102713128,172,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:34 app_log : I/am_pause_activity(  974): [0,1109000160,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_finish_activity(  974): [0,1109000160,172,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:34 app_log : I/am_on_paused_called(31704): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:34 app_log : I/am_restart_activity(  974): [0,1102713128,172,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:34 app_log : I/binder_sample(31704): [android.app.IActivityManager,19,6,com.pingan.yzt,1]
+2016-06-03 09:59:34 app_log : I/binder_sample(31704): [android.content.pm.IPackageManager,1,40,com.pingan.yzt,8]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called(31704): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1112232904,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,31704]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1102713128,com.pingan.yzt/.MainActivity,2501,2501]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1105558824,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,31832]
+2016-06-03 09:59:35 app_log : I/am_destroy_activity(  974): [0,1109000160,172,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:35 app_log : I/binder_sample(31832): [android.app.IActivityManager,16,20,com.pingan.yzt:pushservice,4]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1102713128,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_on_paused_called(31704): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14983]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24962]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1102713128,172,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-03 09:59:35 app_log : I/am_destroy_activity(  974): [0,1102713128,172,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1103042320,173,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,32716,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,32716,com.pingan.yzt]
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1103042320,173,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,328,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,328,com.pingan.yzt:push]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1116000848,com.pingan.yzt/com.mrocker.push.service.PushService,328]
+2016-06-03 09:59:35 app_log : I/binder_sample(  328): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:push,1]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called(32716): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.SplashActivityPro,1588,1588]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,406,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,406,com.pingan.yzt:pushservice]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1115118056,com.pingan.yzt/com.igexin.sdk.PushService,406]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,422,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,422,com.pingan.yzt:remote]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1114499480,com.pingan.yzt/com.baidu.location.f,422]
+2016-06-03 09:59:35 app_log : I/binder_sample(  406): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,5,com.pingan.yzt:pushservice,1]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1114478024,com.pingan.yzt/com.igexin.sdk.PushServiceUser,32716]
+2016-06-03 09:59:35 app_log : I/binder_sample(  422): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,5,com.pingan.yzt:remote,1]
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1103458264,173,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1103042320,173,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:35 app_log : I/am_on_paused_called(32716): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1103458264,173,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called(32716): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1118277616,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,32716]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1103458264,com.pingan.yzt/.MainActivity,2487,2487]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1113928832,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,406]
+2016-06-03 09:59:35 app_log : I/am_destroy_activity(  974): [0,1103042320,173,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1103458264,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_on_paused_called(32716): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14987]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24959]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1103458264,173,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-03 09:59:35 app_log : I/am_destroy_activity(  974): [0,1103458264,173,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,1552,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,1552,com.pingan.yzt:pushservice]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1115873384,com.pingan.yzt/com.igexin.sdk.PushService,1552]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,1577,10075,com.pingan.yzt,service,com.pingan.yzt/com.igexin.sdk.PushServiceUser]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,1577,com.pingan.yzt]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1114722152,com.pingan.yzt/com.igexin.sdk.PushServiceUser,1577]
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1103042320,174,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,1597,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/binder_sample( 1577): [android.app.IActivityManager,3,19,com.pingan.yzt,3]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,1597,com.pingan.yzt:tools]
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1103042320,174,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called( 1597): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex,326,326]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1103042320,174,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/am_proc_died(  974): [0,1597,com.pingan.yzt:tools]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,1684,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,1684,com.pingan.yzt:push]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1118341240,com.pingan.yzt/com.mrocker.push.service.PushService,1684]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,1765,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,1765,com.pingan.yzt:remote]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1116000848,com.pingan.yzt/com.baidu.location.f,1765]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14989]
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24968]
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,5581,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,5581,com.pingan.yzt:pushservice]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1115118056,com.pingan.yzt/com.igexin.sdk.PushService,5581]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,5604,10075,com.pingan.yzt,service,com.pingan.yzt/com.igexin.sdk.PushServiceUser]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,5604,com.pingan.yzt]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1114722152,com.pingan.yzt/com.igexin.sdk.PushServiceUser,5604]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5604): [android.app.IActivityManager,83,7,com.pingan.yzt,1]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,5678,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,5678,com.pingan.yzt:push]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1105650432,com.pingan.yzt/com.mrocker.push.service.PushService,5678]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,8,com.pingan.yzt:push,1]
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,5752,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,5752,com.pingan.yzt:remote]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1105557208,com.pingan.yzt/com.baidu.location.f,5752]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5752): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:remote,1]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5581): [android.app.IActivityManager,16,279,com.pingan.yzt:pushservice,55]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IActivityManager,61,46,com.pingan.yzt:push,9]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5581): [android.app.IActivityManager,16,286,com.pingan.yzt:pushservice,57]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IAlarmManager,6,27,com.pingan.yzt:push,5]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IActivityManager,63,11,com.pingan.yzt:push,2]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5581): [android.app.IActivityManager,16,9,com.pingan.yzt:pushservice,1]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.content.pm.IPackageManager,10,17,com.pingan.yzt:push,3]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IAlarmManager,6,46,com.pingan.yzt:push,9]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IActivityManager,61,37,com.pingan.yzt:push,7]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5581): [android.app.IAlarmManager,6,53,com.pingan.yzt:pushservice,10]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IActivityManager,61,74,com.pingan.yzt:push,14]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5581): [android.app.IActivityManager,16,33,com.pingan.yzt:pushservice,6]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IAlarmManager,6,29,com.pingan.yzt:push,5]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1104475984,com.pingan.yzt/com.igexin.download.DownloadService,5581]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IAlarmManager,6,12,com.pingan.yzt:push,2]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5678): [android.app.IActivityManager,61,30,com.pingan.yzt:push,6]
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1111458832,175,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1111458832,175,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called( 5604): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1111458832,com.pingan.yzt/.SplashActivityPro,327,327]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1111458832,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_on_paused_called( 5604): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1113717512,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,5581]
+2016-06-03 09:59:35 app_log : I/am_create_service(  974): [0,1111593704,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,5604]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1111458832,175,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:35 app_log : I/am_destroy_activity(  974): [0,1111458832,175,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1102848704,175,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1102848704,175,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called( 5604): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1102848704,com.pingan.yzt/.FirstIntroduceActivity,407,407]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1102848704,175,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1102848704,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:35 app_log : I/am_on_paused_called( 5604): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:35 app_log : I/am_destroy_activity(  974): [0,1102848704,175,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-03 09:59:35 app_log : I/binder_sample( 5604): [android.view.IWindowSession,5,13,com.pingan.yzt,2]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Killing proc 5752:com.pingan.yzt:remote/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:35 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.baidu.location.f in 5000ms
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Killing proc 5581:com.pingan.yzt:pushservice/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:35 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.igexin.sdk.PushService in 14987ms
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14987]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Killing proc 5604:com.pingan.yzt/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Killing proc 5678:com.pingan.yzt:push/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:35 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.mrocker.push.service.PushService in 24956ms
+2016-06-03 09:59:35 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24956]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974):   Force stopping service ServiceRecord{41e6e300 u0 com.pingan.yzt/com.mrocker.push.service.PushService}
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974):   Force stopping service ServiceRecord{427759e8 u0 com.pingan.yzt/com.igexin.sdk.PushService}
+2016-06-03 09:59:35 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-03 09:59:35 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-03 09:59:35 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-03 09:59:35 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.pingan.yzt/.SplashActivityPro} from pid 9023
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1103692936,176,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt for activity com.pingan.yzt/.SplashActivityPro: pid=9045 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,9045,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,9045,com.pingan.yzt]
+2016-06-03 09:59:35 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1103692936,176,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): START u0 {flg=0x10000000 cmp=com.pingan.yzt/.SplashActivityProForMultidex} from pid 9045
+2016-06-03 09:59:35 app_log : I/am_create_activity(  974): [0,1103838912,176,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1103692936,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : W/ActivityManager(  974): Activity pause timeout for ActivityRecord{41c90488 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:tools for activity com.pingan.yzt/.SplashActivityProForMultidex: pid=9086 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:35 app_log : I/am_proc_start(  974): [0,9086,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-03 09:59:35 app_log : I/am_proc_bound(  974): [0,9086,com.pingan.yzt:tools]
+2016-06-03 09:59:35 app_log : I/am_restart_activity(  974): [0,1103838912,176,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/am_on_resume_called( 9086): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/am_activity_launch_time(  974): [0,1103838912,com.pingan.yzt/.SplashActivityProForMultidex,345,985]
+2016-06-03 09:59:35 app_log : I/am_finish_activity(  974): [0,1103838912,176,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-03 09:59:35 app_log : I/am_pause_activity(  974): [0,1103838912,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:35 app_log : I/WindowState(  974): WIN DEATH: Window{41e5b768 u0 com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex}
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Process com.pingan.yzt:tools (pid 9086) has died.
+2016-06-03 09:59:35 app_log : I/am_proc_died(  974): [0,9086,com.pingan.yzt:tools]
+2016-06-03 09:59:35 app_log : I/am_resume_activity(  974): [0,1103692936,176,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:35 app_log : W/ActivityManager(  974): Activity idle timeout for ActivityRecord{41c90488 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-03 09:59:35 app_log : W/ActivityManager(  974): Activity stop timeout for ActivityRecord{41c90488 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-03 09:59:35 app_log : I/ActivityManager(  974): Activity reported stop, but no longer stopping: ActivityRecord{41c90488 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-03 09:59:35 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.caipiao.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wetalk.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wanlitong.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pinganfang.haofang.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.carowner.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.pabank.activity.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.yzt.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.lifeinsurance.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.papd.apk
+2016-06-03 09:59:36 app_log : I/am_proc_start(  974): [0,9312,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:push for service com.pingan.yzt/com.mrocker.push.service.PushService: pid=9312 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:36 app_log : I/am_proc_bound(  974): [0,9312,com.pingan.yzt:push]
+2016-06-03 09:59:36 app_log : I/am_create_service(  974): [0,1106413192,com.pingan.yzt/com.mrocker.push.service.PushService,9312]
+2016-06-03 09:59:36 app_log : I/am_on_resume_called( 9045): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:36 app_log : I/am_on_paused_called( 9045): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:36 app_log : I/am_failed_to_pause(  974): [0,1103692936,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-03 09:59:36 app_log : I/am_on_resume_called( 9045): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Activity reported stop, but no longer stopping: ActivityRecord{41c90488 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-03 09:59:36 app_log : I/am_activity_launch_time(  974): [0,1103692936,com.pingan.yzt/.SplashActivityPro,12423,12423]
+2016-06-03 09:59:36 app_log : W/WindowManager(  974): This window was lost: Window{41e5b768 u0 com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex}
+2016-06-03 09:59:36 app_log : W/WindowManager(  974): mOwnerUid=10075 mShowToOwnerOnly=true package=com.pingan.yzt appop=NONE
+2016-06-03 09:59:36 app_log : W/WindowManager(  974): mToken=AppWindowToken{42b20950 token=Token{425f3f60 ActivityRecord{41cb3ec0 u0 com.pingan.yzt/.SplashActivityProForMultidex}}}
+2016-06-03 09:59:36 app_log : W/WindowManager(  974): mRootToken=AppWindowToken{42b20950 token=Token{425f3f60 ActivityRecord{41cb3ec0 u0 com.pingan.yzt/.SplashActivityProForMultidex}}}
+2016-06-03 09:59:36 app_log : W/WindowManager(  974): mAppToken=AppWindowToken{42b20950 token=Token{425f3f60 ActivityRecord{41cb3ec0 u0 com.pingan.yzt/.SplashActivityProForMultidex}}}
+2016-06-03 09:59:36 app_log : W/WindowManager(  974): WindowStateAnimator{41ed1fa8 com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex}:
+2016-06-03 09:59:36 app_log : W/WindowManager(  974):   mSurface=Surface(name=com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex)
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:pushservice for service com.pingan.yzt/com.igexin.sdk.PushService: pid=9398 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:36 app_log : I/am_proc_start(  974): [0,9398,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-03 09:59:36 app_log : I/am_proc_bound(  974): [0,9398,com.pingan.yzt:pushservice]
+2016-06-03 09:59:36 app_log : I/am_create_service(  974): [0,1112546360,com.pingan.yzt/com.igexin.sdk.PushService,9398]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:remote for service com.pingan.yzt/com.baidu.location.f: pid=9410 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:36 app_log : I/am_proc_start(  974): [0,9410,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-03 09:59:36 app_log : I/am_proc_bound(  974): [0,9410,com.pingan.yzt:remote]
+2016-06-03 09:59:36 app_log : I/am_create_service(  974): [0,1113904936,com.pingan.yzt/com.baidu.location.f,9410]
+2016-06-03 09:59:36 app_log : I/binder_sample( 9398): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:pushservice,1]
+2016-06-03 09:59:36 app_log : I/binder_sample( 9410): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,8,com.pingan.yzt:remote,1]
+2016-06-03 09:59:36 app_log : I/am_create_service(  974): [0,1106133040,com.pingan.yzt/com.igexin.sdk.PushServiceUser,9045]
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wetalk.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.lifeinsurance.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wanlitong.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pinganfang.haofang.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.carowner.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.pabank.activity.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.papd.apk
+2016-06-03 09:59:36 app_log : W/PackageParser( 9045): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.caipiao.apk
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): START u0 {cmp=com.pingan.yzt/.FirstIntroduceActivity} from pid 9045
+2016-06-03 09:59:36 app_log : I/am_create_activity(  974): [0,1106019136,176,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:36 app_log : I/am_pause_activity(  974): [0,1103692936,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:36 app_log : I/am_finish_activity(  974): [0,1103692936,176,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-03 09:59:36 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/am_on_paused_called( 9045): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-03 09:59:36 app_log : I/am_restart_activity(  974): [0,1106019136,176,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:36 app_log : I/am_on_resume_called( 9045): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:36 app_log : I/am_activity_launch_time(  974): [0,1106019136,com.pingan.yzt/.FirstIntroduceActivity,453,453]
+2016-06-03 09:59:36 app_log : I/am_destroy_activity(  974): [0,1103692936,176,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-03 09:59:36 app_log : I/am_create_service(  974): [0,1105987904,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,9398]
+2016-06-03 09:59:36 app_log : I/am_create_service(  974): [0,1105531160,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,9045]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): START u0 {cmp=com.pingan.yzt/.MainActivity} from pid 9045
+2016-06-03 09:59:36 app_log : I/am_create_activity(  974): [0,1107579704,176,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-03 09:59:36 app_log : I/am_pause_activity(  974): [0,1106019136,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-03 09:59:36 app_log : I/am_finish_activity(  974): [0,1106019136,176,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-03 09:59:36 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/am_on_paused_called( 9045): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-03 09:59:36 app_log : I/am_restart_activity(  974): [0,1107579704,176,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:36 app_log : I/binder_sample( 9045): [android.content.pm.IPackageManager,1,36,com.pingan.yzt,7]
+2016-06-03 09:59:36 app_log : I/am_on_resume_called( 9045): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:36 app_log : I/am_activity_launch_time(  974): [0,1107579704,com.pingan.yzt/.MainActivity,2689,2689]
+2016-06-03 09:59:36 app_log : E/        ( 9045): netstack:  STAT_HUB - App com.pingan.yzt isn't supported
+2016-06-03 09:59:36 app_log : I/am_destroy_activity(  974): [0,1106019136,176,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-03 09:59:36 app_log : I/am_pause_activity(  974): [0,1107579704,com.pingan.yzt/.MainActivity]
+2016-06-03 09:59:36 app_log : I/am_on_paused_called( 9045): [0,com.pingan.yzt.MainActivity]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): START u0 {act=android.intent.action.DELETE dat=package:com.pingan.yzt flg=0x10800000 cmp=com.android.packageinstaller/.UninstallerActivity} from pid 1234
+2016-06-03 09:59:36 app_log : I/am_create_activity(  974): [0,1103042320,177,com.android.packageinstaller/.UninstallerActivity,android.intent.action.DELETE,NULL,package:com.pingan.yzt,276824064]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=-1
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Killing proc 9410:com.pingan.yzt:remote/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.baidu.location.f in 5000ms
+2016-06-03 09:59:36 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Killing proc 9398:com.pingan.yzt:pushservice/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.igexin.sdk.PushService in 14984ms
+2016-06-03 09:59:36 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14984]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Killing proc 9045:com.pingan.yzt/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Couldn't delete native library directory /data/app-lib/com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/PackageManager(  974): Removing old permission: getui.permission.GetuiService.com.pingan.yzt from package com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.READ_LOGS to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.CHANGE_CONFIGURATION to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Unknown permission android.permission.RECORD_VIDEO in package com.pingan.xueyuan
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Killing proc 9312:com.pingan.yzt:push/u0a10075: force stop com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.pingan.xueyuan (protectionLevel=18 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.mrocker.push.service.PushService in 24948ms
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package com.pingan.xueyuan (protectionLevel=2 flags=0x183e44)
+2016-06-03 09:59:36 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24948]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974):   Force finishing activity ActivityRecord{42045338 u0 com.pingan.yzt/.MainActivity}
+2016-06-03 09:59:36 app_log : I/am_finish_activity(  974): [0,1107579704,176,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974):   Force stopping service ServiceRecord{41f28688 u0 com.pingan.yzt/com.mrocker.push.service.PushService}
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974):   Force stopping service ServiceRecord{42501c38 u0 com.pingan.yzt/com.igexin.sdk.PushService}
+2016-06-03 09:59:36 app_log : I/am_destroy_activity(  974): [0,1107579704,176,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-03 09:59:36 app_log : I/WindowState(  974): WIN DEATH: Window{4252a420 u0 com.pingan.yzt/com.pingan.yzt.MainActivity}
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-03 09:59:36 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-03 09:59:36 app_log : D/BackupManagerService(  974): Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.pingan.yzt flg=0x8000010 (has extras) }
+2016-06-03 09:59:36 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:36 app_log : W/ActivityManager(  974): Unable to start service Intent { cmp=com.pingan.yzt/com.igexin.sdk.PushService } U=0: not found
+2016-06-03 09:59:36 app_log : W/ActivityManager(  974): Invalid packageName: com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Package named 'com.pingan.yzt' doesn't exist.
+2016-06-03 09:59:36 app_log : I/PackageManager(  974): Running dexopt on: com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/dalvikvm(10341): DexOpt: access denied from Lcom/pingan/driverway/util/f; to field Lcom/pingan/driverway/util/e;.context
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=-1
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.READ_LOGS to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.CHANGE_CONFIGURATION to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Unknown permission android.permission.RECORD_VIDEO in package com.pingan.xueyuan
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.pingan.xueyuan (protectionLevel=18 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package com.pingan.xueyuan (protectionLevel=2 flags=0x183e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.pingan.yzt (protectionLevel=18 flags=0x583e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Unknown permission android.permission.SYSTEM_OVERLAY_WINDOW in package com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Unknown permission android.permission.RUN_INSTRUMENTATION in package com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package com.pingan.yzt (protectionLevel=2 flags=0x583e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Not granting permission android.permission.READ_LOGS to package com.pingan.yzt (protectionLevel=50 flags=0x583e44)
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Unknown permission android.permission.READ_OWNER_DATA in package com.pingan.yzt
+2016-06-03 09:59:36 app_log : W/PackageManager(  974): Unknown permission android.permission.WRITE_OWNER_DATA in package com.pingan.yzt
+2016-06-03 09:59:36 app_log : D/HwSystemManager( 1448): DX-Optimizer:[AppManager] onPackageAdd com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/SimpleLauncherMode( 1234): action= android.intent.action.PACKAGE_ADDEDpackageName = com.pingan.yzt
+2016-06-03 09:59:36 app_log : D/HwSystemManager( 2772): DX-Optimizer:[AppManager] onPackageAdd com.pingan.yzt
+2016-06-03 09:59:36 app_log : D/HwSystemManager( 1448): DX-Optimizer:[AppManager] notifyChanged 1 com.pingan.yzt
+2016-06-03 09:59:36 app_log : D/HwSystemManager( 2772): DX-Optimizer:[AppManager] notifyChanged 1 com.pingan.yzt
+2016-06-03 09:59:36 app_log : D/BackupManagerService(  974): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.pingan.yzt flg=0x8000010 (has extras) }
+2016-06-03 09:59:36 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:36 app_log : D/AppHandleService(  974): non-system app:com.pingan.xueyuan
+2016-06-03 09:59:36 app_log : D/AppHandleService(  974): non-system app:com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/HwSystemManager( 1448): HsmPackageManager:Receive intent:Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.pingan.yzt flg=0x8000010 cmp=com.huawei.systemmanager/.util.app.AppReceiverSrv (has extras) }
+2016-06-03 09:59:36 app_log : I/HwSystemManager( 2772): HsmPackageManager:Receive intent:Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.pingan.yzt flg=0x8000010 cmp=com.huawei.systemmanager/.util.app.AppReceiverUI (has extras) }
+2016-06-03 09:59:36 app_log : D/HwSystemManager( 2772): BootStartManager:insertToDB and  packageName is com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/HwSystemManager( 2772): OptimizeReceiver:isAppInWhiteList powerOn false com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/HwSystemManager( 2772): DX-Optimizer:[PackageChangeReceiver] Received: android.intent.action.PACKAGE_ADDED, data: package:com.pingan.yzt, replacing: false
+2016-06-03 09:59:36 app_log : D/HwSystemManager( 2772): BootStartManager:deleteFromDB and  packageName is !com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/HwSystemManager( 2772): DBAdapter:checkDBErrorBecauseofHOTA packageName iscom.pingan.xueyuan
+2016-06-03 09:59:36 app_log : I/HwSystemManager( 2772): DBAdapter:checkDBErrorBecauseofHOTA packageName iscom.pingan.yzt
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-03 09:59:36 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-03 09:59:36 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.pingan.yzt/.SplashActivityPro} from pid 10540
+2016-06-03 09:59:36 app_log : I/am_create_activity(  974): [0,1102713128,178,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt for activity com.pingan.yzt/.SplashActivityPro: pid=10577 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:36 app_log : I/am_proc_start(  974): [0,10577,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:36 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/am_proc_bound(  974): [0,10577,com.pingan.yzt]
+2016-06-03 09:59:36 app_log : I/am_restart_activity(  974): [0,1102713128,178,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): START u0 {flg=0x10000000 cmp=com.pingan.yzt/.SplashActivityProForMultidex} from pid 10577
+2016-06-03 09:59:36 app_log : I/am_create_activity(  974): [0,1102947784,178,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-03 09:59:36 app_log : I/am_pause_activity(  974): [0,1102713128,com.pingan.yzt/.SplashActivityPro]
+2016-06-03 09:59:36 app_log : W/ActivityManager(  974): Activity pause timeout for ActivityRecord{41ba1128 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:tools for activity com.pingan.yzt/.SplashActivityProForMultidex: pid=10609 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-03 09:59:36 app_log : I/am_proc_start(  974): [0,10609,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:36 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-03 09:59:36 app_log : I/am_proc_bound(  974): [0,10609,com.pingan.yzt:tools]
+2016-06-03 09:59:36 app_log : I/am_restart_activity(  974): [0,1102947784,178,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-03 09:59:36 app_log : I/am_on_resume_called(10609): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-03 09:59:36 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/.SplashActivityProForMultidex: +258ms (total +882ms)
+2016-06-03 09:59:36 app_log : I/am_activity_launch_time(  974): [0,1102947784,com.pingan.yzt/.SplashActivityProForMultidex,258,882]
+2016-06-03 10:00:40 app_log : D/dalvikvm(10609): DexOpt: --- BEGIN 'com.pingan.yzt-1.apk.classes2.zip' (boot

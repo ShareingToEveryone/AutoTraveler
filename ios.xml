@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppiumAUT>
+    <UIAApplication name="一账通" label="一账通" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0" x="0" y="20" width="320" height="548">
+        <UIAWindow name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0" x="0" y="0" width="320" height="568">
+            <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/0" x="14" y="22" width="45" height="40">
+            </UIAButton>
+            <UIAButton name="home nv msg" label="home nv msg" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/1" x="266" y="20" width="40" height="44">
+            </UIAButton>
+            <UIAButton name="登录" label="登录" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/2" x="266" y="20" width="40" height="44">
+                <UIAStaticText name="登录" label="登录" value="登录" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/2/0" x="274" y="32.5" width="32" height="19.5">
+                </UIAStaticText>
+            </UIAButton>
+            <UIAImage name="home_yzt_logo" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/3" x="129.5" y="32.5" width="61" height="19">
+            </UIAImage>
+            <UIATableView name="" label="" value="第 1 航至第 2 航（共 7 航）" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4" x="0" y="0" width="320" height="519">
+                <UIAStaticText name="我的资产" label="我的资产" value="我的资产" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/0" x="120" y="20" width="80" height="44">
+                </UIAStaticText>
+                <UIAImage name="home_bag" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/1" x="113.5" y="175" width="93.5" height="15">
+                </UIAImage>
+                <UIAImage name="home_bag_left" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/2" x="129" y="196" width="81" height="64">
+                </UIAImage>
+                <UIAImage name="home_bag_right" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/3" x="110" y="214.5" width="53.5" height="65.5">
+                </UIAImage>
+                <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/4" x="38" y="136" width="84" height="38">
+                </UIAButton>
+                <UIAImage name="home_am_order" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/5" x="43.5" y="138.5" width="12" height="12">
+                </UIAImage>
+                <UIAStaticText name="财富排名" label="财富排名" value="财富排名" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/6" x="60.5" y="136" width="56" height="17">
+                </UIAStaticText>
+                <UIAStaticText name="榜单就差你了" label="榜单就差你了" value="榜单就差你了" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/7" x="38" y="157" width="84" height="17">
+                </UIAStaticText>
+                <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/8" x="200" y="134" width="80.5" height="42.5">
+                </UIAButton>
+                <UIAImage name="home_am_acc" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/9" x="203.5" y="136.5" width="12" height="12">
+                </UIAImage>
+                <UIAStaticText name="财富加速" label="财富加速" value="财富加速" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/10" x="220.5" y="134" width="56" height="17">
+                </UIAStaticText>
+                <UIAStaticText name="3条优化建议" label="3条优化建议" value="3条优化建议" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/11" x="200" y="155" width="80.5" height="21.5">
+                </UIAStaticText>
+                <UIAImage name="home_add" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/12" x="96" y="68" width="24" height="24">
+                </UIAImage>
+                <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/13" x="96" y="68" width="128" height="51">
+                </UIAButton>
+                <UIAStaticText name="添加一笔资产" label="添加一笔资产" value="添加一笔资产" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/14" x="128" y="72" width="96" height="16">
+                </UIAStaticText>
+                <UIAStaticText name="资产变化，全部掌握" label="资产变化，全部掌握" value="资产变化，全部掌握" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/15" x="97" y="102" width="126" height="17">
+                </UIAStaticText>
+                <UIAStaticText name="0.00元" label="0.00元" value="0.00元" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/16" x="122.5" y="60" width="59" height="53.5">
+                </UIAStaticText>
+                <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/17" x="122.5" y="60" width="75" height="53.5">
+                </UIAButton>
+                <UIAImage name="home_ad_arrow" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/18" x="186.5" y="90.5" width="11" height="16">
+                </UIAImage>
+                <UIAStaticText name="资产变化，全部掌握" label="资产变化，全部掌握" value="资产变化，全部掌握" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/19" x="97" y="113.5" width="126" height="17">
+                </UIAStaticText>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/20" x="0" y="190" width="320" height="0.001007080078125">
+                </UIATableGroup>
+                <UIATableCell name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21" x="0" y="190.00100708007812" width="320" height="255">
+                    <UIACollectionView name="" label="" value="第 1 航至第 2 航（共 7 航）" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0" x="0" y="190.00100708007812" width="320" height="254.5">
+                        <UIACollectionCell name="信用卡" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/0" x="0.75" y="190.00100708007812" width="158.75" height="84.5">
+                            <UIAStaticText name="信用卡" label="信用卡" value="信用卡" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/0/0" x="71.75" y="218.00100708007812" width="88" height="13">
+                            </UIAStaticText>
+                            <UIAStaticText name="添加卡片赢iPhone" label="添加卡片赢iPhone" value="添加卡片赢iPhone" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/0/1" x="71.75" y="237.00100708007812" width="88" height="10">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="车·车险" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/1" x="160" y="190.00100708007812" width="158.75" height="84.5">
+                            <UIAStaticText name="车·车险" label="车·车险" value="车·车险" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/1/0" x="231" y="218.00100708007812" width="88" height="13">
+                            </UIAStaticText>
+                            <UIAStaticText name="查违章送豪礼" label="查违章送豪礼" value="查违章送豪礼" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/1/1" x="231" y="237.00100708007812" width="88" height="10">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="理财·基金" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/2" x="0.75" y="275.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="理财·基金" label="理财·基金" value="理财·基金" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/2/0" x="12.25" y="323.0010070800781" width="56" height="13">
+                            </UIAStaticText>
+                            <UIAStaticText name="赚钱智多星" label="赚钱智多星" value="赚钱智多星" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/2/1" x="0.75" y="339.0010070800781" width="79" height="10">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="选股宝" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/3" x="80.375" y="275.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="选股宝" label="选股宝" value="选股宝" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/3/0" x="80.375" y="339.0010070800781" width="79" height="10">
+                            </UIAStaticText>
+                            <UIAStaticText name="股票" label="股票" value="股票" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/3/1" x="106.875" y="323.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="保险" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/4" x="160" y="275.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="保险" label="保险" value="保险" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/4/0" x="186.5" y="323.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="健康" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/5" x="239.625" y="275.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="健康" label="健康" value="健康" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/5/0" x="266.125" y="323.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                            <UIAStaticText name="测健康送豪礼" label="测健康送豪礼" value="测健康送豪礼" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/5/1" x="239.625" y="339.0010070800781" width="79" height="10">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="存款" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/6" x="0.75" y="360.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="存款" label="存款" value="存款" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/6/0" x="27.25" y="408.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="贷款" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/7" x="80.375" y="360.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="贷款" label="贷款" value="贷款" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/7/0" x="106.875" y="408.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="信用" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/8" x="160" y="360.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="信用" label="信用" value="信用" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/8/0" x="186.5" y="408.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="房产" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/9" x="239.625" y="360.0010070800781" width="79.125" height="84.5">
+                            <UIAStaticText name="房产" label="房产" value="房产" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/21/0/9/0" x="266.125" y="408.0010070800781" width="26" height="13">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                    </UIACollectionView>
+                </UIATableCell>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/22" x="0" y="430" width="320" height="5">
+                </UIATableGroup>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/23" x="0" y="450.0010070800781" width="320" height="0.001007080078125">
+                </UIATableGroup>
+                <UIATableCell name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24" x="0" y="450.00201416015625" width="320" height="85">
+                    <UIACollectionView name="" label="" value="第 1 航至第 2 航（共 7 航）" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0" x="0" y="450.00201416015625" width="320" height="84.5">
+                        <UIACollectionCell name="6.0%" label="" value="0" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/4/24/0/0" x="0" y="450.00201416015625" width="320" height="84.5">
+                            <UIAStaticText name="6.0%" label="6.0%" value="6.0%" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0/0/0" x="36" y="468.50201416015625" width="110" height="32">
+                            </UIAStaticText>
+                            <UIAStaticText name="一账通“快赚”系列" label="一账通“快赚”系列" value="一账通“快赚”系列" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0/0/1" x="36" y="502.50201416015625" width="110" height="14">
+                            </UIAStaticText>
+                            <UIAStaticText name="六个月产品期限" label="六个月产品期限" value="六个月产品期限" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0/0/2" x="182" y="475.00201416015625" width="124" height="14">
+                            </UIAStaticText>
+                            <UIAStaticText name="第一期限额1000万" label="第一期限额1000万" value="第一期限额1000万" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0/0/3" x="182" y="496.00201416015625" width="124" height="14">
+                            </UIAStaticText>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0/1" x="0" y="0" width="320" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/24/0/2" x="0" y="0" width="320" height="84.5">
+                        </UIACollectionCell>
+                    </UIACollectionView>
+                </UIATableCell>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/25" x="0" y="450.00201416015625" width="320" height="5">
+                </UIATableGroup>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/26" x="0" y="540.0020141601562" width="320" height="0.0009765625">
+                </UIATableGroup>
+                <UIATableCell name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27" x="0" y="540.0029907226562" width="320" height="255">
+                    <UIACollectionView name="" label="" value="第 1 航至第 2 航（共 7 航）" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0" x="0" y="540.0029907226562" width="320" height="255">
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/0" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/1" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/2" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/3" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/4" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/5" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/6" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/7" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/8" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/9" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/10" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/11" x="0" y="0" width="79.125" height="84.5">
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/12" x="0" y="0" width="79.125" height="84.5">
+                            <UIAImage name="home_tool_more" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/12/0" x="0" y="0" width="29" height="7.5">
+                            </UIAImage>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/13" x="0" y="0" width="79.125" height="84.5">
+                            <UIAImage name="home_tool_more" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/13/0" x="0" y="0" width="29" height="7.5">
+                            </UIAImage>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/14" x="0" y="0" width="79.125" height="84.5">
+                            <UIAImage name="home_tool_more" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/14/0" x="0" y="0" width="29" height="7.5">
+                            </UIAImage>
+                        </UIACollectionCell>
+                        <UIACollectionCell name="" label="" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/15" x="0" y="0" width="79.125" height="84.5">
+                            <UIAImage name="home_tool_more" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/27/0/15/0" x="0" y="0" width="29" height="7.5">
+                            </UIAImage>
+                        </UIACollectionCell>
+                    </UIACollectionView>
+                </UIATableCell>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/28" x="0" y="540.0029907226562" width="320" height="5">
+                </UIATableGroup>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/29" x="0" y="800.0030517578125" width="320" height="0.0009765625">
+                </UIATableGroup>
+                <UIATableCell name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/30" x="0" y="800.0040283203125" width="320" height="84">
+                    <UIACollectionView name="" label="" value="第 1 航至第 2 航（共 7 航）" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/30/0" x="0" y="800.0040283203125" width="320" height="84">
+                    </UIACollectionView>
+                    <UIAPageIndicator name="" label="" value="第 1 页（共 2 页）" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/30/1" x="0" y="800.0040283203125" width="320" height="84">
+                    </UIAPageIndicator>
+                </UIATableCell>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/31" x="0" y="800.0040283203125" width="320" height="5">
+                </UIATableGroup>
+                <UIATableGroup name="换一批" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/32" x="0" y="889.0040283203125" width="320" height="34">
+                    <UIAStaticText name="换一批" label="换一批" value="换一批" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/32/0" x="0" y="889.0040283203125" width="320" height="34">
+                    </UIAStaticText>
+                    <UIAStaticText name="热门资讯" label="热门资讯" value="热门资讯" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/32/1" x="0" y="889.0040283203125" width="320" height="34">
+                    </UIAStaticText>
+                </UIATableGroup>
+                <UIATableCell name="09:30" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/33" x="0" y="923.0040283203125" width="320" height="84">
+                </UIATableCell>
+                <UIATableCell name="08:59" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/34" x="0" y="1007.0040283203125" width="320" height="84">
+                </UIATableCell>
+                <UIATableCell name="08:49" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/35" x="0" y="1091.0040283203125" width="320" height="84">
+                </UIATableCell>
+                <UIATableGroup name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/36" x="0" y="923.0040283203125" width="320" height="0.0009765625">
+                </UIATableGroup>
+            </UIATableView>
+            <UIAImage name="home_bg_night" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/5" x="0" y="0" width="320" height="519">
+            </UIAImage>
+            <UIAScrollView name="mainScro" label="mainScro" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6" x="0" y="0" width="320" height="519">
+                <UIAScrollView name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6/0" x="31.5" y="435" width="320" height="84">
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/0" x="31.5" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/1" x="31.5" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="PA02100000001_02_JF" label="PA02100000001_02_JF" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6/0/2" x="31.5" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="0" label="0" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/3" x="39.20000076293945" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="万里通积分" label="万里通积分" value="万里通积分" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/4" x="39.20000076293945" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/5" x="116.9000015258789" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/6" x="116.9000015258789" y="435" width="83.99999237060547" height="84">
+                    </UIAImage>
+                    <UIAButton name="PA01100000000_02_CWZ" label="PA01100000000_02_CWZ" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6/0/7" x="116.9000015258789" y="435" width="83.99999237060547" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="新查违章" label="新查违章" value="新查违章" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/8" x="124.60000610351562" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="新查违章" label="新查违章" value="新查违章" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/9" x="124.60000610351562" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="3.3.0.19-stg2" label="3.3.0.19-stg2" value="3.3.0.19-stg2" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/10" x="122.9000015258789" y="489" width="78.99999237060547" height="15">
+                    </UIAStaticText>
+                    <UIAStaticText name="2016-04-20" label="2016-04-20" value="2016-04-20" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/11" x="122.9000015258789" y="504" width="78.99999237060547" height="15">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/12" x="202.3000030517578" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/13" x="202.3000030517578" y="435" width="83.99998474121094" height="84">
+                    </UIAImage>
+                    <UIAButton name="SZDBK00000000_02_ZHCX" label="SZDBK00000000_02_ZHCX" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6/0/14" x="202.3000030517578" y="435" width="83.99998474121094" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="账户查询" label="账户查询" value="账户查询" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/15" x="210" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="平安银行" label="平安银行" value="平安银行" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/16" x="210" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/17" x="287.70001220703125" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/18" x="287.70001220703125" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="SZDBK00000000_02_XYKWS" label="SZDBK00000000_02_XYKWS" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6/0/19" x="287.70001220703125" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="在线办卡" label="在线办卡" value="在线办卡" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/20" x="295.4000244140625" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="平安信用卡" label="平安信用卡" value="平安信用卡" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/21" x="295.4000244140625" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/22" x="349" y="435" width="2.5" height="84">
+                    </UIAImage>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/23" x="373.1000061035156" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/24" x="373.1000061035156" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="PA0210000000_02_JFSC" label="PA0210000000_02_JFSC" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/25" x="373.1000061035156" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="优惠多" label="优惠多" value="优惠多" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/26" x="380.8000183105469" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/27" x="380.8000183105469" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/28" x="458.5" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/29" x="458.5" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="test001" label="test001" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/30" x="458.5" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="接口001" label="接口001" value="接口001" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/31" x="466.20001220703125" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="Q2接口测试" label="Q2接口测试" value="Q2接口测试" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/32" x="466.20001220703125" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/33" x="543.9000244140625" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/34" x="543.9000244140625" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="PA01100000000_02_HHC" label="PA01100000000_02_HHC" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/35" x="543.9000244140625" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="划横财" label="划横财" value="划横财" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/36" x="551.6000366210938" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/37" x="551.6000366210938" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/38" x="629.300048828125" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/39" x="629.300048828125" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="MAMC_DEBUG_PLUGIN" label="MAMC_DEBUG_PLUGIN" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/40" x="629.300048828125" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="用户体系" label="用户体系" value="用户体系" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/41" x="637.0000610351562" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="用户体系调试" label="用户体系调试" value="用户体系调试" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/42" x="637.0000610351562" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/43" x="714.7000732421875" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/44" x="714.7000732421875" y="435" width="169.4000244140625" height="84">
+                    </UIAImage>
+                    <UIAButton name="PA00800000000_02_JTB" label="PA00800000000_02_JTB" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/45" x="714.7000732421875" y="435" width="169.4000244140625" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="家庭保" label="家庭保" value="家庭保" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/46" x="722.4000854492188" y="446.20001220703125" width="169.39996337890625" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="养老险" label="养老险" value="养老险" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/47" x="722.4000854492188" y="470" width="169.39996337890625" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAStaticText name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/48" x="885.5000610351562" y="435" width="0" height="0">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/49" x="885.5000610351562" y="435" width="84" height="84">
+                    </UIAImage>
+                    <UIAButton name="PA01100000001_02_WDCX" label="PA01100000001_02_WDCX" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/50" x="885.5000610351562" y="435" width="84" height="84">
+                    </UIAButton>
+                    <UIAStaticText name="新网点查" label="新网点查" value="新网点查" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/51" x="893.2000732421875" y="446.20001220703125" width="84" height="16.79998779296875">
+                    </UIAStaticText>
+                    <UIAStaticText name="新网点查询" label="新网点查询" value="新网点查询" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/52" x="893.2000732421875" y="470" width="84" height="9.100006103515625">
+                    </UIAStaticText>
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/0/53" x="945.7000732421875" y="495.20001220703125" width="16.79998779296875" height="16.79998779296875">
+                    </UIAImage>
+                </UIAScrollView>
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/1" x="317.5" y="0" width="2.5" height="519">
+                </UIAImage>
+                <UIAStaticText name="20" label="20" value="20" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/6/2" x="19.974987030029297" y="464.92498779296875" width="24.14999771118164" height="24.149993896484375">
+                </UIAStaticText>
+                <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/6/3" x="19.974987030029297" y="464.92498779296875" width="24.14999771118164" height="24.149993896484375">
+                </UIAButton>
+            </UIAScrollView>
+            <UIATabBar name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/7" x="0" y="519" width="320" height="49">
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/7/0" x="0" y="518.5" width="320" height="0.5">
+                </UIAImage>
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/7/1" x="0" y="519" width="320" height="49">
+                </UIAImage>
+                <UIAButton name="首页" label="首页" value="1" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/7/2" x="2" y="520" width="76" height="48">
+                </UIAButton>
+                <UIAButton name="金融旗舰店" label="金融旗舰店" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/7/3" x="82" y="520" width="76" height="48">
+                </UIAButton>
+                <UIAButton name="财经快讯" label="财经快讯" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/7/4" x="162" y="520" width="76" height="48">
+                </UIAButton>
+                <UIAButton name="我" label="我" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/7/5" x="242" y="520" width="76" height="48">
+                </UIAButton>
+            </UIATabBar>
+        </UIAWindow>
+        <UIAWindow name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/1" x="0" y="0" width="320" height="568">
+            <UIAStatusBar name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/1/0" x="0" y="0" width="320" height="20">
+                <UIAElement name="无 SIM 卡" label="无 SIM 卡" value="" dom="" enabled="true" valid="true" visible="true" hint="用三个手指向下轻扫来显现通知中心。, 用三个手指向上轻扫来显现控制中心, 连按两次来滚动到顶部" path="/0/1/0/0" x="6" y="0" width="54" height="20">
+                </UIAElement>
+                <UIAElement name="2 格 Wi-Fi 信号（共 3 格）" label="2 格 Wi-Fi 信号（共 3 格）" value="XJK_GUEST" dom="" enabled="true" valid="true" visible="true" hint="用三个手指向下轻扫来显现通知中心。, 用三个手指向上轻扫来显现控制中心, 连按两次来滚动到顶部" path="/0/1/0/1" x="65" y="0" width="13" height="20">
+                </UIAElement>
+                <UIAElement name="上午10:01" label="上午10:01" value="" dom="" enabled="true" valid="true" visible="true" hint="用三个手指向下轻扫来显现通知中心。, 用三个手指向上轻扫来显现控制中心, 连按两次来滚动到顶部" path="/0/1/0/2" x="134" y="0" width="52" height="20">
+                </UIAElement>
+                <UIAElement name="方向已锁定" label="方向已锁定" value="" dom="" enabled="true" valid="true" visible="true" hint="用三个手指向下轻扫来显现通知中心。, 用三个手指向上轻扫来显现控制中心, 连按两次来滚动到顶部" path="/0/1/0/3" x="264" y="0" width="12" height="20">
+                </UIAElement>
+                <UIAElement name="电池电量：100%, 正在充电" label="电池电量：100%, 正在充电" value="" dom="" enabled="true" valid="true" visible="true" hint="用三个手指向下轻扫来显现通知中心。, 用三个手指向上轻扫来显现控制中心, 连按两次来滚动到顶部" path="/0/1/0/4" x="282" y="0" width="33" height="20">
+                </UIAElement>
+            </UIAStatusBar>
+        </UIAWindow>
+        <UIAWindow name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/2" x="0" y="0" width="320" height="568">
+        </UIAWindow>
+    </UIAApplication>
+</AppiumAUT>

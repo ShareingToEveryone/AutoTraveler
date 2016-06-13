@@ -1,0 +1,809 @@
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,11873]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,21860]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,31837]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1110454416,123,com.pingan.yzt/.FirstIntroduceActivity,force-stop]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1110454416,123,com.pingan.yzt/.FirstIntroduceActivity,finish-idle]
+2016-06-01 14:58:37 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:37 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:37 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1104288608,124,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,7224,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,7224,com.pingan.yzt]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1104288608,124,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1104570200,124,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1104288608,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,7254,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,7254,com.pingan.yzt:tools]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1104570200,124,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 7254): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1104570200,com.pingan.yzt/.SplashActivityProForMultidex,346,982]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1104570200,124,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1104570200,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_proc_died(  974): [0,7254,com.pingan.yzt:tools]
+2016-06-01 14:58:37 app_log : I/am_resume_activity(  974): [0,1104288608,124,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,7487,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,7487,com.pingan.yzt:push]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1112210608,com.pingan.yzt/com.mrocker.push.service.PushService,7487]
+2016-06-01 14:58:37 app_log : I/binder_sample( 7487): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,13,com.pingan.yzt:push,2]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 7224): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 7224): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_failed_to_pause(  974): [0,1104288608,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 7224): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1104288608,com.pingan.yzt/.SplashActivityPro,11997,11997]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,7563,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,7563,com.pingan.yzt:pushservice]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1105148568,com.pingan.yzt/com.igexin.sdk.PushService,7563]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,7576,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-01 14:58:37 app_log : I/binder_sample( 7563): [android.app.IActivityManager,83,6,com.pingan.yzt:pushservice,1]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,7576,com.pingan.yzt:remote]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1112632920,com.pingan.yzt/com.baidu.location.f,7576]
+2016-06-01 14:58:37 app_log : I/binder_sample( 7576): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:remote,1]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1106908864,com.pingan.yzt/com.igexin.sdk.PushServiceUser,7224]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1109305520,124,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1104288608,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1104288608,124,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 7224): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1109305520,124,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 7224): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1109305520,com.pingan.yzt/.FirstIntroduceActivity,676,676]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1104288608,124,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1106140808,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,7563]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1110811888,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,7224]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1113841832,124,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1109305520,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1109305520,124,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 7224): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1113841832,124,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 7224): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1113841832,com.pingan.yzt/.MainActivity,3259,3259]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1109305520,124,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1113841832,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 7224): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14989]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24967]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1113841832,124,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1113841832,124,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-01 14:58:37 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:37 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:37 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1101343008,125,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,8328,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,8328,com.pingan.yzt]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1101343008,125,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1103042320,125,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,8360,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,8360,com.pingan.yzt:tools]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1103042320,125,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8360): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex,367,978]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1103042320,125,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:37 app_log : I/am_proc_died(  974): [0,8360,com.pingan.yzt:tools]
+2016-06-01 14:58:37 app_log : I/am_resume_activity(  974): [0,1101343008,125,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,8581,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,8581,com.pingan.yzt:push]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1106479528,com.pingan.yzt/com.mrocker.push.service.PushService,8581]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,8620,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,8620,com.pingan.yzt:remote]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1110456248,com.pingan.yzt/com.baidu.location.f,8620]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_failed_to_pause(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,13748,13748]
+2016-06-01 14:58:37 app_log : I/am_proc_start(  974): [0,8671,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-01 14:58:37 app_log : I/am_proc_bound(  974): [0,8671,com.pingan.yzt:pushservice]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1106178352,com.pingan.yzt/com.igexin.sdk.PushService,8671]
+2016-06-01 14:58:37 app_log : I/binder_sample( 8671): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,8,com.pingan.yzt:pushservice,1]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1118592344,com.pingan.yzt/com.igexin.sdk.PushServiceUser,8328]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1104978216,125,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1101343008,125,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1104978216,125,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1104978216,com.pingan.yzt/.FirstIntroduceActivity,433,433]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1101343008,125,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1112228328,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,8671]
+2016-06-01 14:58:37 app_log : I/am_create_service(  974): [0,1116133544,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,8328]
+2016-06-01 14:58:37 app_log : I/binder_sample( 8328): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,7,com.pingan.yzt,1]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1113942024,125,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1104978216,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1104978216,125,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1113942024,125,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1113942024,com.pingan.yzt/.MainActivity,3276,3276]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1104978216,125,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1111851288,125,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1113942024,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1111851288,125,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1111851288,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,271,271]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1117253720,125,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1111851288,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1117253720,125,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1117253720,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,156,156]
+2016-06-01 14:58:37 app_log : I/binder_sample( 8328): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,5,com.pingan.yzt,1]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1103042320,125,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1117253720,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1117253720,125,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,app-request]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1103042320,125,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,347,347]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1117253720,125,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1111851288,125,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,app-request]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1111851288,125,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_finish_activity(  974): [0,1103042320,125,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,app-request]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:37 app_log : I/am_resume_activity(  974): [0,1113942024,125,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_destroy_activity(  974): [0,1103042320,125,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,finish-imm]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1105716984,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1113942024,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1105716984,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1105716984,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,259,259]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1105727200,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1105716984,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1105727200,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1105727200,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,385,385]
+2016-06-01 14:58:37 app_log : I/am_create_activity(  974): [0,1112686072,125,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1105727200,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:37 app_log : I/am_restart_activity(  974): [0,1112686072,125,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:37 app_log : I/am_on_resume_called( 8328): [0,com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:37 app_log : I/binder_sample( 8328): [android.view.IWindowSession,6,22,com.pingan.yzt,4]
+2016-06-01 14:58:37 app_log : I/am_activity_launch_time(  974): [0,1112686072,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,282,282]
+2016-06-01 14:58:37 app_log : I/binder_sample( 8328): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,5,com.pingan.yzt,1]
+2016-06-01 14:58:37 app_log : I/am_pause_activity(  974): [0,1112686072,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:37 app_log : I/am_on_paused_called( 8328): [0,com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-01 14:58:37 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14985]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24959]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1113942024,125,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1105716984,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1105727200,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1112686072,125,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1113942024,125,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1105716984,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1105727200,125,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1112686072,125,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/content_query_sample( 9923): [content://com.huawei.android.mewidget/widgetunit,,packageName='com.pingan.yzt',,20,com.huawei.android.mewidget,5]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1101343008,126,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,17948,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,17948,com.pingan.yzt]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1101343008,126,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1103042320,126,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,17989,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,17989,com.pingan.yzt:tools]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1103042320,126,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17989): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex,291,936]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,18154,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,18154,com.pingan.yzt:pushservice]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1123655432,com.pingan.yzt/com.igexin.sdk.PushService,18154]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1103042320,126,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_proc_died(  974): [0,17989,com.pingan.yzt:tools]
+2016-06-01 14:58:38 app_log : I/am_resume_activity(  974): [0,1101343008,126,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/binder_sample(18154): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,8,com.pingan.yzt:pushservice,1]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1114448384,com.pingan.yzt/com.igexin.sdk.PushServiceUser,17948]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,18253,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,18253,com.pingan.yzt:push]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1106663632,com.pingan.yzt/com.mrocker.push.service.PushService,18253]
+2016-06-01 14:58:38 app_log : I/binder_sample(18253): [android.app.IActivityManager,83,8,com.pingan.yzt:push,1]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_failed_to_pause(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,12365,12365]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,18336,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,18336,com.pingan.yzt:remote]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1108805200,com.pingan.yzt/com.baidu.location.f,18336]
+2016-06-01 14:58:38 app_log : I/notification_enqueue(  974): [com.pingan.yzt,63024136,NULL,0,Notification(pri=0 contentView=com.pingan.yzt/0x10900ee vibrate=[] sound=null defaults=0x0 flags=0x10 kind=[null])]
+2016-06-01 14:58:38 app_log : I/binder_sample(18336): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:remote,1]
+2016-06-01 14:58:38 app_log : I/notification_enqueue(  974): [com.pingan.yzt,63024255,NULL,0,Notification(pri=0 contentView=com.pingan.yzt/0x10900ee vibrate=[] sound=null defaults=0x0 flags=0x10 kind=[null])]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1110994448,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,17948]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1109419568,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,18154]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1111051520,126,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1101343008,126,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1111051520,126,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1111051520,com.pingan.yzt/.FirstIntroduceActivity,521,521]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1101343008,126,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1112171320,126,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1111051520,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1111051520,126,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1112171320,126,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1112171320,com.pingan.yzt/.MainActivity,2910,2910]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1111051520,126,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1106832328,126,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1112171320,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1106832328,126,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1106832328,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,262,262]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1113806928,126,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1106832328,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1113806928,126,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1113806928,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,221,221]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1109128000,126,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1113806928,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1113806928,126,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1109128000,126,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1109128000,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,301,301]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1113806928,126,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1106832328,126,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1106832328,126,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1109128000,126,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1109128000,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_resume_activity(  974): [0,1112171320,126,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1109128000,126,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1111477160,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1112171320,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1111477160,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1111477160,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,253,253]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1110342936,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1111477160,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1110342936,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1110342936,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,473,473]
+2016-06-01 14:58:38 app_log : I/binder_sample(17948): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,6,com.pingan.yzt,1]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1112024696,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1110342936,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1112024696,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1112024696,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,217,217]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1112024696,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1112024696,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_resume_activity(  974): [0,1110342936,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1112024696,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/binder_sample(17948): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,9,com.pingan.yzt,1]
+2016-06-01 14:58:38 app_log : I/binder_sample(17948): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,5,com.pingan.yzt,1]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1115926560,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1110342936,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1115926560,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(17948): [0,com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1115926560,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,221,221]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1115926560,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(17948): [0,com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14958]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24918]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1112171320,126,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1111477160,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1110342936,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1115926560,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1112171320,126,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1111477160,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1110342936,126,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1115926560,126,com.pingan.yzt/com.pingan.mobile.borrow.creditcard.newcreditcard.AddCreditcardActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/content_update_sample(17005): [content://com.android.voicemail/status?source_package=com.pingan.yzt,delete,,13,com.android.providers.contacts,3]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1101343008,127,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,19827,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,19827,com.pingan.yzt]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1101343008,127,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1103042320,127,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,19875,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,19875,com.pingan.yzt:tools]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1103042320,127,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19875): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex,335,1013]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1103042320,127,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1103042320,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_proc_died(  974): [0,19875,com.pingan.yzt:tools]
+2016-06-01 14:58:38 app_log : I/am_resume_activity(  974): [0,1101343008,127,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,20066,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,20066,com.pingan.yzt:push]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1112009792,com.pingan.yzt/com.mrocker.push.service.PushService,20066]
+2016-06-01 14:58:38 app_log : I/binder_sample(20066): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,8,com.pingan.yzt:push,1]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_failed_to_pause(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro,12742,12742]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,20141,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,20141,com.pingan.yzt:pushservice]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1109115480,com.pingan.yzt/com.igexin.sdk.PushService,20141]
+2016-06-01 14:58:38 app_log : I/binder_sample(20141): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:pushservice,1]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1123929304,com.pingan.yzt/com.igexin.sdk.PushServiceUser,19827]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1110989584,127,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1101343008,127,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1110989584,127,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1110989584,com.pingan.yzt/.FirstIntroduceActivity,358,358]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1101343008,127,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1106723808,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,20141]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,20223,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,20223,com.pingan.yzt:remote]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1112554656,com.pingan.yzt/com.baidu.location.f,20223]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1105592120,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,19827]
+2016-06-01 14:58:38 app_log : I/content_query_sample(20141): [content://downloads.com.pingan.yzt/download,,data_8 = ? ,,157,com.pingan.yzt,32]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1111172600,127,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1110989584,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1110989584,127,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1111172600,127,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1111172600,com.pingan.yzt/.MainActivity,2882,2882]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1110989584,127,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1110401912,127,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1111172600,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1110401912,127,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1110401912,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,268,268]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1117791208,127,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1110401912,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1117791208,127,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1117791208,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,199,199]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1101343008,127,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1117791208,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1117791208,127,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1101343008,127,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,301,301]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1117791208,127,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1110401912,127,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1110401912,127,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1101343008,127,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_resume_activity(  974): [0,1111172600,127,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1101343008,127,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1111930840,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1111172600,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1111930840,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1111930840,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,274,274]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1113426912,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1111930840,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1113426912,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(19827): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1113426912,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,547,547]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1113426912,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(19827): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14988]
+2016-06-01 14:58:38 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24965]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1111172600,127,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1111930840,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1113426912,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,force-stop]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1111172600,127,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1111930840,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1113426912,127,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,finish-idle]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1102848704,128,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,21691,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,21691,com.pingan.yzt]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1102848704,128,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1103049016,128,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1102848704,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,21730,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,21730,com.pingan.yzt:tools]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1103049016,128,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21730): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1103049016,com.pingan.yzt/.SplashActivityProForMultidex,349,1101]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1103049016,128,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1103049016,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:38 app_log : I/am_proc_died(  974): [0,21730,com.pingan.yzt:tools]
+2016-06-01 14:58:38 app_log : I/am_resume_activity(  974): [0,1102848704,128,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,21924,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,21924,com.pingan.yzt:push]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1111128712,com.pingan.yzt/com.mrocker.push.service.PushService,21924]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(21691): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_failed_to_pause(  974): [0,1102848704,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1102848704,com.pingan.yzt/.SplashActivityPro,13218,13218]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,21992,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,21992,com.pingan.yzt:pushservice]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1106466856,com.pingan.yzt/com.igexin.sdk.PushService,21992]
+2016-06-01 14:58:38 app_log : I/am_proc_start(  974): [0,22005,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-01 14:58:38 app_log : I/am_proc_bound(  974): [0,22005,com.pingan.yzt:remote]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1115802816,com.pingan.yzt/com.baidu.location.f,22005]
+2016-06-01 14:58:38 app_log : I/binder_sample(21992): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,7,com.pingan.yzt:pushservice,1]
+2016-06-01 14:58:38 app_log : I/binder_sample(22005): [com.android.internal.telephony.msim.IPhoneSubInfoMSim,4,6,com.pingan.yzt:remote,1]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1114223816,com.pingan.yzt/com.igexin.sdk.PushServiceUser,21691]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1110514304,128,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1102848704,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1102848704,128,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(21691): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1110514304,128,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1110514304,com.pingan.yzt/.FirstIntroduceActivity,381,381]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1102848704,128,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1111186992,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,21992]
+2016-06-01 14:58:38 app_log : I/am_create_service(  974): [0,1104998728,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,21691]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1106923088,128,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1110514304,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1110514304,128,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(21691): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1106923088,128,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/binder_sample(21691): [android.content.pm.IPackageManager,1,40,com.pingan.yzt,8]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/binder_sample(22005): [com.android.internal.telephony.ITelephony,49,6,com.pingan.yzt:remote,1]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1106923088,com.pingan.yzt/.MainActivity,2852,2852]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1110514304,128,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1110366952,128,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1106923088,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(21691): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1110366952,128,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1110366952,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,372,372]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1114090576,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1110366952,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(21691): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1114090576,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1114090576,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,205,205]
+2016-06-01 14:58:38 app_log : I/am_create_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:38 app_log : I/am_pause_activity(  974): [0,1114090576,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_finish_activity(  974): [0,1114090576,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,app-request]
+2016-06-01 14:58:38 app_log : I/am_on_paused_called(21691): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:58:38 app_log : I/am_restart_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_on_resume_called(21691): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:38 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,288,288]
+2016-06-01 14:58:38 app_log : I/am_destroy_activity(  974): [0,1114090576,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,finish-imm]
+2016-06-01 14:58:45 app_log : I/am_finish_activity(  974): [0,1110366952,128,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,app-request]
+2016-06-01 14:58:45 app_log : I/am_destroy_activity(  974): [0,1110366952,128,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,finish-imm]
+2016-06-01 14:58:45 app_log : I/am_finish_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,app-request]
+2016-06-01 14:58:45 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:45 app_log : I/am_on_paused_called(21691): [0,com.pingan.mobile.borrow.login.RegistSetLockActivity]
+2016-06-01 14:58:45 app_log : I/am_resume_activity(  974): [0,1106923088,128,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:45 app_log : I/am_on_resume_called(21691): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:45 app_log : I/am_destroy_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.RegistSetLockActivity,finish-imm]
+2016-06-01 14:58:45 app_log : I/am_create_activity(  974): [0,1113986040,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:45 app_log : I/am_pause_activity(  974): [0,1106923088,com.pingan.yzt/.MainActivity]
+2016-06-01 14:58:45 app_log : I/am_on_paused_called(21691): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:58:45 app_log : I/am_restart_activity(  974): [0,1113986040,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:45 app_log : I/am_on_resume_called(21691): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:45 app_log : I/am_activity_launch_time(  974): [0,1113986040,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,248,248]
+2016-06-01 14:58:45 app_log : I/am_create_activity(  974): [0,1105117304,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:45 app_log : I/am_pause_activity(  974): [0,1113986040,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:45 app_log : I/am_on_paused_called(21691): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity]
+2016-06-01 14:58:45 app_log : I/am_restart_activity(  974): [0,1105117304,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:45 app_log : I/am_on_resume_called(21691): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:45 app_log : I/am_activity_launch_time(  974): [0,1105117304,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,482,482]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,6,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,6,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,6,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,6,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/am_create_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity,NULL,NULL,NULL,0]
+2016-06-01 14:58:45 app_log : I/am_pause_activity(  974): [0,1105117304,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:45 app_log : I/am_on_paused_called(21691): [0,com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity]
+2016-06-01 14:58:45 app_log : I/am_restart_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity]
+2016-06-01 14:58:45 app_log : I/am_on_resume_called(21691): [0,com.pingan.mobile.borrow.login.LoginWithLockActivity]
+2016-06-01 14:58:45 app_log : I/am_activity_launch_time(  974): [0,1101343008,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity,266,266]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,7,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/binder_sample(22005): [com.android.internal.telephony.ITelephony,31,6,com.pingan.yzt:remote,1]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,10,com.pingan.yzt,2]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,6,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/binder_sample(21691): [android.view.accessibility.IAccessibilityInteractionConnectionCallback,2,8,com.pingan.yzt,1]
+2016-06-01 14:58:45 app_log : I/am_pause_activity(  974): [0,1101343008,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity]
+2016-06-01 14:58:45 app_log : I/am_on_paused_called(21691): [0,com.pingan.mobile.borrow.login.LoginWithLockActivity]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): START u0 {act=android.intent.action.DELETE dat=package:com.pingan.yzt flg=0x10800000 cmp=com.android.packageinstaller/.UninstallerActivity} from pid 1234
+2016-06-01 14:58:45 app_log : I/am_create_activity(  974): [0,1103042320,129,com.android.packageinstaller/.UninstallerActivity,android.intent.action.DELETE,NULL,package:com.pingan.yzt,276824064]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=-1
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Killing proc 22005:com.pingan.yzt:remote/u0a10075: force stop com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.baidu.location.f in 5000ms
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Killing proc 21992:com.pingan.yzt:pushservice/u0a10075: force stop com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.baidu.location.f,5000]
+2016-06-01 14:58:45 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.igexin.sdk.PushService in 14989ms
+2016-06-01 14:58:45 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.igexin.sdk.PushService,14989]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Killing proc 21691:com.pingan.yzt/u0a10075: force stop com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Killing proc 21924:com.pingan.yzt:push/u0a10075: force stop com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/ActivityManager(  974): Scheduling restart of crashed service com.pingan.yzt/com.mrocker.push.service.PushService in 24966ms
+2016-06-01 14:58:45 app_log : I/am_schedule_service_restart(  974): [0,com.pingan.yzt/com.mrocker.push.service.PushService,24966]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974):   Force finishing activity ActivityRecord{41fa4e50 u0 com.pingan.yzt/.MainActivity}
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974):   Force finishing activity ActivityRecord{426613f8 u0 com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity}
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974):   Force finishing activity ActivityRecord{41dec078 u0 com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity}
+2016-06-01 14:58:45 app_log : I/am_finish_activity(  974): [0,1106923088,128,com.pingan.yzt/.MainActivity,force-stop]
+2016-06-01 14:58:45 app_log : I/am_finish_activity(  974): [0,1113986040,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,force-stop]
+2016-06-01 14:58:45 app_log : I/am_finish_activity(  974): [0,1105117304,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,force-stop]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974):   Force finishing activity ActivityRecord{41a52920 u0 com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity}
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974):   Force stopping service ServiceRecord{423a7a88 u0 com.pingan.yzt/com.mrocker.push.service.PushService}
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974):   Force stopping service ServiceRecord{41f35828 u0 com.pingan.yzt/com.igexin.sdk.PushService}
+2016-06-01 14:58:45 app_log : I/am_finish_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity,force-stop]
+2016-06-01 14:58:45 app_log : I/am_destroy_activity(  974): [0,1106923088,128,com.pingan.yzt/.MainActivity,finish-idle]
+2016-06-01 14:58:45 app_log : I/am_destroy_activity(  974): [0,1113986040,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity,finish-idle]
+2016-06-01 14:58:45 app_log : I/am_destroy_activity(  974): [0,1105117304,128,com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity,finish-idle]
+2016-06-01 14:58:45 app_log : I/am_destroy_activity(  974): [0,1101343008,128,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity,finish-idle]
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Couldn't delete native library directory /data/app-lib/com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/PackageManager(  974): Removing old permission: getui.permission.GetuiService.com.pingan.yzt from package com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.READ_LOGS to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.CHANGE_CONFIGURATION to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Unknown permission android.permission.RECORD_VIDEO in package com.pingan.xueyuan
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.pingan.xueyuan (protectionLevel=18 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package com.pingan.xueyuan (protectionLevel=2 flags=0x183e44)
+2016-06-01 14:58:45 app_log : I/WindowState(  974): WIN DEATH: Window{41a0b0a0 u0 com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithLockActivity}
+2016-06-01 14:58:45 app_log : I/WindowState(  974): WIN DEATH: Window{41e76f58 u0 com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsActivity}
+2016-06-01 14:58:45 app_log : I/WindowState(  974): WIN DEATH: Window{41aed200 u0 com.pingan.yzt/com.pingan.mobile.borrow.treasure.asset.ui.AssetsAddActivity}
+2016-06-01 14:58:45 app_log : I/WindowState(  974): WIN DEATH: Window{4236dd40 u0 com.pingan.yzt/com.pingan.yzt.MainActivity}
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-01 14:58:45 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-01 14:58:45 app_log : D/BackupManagerService(  974): Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.pingan.yzt flg=0x8000010 (has extras) }
+2016-06-01 14:58:45 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:45 app_log : W/ActivityManager(  974): Invalid packageName: com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Package named 'com.pingan.yzt' doesn't exist.
+2016-06-01 14:58:45 app_log : I/PackageManager(  974): Running dexopt on: com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/dalvikvm(23841): DexOpt: access denied from Lcom/pingan/driverway/util/f; to field Lcom/pingan/driverway/util/e;.context
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=-1
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.READ_LOGS to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.CHANGE_CONFIGURATION to package com.pingan.xueyuan (protectionLevel=50 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Unknown permission android.permission.RECORD_VIDEO in package com.pingan.xueyuan
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.ACCESS_DOWNLOAD_MANAGER to package com.pingan.xueyuan (protectionLevel=18 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package com.pingan.xueyuan (protectionLevel=2 flags=0x183e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.MOUNT_UNMOUNT_FILESYSTEMS to package com.pingan.yzt (protectionLevel=18 flags=0x583e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Unknown permission android.permission.SYSTEM_OVERLAY_WINDOW in package com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Unknown permission android.permission.RUN_INSTRUMENTATION in package com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.INTERACT_ACROSS_USERS_FULL to package com.pingan.yzt (protectionLevel=2 flags=0x583e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Not granting permission android.permission.READ_LOGS to package com.pingan.yzt (protectionLevel=50 flags=0x583e44)
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Unknown permission android.permission.READ_OWNER_DATA in package com.pingan.yzt
+2016-06-01 14:58:45 app_log : W/PackageManager(  974): Unknown permission android.permission.WRITE_OWNER_DATA in package com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/SimpleLauncherMode( 1234): action= android.intent.action.PACKAGE_ADDEDpackageName = com.pingan.yzt
+2016-06-01 14:58:45 app_log : D/HwSystemManager(17565): DX-Optimizer:[AppManager] onPackageAdd com.pingan.yzt
+2016-06-01 14:58:45 app_log : D/HwSystemManager( 1448): DX-Optimizer:[AppManager] onPackageAdd com.pingan.yzt
+2016-06-01 14:58:45 app_log : D/HwSystemManager( 1448): DX-Optimizer:[AppManager] notifyChanged 1 com.pingan.yzt
+2016-06-01 14:58:45 app_log : D/BackupManagerService(  974): Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.pingan.yzt flg=0x8000010 (has extras) }
+2016-06-01 14:58:45 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:45 app_log : D/HwSystemManager(17565): DX-Optimizer:[AppManager] notifyChanged 1 com.pingan.yzt
+2016-06-01 14:58:45 app_log : D/AppHandleService(  974): non-system app:com.pingan.xueyuan
+2016-06-01 14:58:45 app_log : D/AppHandleService(  974): non-system app:com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/HwSystemManager( 1448): HsmPackageManager:Receive intent:Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.pingan.yzt flg=0x8000010 cmp=com.huawei.systemmanager/.util.app.AppReceiverSrv (has extras) }
+2016-06-01 14:58:45 app_log : I/HwSystemManager(17565): HsmPackageManager:Receive intent:Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.pingan.yzt flg=0x8000010 cmp=com.huawei.systemmanager/.util.app.AppReceiverUI (has extras) }
+2016-06-01 14:58:45 app_log : D/HwSystemManager(17565): BootStartManager:insertToDB and  packageName is com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/HwSystemManager(17565): OptimizeReceiver:isAppInWhiteList powerOn false com.pingan.yzt
+2016-06-01 14:58:45 app_log : D/HwSystemManager(17565): BootStartManager:deleteFromDB and  packageName is !com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/HwSystemManager(17565): DX-Optimizer:[PackageChangeReceiver] Received: android.intent.action.PACKAGE_ADDED, data: package:com.pingan.yzt, replacing: false
+2016-06-01 14:58:45 app_log : I/HwSystemManager(17565): DBAdapter:checkDBErrorBecauseofHOTA packageName iscom.pingan.xueyuan
+2016-06-01 14:58:45 app_log : I/HwSystemManager(17565): DBAdapter:checkDBErrorBecauseofHOTA packageName iscom.pingan.yzt
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Force stopping package com.pingan.yzt appid=10075 user=0
+2016-06-01 14:58:45 app_log : I/AlarmManager(  974): Remove com.pingan.yzt from mIntentHisRW
+2016-06-01 14:58:45 app_log : I/notification_cancel_all(  974): [com.pingan.yzt,-1,0,0]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.pingan.yzt/.SplashActivityPro} from pid 23997
+2016-06-01 14:58:45 app_log : I/am_create_activity(  974): [0,1122785384,130,com.pingan.yzt/.SplashActivityPro,android.intent.action.MAIN,NULL,NULL,270532608]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt for activity com.pingan.yzt/.SplashActivityPro: pid=24026 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-01 14:58:45 app_log : I/am_proc_start(  974): [0,24026,10075,com.pingan.yzt,activity,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:45 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/am_proc_bound(  974): [0,24026,com.pingan.yzt]
+2016-06-01 14:58:45 app_log : I/am_restart_activity(  974): [0,1122785384,130,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): START u0 {flg=0x10000000 cmp=com.pingan.yzt/.SplashActivityProForMultidex} from pid 24026
+2016-06-01 14:58:45 app_log : I/am_create_activity(  974): [0,1102490168,130,com.pingan.yzt/.SplashActivityProForMultidex,NULL,NULL,NULL,276824064]
+2016-06-01 14:58:45 app_log : I/am_pause_activity(  974): [0,1122785384,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:58:45 app_log : W/ActivityManager(  974): Activity pause timeout for ActivityRecord{42ec5868 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:tools for activity com.pingan.yzt/.SplashActivityProForMultidex: pid=24062 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-01 14:58:45 app_log : I/am_proc_start(  974): [0,24062,10075,com.pingan.yzt:tools,activity,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:45 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-01 14:58:45 app_log : I/am_proc_bound(  974): [0,24062,com.pingan.yzt:tools]
+2016-06-01 14:58:45 app_log : I/am_restart_activity(  974): [0,1102490168,130,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:58:45 app_log : I/am_on_resume_called(24062): [0,com.pingan.yzt.SplashActivityProForMultidex]
+2016-06-01 14:58:45 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/.SplashActivityProForMultidex: +343ms (total +966ms)
+2016-06-01 14:58:45 app_log : I/am_activity_launch_time(  974): [0,1102490168,com.pingan.yzt/.SplashActivityProForMultidex,343,966]
+2016-06-01 14:58:45 app_log : D/dalvikvm(24062): DexOpt: --- BEGIN 'com.pingan.yzt-1.apk.classes2.zip' (bootstrap=0) ---
+2016-06-01 14:58:45 app_log : W/dalvikvm(24189): Class 'Lcom/pingan/anydoor/module/voice/g;' implements non-interface 'Lcom/pingan/anydoor/common/utils/r;'
+2016-06-01 14:58:45 app_log : I/dalvikvm(24189): DexOpt: access denied from Lcom/pingan/anydoor/common/utils/c; to field Lcom/pingan/anydoor/common/db/a$d;.ba
+2016-06-01 14:58:45 app_log : I/dalvikvm(24189): DexOpt: access denied from Lcom/pingan/anydoor/module/share/c; to field Lcom/pingan/anydoor/module/share/PAAnydoorShare$1;.iq
+2016-06-01 14:58:45 app_log : I/dalvikvm(24189): DexOpt: access denied from Lcom/pingan/anydoor/module/share/e; to field Lcom/pingan/anydoor/common/utils/q;.dD
+2016-06-01 14:58:45 app_log : I/dalvikvm(24189): DexOpt: access denied from Lcom/pingan/anydoor/module/voice/f; to field Lcom/pingan/anydoor/common/utils/r;.mParam
+2016-06-01 14:58:45 app_log : I/dalvikvm(24189): DexOpt: illegal method access (call Lcom/pingan/anydoor/nativeui/plugin/secondmenu/d$2;.a (Landroid/view/ViewGroup;ZZ)V from Lcom/pingan/anydoor/nativeui/plugin/secondmenu/f;)
+2016-06-01 14:58:45 app_log : I/dalvikvm(24189): DexOpt: illegal method access (call Lcom/pingan/driverway/b/h;.b ([B)[B from Lcom/pingan/driverway/c/b;)
+2016-06-01 14:59:17 app_log : W/ActivityManager(  974): Activity idle timeout for ActivityRecord{42ec5868 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-01 14:59:17 app_log : D/dalvikvm(24062): DexOpt: --- END 'com.pingan.yzt-1.apk.classes2.zip' (success) ---
+2016-06-01 14:59:17 app_log : D/dalvikvm(24062): DEX prep '/data/data/com.pingan.yzt/code_cache/secondary-dexes/com.pingan.yzt-1.apk.classes2.zip': unzip in 254ms, rewrite 4891ms
+2016-06-01 14:59:17 app_log : I/am_finish_activity(  974): [0,1102490168,130,com.pingan.yzt/.SplashActivityProForMultidex,app-request]
+2016-06-01 14:59:17 app_log : I/am_pause_activity(  974): [0,1102490168,com.pingan.yzt/.SplashActivityProForMultidex]
+2016-06-01 14:59:17 app_log : I/WindowState(  974): WIN DEATH: Window{41a0b0a0 u0 com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex}
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Process com.pingan.yzt:tools (pid 24062) has died.
+2016-06-01 14:59:17 app_log : I/am_proc_died(  974): [0,24062,com.pingan.yzt:tools]
+2016-06-01 14:59:17 app_log : I/am_resume_activity(  974): [0,1122785384,130,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Trying to load lib /data/app-lib/com.pingan.yzt-1/libencrypt.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Added shared lib /data/app-lib/com.pingan.yzt-1/libencrypt.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): No JNI_OnLoad found in /data/app-lib/com.pingan.yzt-1/libencrypt.so 0x41898fb8, skipping init
+2016-06-01 14:59:17 app_log : W/ActivityManager(  974): Activity stop timeout for ActivityRecord{42ec5868 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Activity reported stop, but no longer stopping: ActivityRecord{42ec5868 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Trying to load lib /data/app-lib/com.pingan.yzt-1/libhfenginelib.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Added shared lib /data/app-lib/com.pingan.yzt-1/libhfenginelib.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Trying to load lib /data/app-lib/com.pingan.yzt-1/libnativemodulelib.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Added shared lib /data/app-lib/com.pingan.yzt-1/libnativemodulelib.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): No JNI_OnLoad found in /data/app-lib/com.pingan.yzt-1/libnativemodulelib.so 0x41898fb8, skipping init
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): /data/data/com.pingan.yzt/files/
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): /data/data/com.pingan.yzt/files/anydoor.db
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.caipiao.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wetalk.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wanlitong.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pinganfang.haofang.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.carowner.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.pabank.activity.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.yzt.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.lifeinsurance.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.papd.apk
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): /data/data/com.pingan.yzt/files/
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): /data/data/com.pingan.yzt/files/anydoor_msg
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----Java_com_pingan_anydoor_jni_ADMessageCenterJNI_GetMsgDataByReadStatus
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----Java_com_pingan_anydoor_jni_ADMessageCenterJNI_GetUnprotectedMsgDataByReadStatus
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:push for service com.pingan.yzt/com.mrocker.push.service.PushService: pid=24300 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-01 14:59:17 app_log : I/am_proc_start(  974): [0,24300,10075,com.pingan.yzt:push,service,com.pingan.yzt/com.mrocker.push.service.PushService]
+2016-06-01 14:59:17 app_log : I/am_proc_bound(  974): [0,24300,com.pingan.yzt:push]
+2016-06-01 14:59:17 app_log : I/am_create_service(  974): [0,1105342712,com.pingan.yzt/com.mrocker.push.service.PushService,24300]
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Trying to load lib /data/app-lib/com.pingan.yzt-1/libBaiduMapSDK_base_v3_7_3.so 0x41898fb8
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): Added shared lib /data/app-lib/com.pingan.yzt-1/libBaiduMapSDK_base_v3_7_3.so 0x41898fb8
+2016-06-01 14:59:17 app_log : I/am_on_resume_called(24026): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:59:17 app_log : I/am_on_paused_called(24026): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:59:17 app_log : I/am_failed_to_pause(  974): [0,1122785384,com.pingan.yzt/.SplashActivityPro,(none)]
+2016-06-01 14:59:17 app_log : I/am_on_resume_called(24026): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Activity reported stop, but no longer stopping: ActivityRecord{42ec5868 u0 com.pingan.yzt/.SplashActivityPro}
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/.SplashActivityPro: +13s480ms
+2016-06-01 14:59:17 app_log : I/am_activity_launch_time(  974): [0,1122785384,com.pingan.yzt/.SplashActivityPro,13480,13480]
+2016-06-01 14:59:17 app_log : W/WindowManager(  974): This window was lost: Window{41a0b0a0 u0 com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex}
+2016-06-01 14:59:17 app_log : W/WindowManager(  974): mOwnerUid=10075 mShowToOwnerOnly=true package=com.pingan.yzt appop=NONE
+2016-06-01 14:59:17 app_log : W/WindowManager(  974): mToken=AppWindowToken{4259c1d0 token=Token{41f1e1d0 ActivityRecord{41b6aa38 u0 com.pingan.yzt/.SplashActivityProForMultidex}}}
+2016-06-01 14:59:17 app_log : W/WindowManager(  974): mRootToken=AppWindowToken{4259c1d0 token=Token{41f1e1d0 ActivityRecord{41b6aa38 u0 com.pingan.yzt/.SplashActivityProForMultidex}}}
+2016-06-01 14:59:17 app_log : W/WindowManager(  974): mAppToken=AppWindowToken{4259c1d0 token=Token{41f1e1d0 ActivityRecord{41b6aa38 u0 com.pingan.yzt/.SplashActivityProForMultidex}}}
+2016-06-01 14:59:17 app_log : W/WindowManager(  974): WindowStateAnimator{41efe478 com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex}:
+2016-06-01 14:59:17 app_log : W/WindowManager(  974):   mSurface=Surface(name=com.pingan.yzt/com.pingan.yzt.SplashActivityProForMultidex)
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:pushservice for service com.pingan.yzt/com.igexin.sdk.PushService: pid=24373 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-01 14:59:17 app_log : I/am_proc_start(  974): [0,24373,10075,com.pingan.yzt:pushservice,service,com.pingan.yzt/com.igexin.sdk.PushService]
+2016-06-01 14:59:17 app_log : I/am_proc_bound(  974): [0,24373,com.pingan.yzt:pushservice]
+2016-06-01 14:59:17 app_log : I/am_create_service(  974): [0,1114323424,com.pingan.yzt/com.igexin.sdk.PushService,24373]
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Start proc com.pingan.yzt:remote for service com.pingan.yzt/com.baidu.location.f: pid=24386 uid=10075 gids={50075, 3003, 1015, 3002, 3001, 1028}
+2016-06-01 14:59:17 app_log : I/am_proc_start(  974): [0,24386,10075,com.pingan.yzt:remote,service,com.pingan.yzt/com.baidu.location.f]
+2016-06-01 14:59:17 app_log : I/am_proc_bound(  974): [0,24386,com.pingan.yzt:remote]
+2016-06-01 14:59:17 app_log : I/am_create_service(  974): [0,1123874304,com.pingan.yzt/com.baidu.location.f,24386]
+2016-06-01 14:59:17 app_log : I/am_create_service(  974): [0,1105148568,com.pingan.yzt/com.igexin.sdk.PushServiceUser,24026]
+2016-06-01 14:59:17 app_log : D/d       (24026): Start display image task [http://www.pingan.com.cn/app_upload/images/wap/YJQB0121_x_720_1280.jpg_720x1280]
+2016-06-01 14:59:17 app_log : D/d       (24026): Load image from network [http://www.pingan.com.cn/app_upload/images/wap/YJQB0121_x_720_1280.jpg_720x1280]
+2016-06-01 14:59:17 app_log : E/d       (24026): http://www.pingan.com/404.jsp
+2016-06-01 14:59:17 app_log : E/d       (24026): java.io.FileNotFoundException: http://www.pingan.com/404.jsp
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wetalk.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.lifeinsurance.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.wanlitong.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pinganfang.haofang.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.carowner.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.pabank.activity.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.papd.apk
+2016-06-01 14:59:17 app_log : W/PackageParser(24026): Skipping dir: /storage/sdcard0/Download/YZT/com.pingan.caipiao.apk
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): START u0 {cmp=com.pingan.yzt/.FirstIntroduceActivity} from pid 24026
+2016-06-01 14:59:17 app_log : I/am_create_activity(  974): [0,1105686360,130,com.pingan.yzt/.FirstIntroduceActivity,NULL,NULL,NULL,0]
+2016-06-01 14:59:17 app_log : I/am_pause_activity(  974): [0,1122785384,com.pingan.yzt/.SplashActivityPro]
+2016-06-01 14:59:17 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-01 14:59:17 app_log : I/am_finish_activity(  974): [0,1122785384,130,com.pingan.yzt/.SplashActivityPro,app-request]
+2016-06-01 14:59:17 app_log : I/am_on_paused_called(24026): [0,com.pingan.yzt.SplashActivityPro]
+2016-06-01 14:59:17 app_log : I/am_restart_activity(  974): [0,1105686360,130,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:59:17 app_log : I/am_on_resume_called(24026): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/.FirstIntroduceActivity: +498ms
+2016-06-01 14:59:17 app_log : I/am_activity_launch_time(  974): [0,1105686360,com.pingan.yzt/.FirstIntroduceActivity,498,498]
+2016-06-01 14:59:17 app_log : D/dalvikvm(24386): Trying to load lib /data/app-lib/com.pingan.yzt-1/liblocSDK6a.so 0x41892358
+2016-06-01 14:59:17 app_log : D/dalvikvm(24386): Added shared lib /data/app-lib/com.pingan.yzt-1/liblocSDK6a.so 0x41892358
+2016-06-01 14:59:17 app_log : D/dalvikvm(24386): No JNI_OnLoad found in /data/app-lib/com.pingan.yzt-1/liblocSDK6a.so 0x41892358, skipping init
+2016-06-01 14:59:17 app_log : I/am_destroy_activity(  974): [0,1122785384,130,com.pingan.yzt/.SplashActivityPro,finish-imm]
+2016-06-01 14:59:17 app_log : I/am_create_service(  974): [0,1103845536,com.pingan.yzt/com.igexin.getuiext.service.GetuiExtService,24373]
+2016-06-01 14:59:17 app_log : I/am_create_service(  974): [0,1115943168,com.pingan.yzt/com.pingan.mobile.borrow.ui.service.message.RegisterService,24026]
+2016-06-01 14:59:17 app_log : D/dalvikvm(24373): DEX prep '/data/data/com.pingan.yzt/files/tdata_XoX914.jar': unzip in 20ms, rewrite 388ms
+2016-06-01 14:59:17 app_log : D/dalvikvm(24373): DEX prep '/data/data/com.pingan.yzt/files/tdata_NEu324.jar': unzip in 11ms, rewrite 393ms
+2016-06-01 14:59:17 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/btnnext] <<==>> [android.view.accessibility.AccessibilityNodeInfo@e3e4; boundsInParent: Rect(0, 0 - 386, 96); boundsInScreen: Rect(167, 978 - 553, 1074); packageName: com.pingan.yzt; className: android.widget.Button; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/btnnext; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:17 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/btnnext] <<==>> [android.view.accessibility.AccessibilityNodeInfo@e3e4; boundsInParent: Rect(0, 0 - 386, 96); boundsInScreen: Rect(167, 978 - 553, 1074); packageName: com.pingan.yzt; className: android.widget.Button; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/btnnext; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): START u0 {cmp=com.pingan.yzt/.MainActivity} from pid 24026
+2016-06-01 14:59:17 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-01 14:59:17 app_log : I/am_create_activity(  974): [0,1117085272,130,com.pingan.yzt/.MainActivity,NULL,NULL,NULL,0]
+2016-06-01 14:59:17 app_log : I/am_pause_activity(  974): [0,1105686360,com.pingan.yzt/.FirstIntroduceActivity]
+2016-06-01 14:59:17 app_log : I/am_finish_activity(  974): [0,1105686360,130,com.pingan.yzt/.FirstIntroduceActivity,app-request]
+2016-06-01 14:59:17 app_log : I/am_on_paused_called(24026): [0,com.pingan.yzt.FirstIntroduceActivity]
+2016-06-01 14:59:17 app_log : I/am_restart_activity(  974): [0,1117085272,130,com.pingan.yzt/.MainActivity]
+2016-06-01 14:59:17 app_log : I/dalvikvm(24026): Could not find method com.pingan.mobile.borrow.webview.BBWebCore.setWebContentsDebuggingEnabled, referenced from method com.pingan.mobile.borrow.BaseWebViewActivity.a
+2016-06-01 14:59:17 app_log : W/dalvikvm(24026): VFY: unable to resolve static method 55209: Lcom/pingan/mobile/borrow/webview/BBWebCore;.setWebContentsDebuggingEnabled (Z)V
+2016-06-01 14:59:17 app_log : I/am_on_resume_called(24026): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----com_pingan_anydoor_jni_ADMessageCenterJNI.h——JNI_BundleToADMsgRequestParams
+2016-06-01 14:59:17 app_log : I/dalvikvm(24026): Could not find method android.widget.LinearLayout.<init>, referenced from method com.pingan.mobile.borrow.view.banner.ConvenientBanner.<init>
+2016-06-01 14:59:17 app_log : D/dalvikvm(24026): newInstance failed: Lcom/pingan/mobile/borrow/dao/base/BaseSqlDao;.<init>() not accessible to Lcom/pingan/yzt/service/ReflectUtil;
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.yzt.service.ReflectUtil.newInstance(ReflectUtil.java:29)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.yzt.service.ServiceManager.getService(ServiceManager.java:123)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.yzt.service.config.cache.ConfigCache.<clinit>(ConfigCache.java:28)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.yzt.service.config.ConfigService.admsAppPlugininfo(ConfigService.java:75)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.mobile.borrow.treasure.home.a.a.b(HomeModel.java:238)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.mobile.borrow.treasure.home.a.j.b(HomePresenter.java:176)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.mobile.borrow.treasure.home.ui.HomeFragment.y_(HomeFragment.java:437)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.mobile.mvp.UIViewFragment.onCreateView(UIViewFragment.java:59)
+2016-06-01 14:59:17 app_log : W/System.err(24026): 	at com.pingan.mobile.borrow.util.FragmentTabHost.onAttachedToWindow(FragmentTabHost.java:294)
+2016-06-01 14:59:17 app_log : W/View    (24026): requestLayout() improperly called by com.pingan.anydoor.nativeui.home.a{418d6700 V.E..... ......ID 0,0-720,0} during layout: running second layout pass
+2016-06-01 14:59:17 app_log : W/View    (24026): requestLayout() improperly called by com.pingan.anydoor.nativeui.plugin.RightPluginView{41a50eb8 V.E..... ......ID 0,1107-720,1168} during layout: running second layout pass
+2016-06-01 14:59:17 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/.MainActivity: +2s883ms
+2016-06-01 14:59:17 app_log : I/am_activity_launch_time(  974): [0,1117085272,com.pingan.yzt/.MainActivity,2883,2883]
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----Java_com_pingan_anydoor_jni_ADMessageCenterJNI_GetMsgDataCountByDisplayedStatus
+2016-06-01 14:59:17 app_log : I/dalvikvm(24026): Could not find method com.pingan.mobile.borrow.webview.BBWebCore.evaluateJavascript, referenced from method com.pingan.mobile.borrow.webview.BBWebCore.callJavascript
+2016-06-01 14:59:17 app_log : W/dalvikvm(24026): VFY: unable to resolve virtual method 55161: Lcom/pingan/mobile/borrow/webview/BBWebCore;.evaluateJavascript (Ljava/lang/String;Landroid/webkit/ValueCallback;)V
+2016-06-01 14:59:17 app_log : E/        (24026): netstack:  STAT_HUB - App com.pingan.yzt isn't supported
+2016-06-01 14:59:17 app_log : I/dalvikvm(24026): Could not find method com.pingan.mobile.borrow.webview.BBWebCoreClient.shouldInterceptRequest, referenced from method com.pingan.mobile.borrow.financenews.d.b.shouldInterceptRequest
+2016-06-01 14:59:17 app_log : W/dalvikvm(24026): VFY: unable to resolve virtual method 55219: Lcom/pingan/mobile/borrow/webview/BBWebCoreClient;.shouldInterceptRequest (Landroid/webkit/WebView;Landroid/webkit/WebResourceRequest;)Landroid/webkit/WebResourceResponse;
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----Java_com_pingan_anydoor_jni_ADMessageCenterJNI_GetMsgDataCountByDisplayedStatus
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----Java_com_pingan_anydoor_jni_ADMessageCenterJNI_GetMsgDataByReadStatus
+2016-06-01 14:59:17 app_log : D/HFEngineLog(24026): -----Java_com_pingan_anydoor_jni_ADMessageCenterJNI_GetUnprotectedMsgDataByReadStatus
+2016-06-01 14:59:17 app_log : I/am_destroy_activity(  974): [0,1105686360,130,com.pingan.yzt/.FirstIntroduceActivity,finish-imm]
+2016-06-01 14:59:17 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/rightBtn] <<==>> [android.view.accessibility.AccessibilityNodeInfo@11ff5; boundsInParent: Rect(524028, 0 - 524568, 90); boundsInScreen: Rect(90, 1150 - 630, 1240); packageName: com.pingan.yzt; className: android.widget.Button; text: 以后再说; contentDescription: null; viewIdResName: com.pingan.yzt:id/rightBtn; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2016-06-01 14:59:17 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/rightBtn] <<==>> [android.view.accessibility.AccessibilityNodeInfo@11ff5; boundsInParent: Rect(524028, 0 - 524568, 90); boundsInScreen: Rect(90, 1150 - 630, 1240); packageName: com.pingan.yzt; className: android.widget.Button; text: 以后再说; contentDescription: null; viewIdResName: com.pingan.yzt:id/rightBtn; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/text_home_head_login] <<==>> [android.view.accessibility.AccessibilityNodeInfo@43bca; boundsInParent: Rect(0, 0 - 72, 48); boundsInScreen: Rect(620, 73 - 692, 121); packageName: com.pingan.yzt; className: android.widget.TextView; text: 登录; contentDescription: null; viewIdResName: com.pingan.yzt:id/text_home_head_login; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/text_home_head_login] <<==>> [android.view.accessibility.AccessibilityNodeInfo@43bca; boundsInParent: Rect(0, 0 - 72, 48); boundsInScreen: Rect(620, 73 - 692, 121); packageName: com.pingan.yzt; className: android.widget.TextView; text: 登录; contentDescription: null; viewIdResName: com.pingan.yzt:id/text_home_head_login; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2016-06-01 14:59:41 app_log : I/ActivityManager(  974): START u0 {cmp=com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity} from pid 24026
+2016-06-01 14:59:41 app_log : I/am_create_activity(  974): [0,1118284280,130,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:59:41 app_log : I/am_pause_activity(  974): [0,1117085272,com.pingan.yzt/.MainActivity]
+2016-06-01 14:59:41 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-01 14:59:41 app_log : I/am_on_paused_called(24026): [0,com.pingan.yzt.MainActivity]
+2016-06-01 14:59:41 app_log : I/am_restart_activity(  974): [0,1118284280,130,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:59:41 app_log : I/am_on_resume_called(24026): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:59:41 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity: +378ms
+2016-06-01 14:59:41 app_log : I/am_activity_launch_time(  974): [0,1118284280,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity,378,378]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/otp_tv_login_with_username] <<==>> [android.view.accessibility.AccessibilityNodeInfo@468d7; boundsInParent: Rect(0, 0 - 252, 38); boundsInScreen: Rect(234, 809 - 486, 847); packageName: com.pingan.yzt; className: android.widget.TextView; text: 老用户？用户名登录; contentDescription: null; viewIdResName: com.pingan.yzt:id/otp_tv_login_with_username; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/otp_tv_login_with_username] <<==>> [android.view.accessibility.AccessibilityNodeInfo@468d7; boundsInParent: Rect(0, 0 - 252, 38); boundsInScreen: Rect(234, 809 - 486, 847); packageName: com.pingan.yzt; className: android.widget.TextView; text: 老用户？用户名登录; contentDescription: null; viewIdResName: com.pingan.yzt:id/otp_tv_login_with_username; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2016-06-01 14:59:41 app_log : I/ActivityManager(  974): START u0 {cmp=com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity} from pid 24026
+2016-06-01 14:59:41 app_log : I/am_create_activity(  974): [0,1119199336,130,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,NULL,NULL,NULL,0]
+2016-06-01 14:59:41 app_log : I/am_pause_activity(  974): [0,1118284280,com.pingan.yzt/com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:59:41 app_log : W/ActivityRecord(  974): goujw packagename: com.pingan.yzt
+2016-06-01 14:59:41 app_log : I/am_on_paused_called(24026): [0,com.pingan.mobile.borrow.login.OtpLoginOrRegistByPhoneActivity]
+2016-06-01 14:59:41 app_log : I/am_restart_activity(  974): [0,1119199336,130,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:59:41 app_log : I/am_on_resume_called(24026): [0,com.pingan.mobile.borrow.login.LoginWithNoneActivity]
+2016-06-01 14:59:41 app_log : I/ActivityManager(  974): Displayed com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity: +215ms
+2016-06-01 14:59:41 app_log : I/am_activity_launch_time(  974): [0,1119199336,com.pingan.yzt/com.pingan.mobile.borrow.login.LoginWithNoneActivity,215,215]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/tv_loginAccount] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47b9d; boundsInParent: Rect(0, 0 - 640, 88); boundsInScreen: Rect(40, 483 - 680, 571); packageName: com.pingan.yzt; className: android.widget.EditText; text: 用户名/手机号/身份证号; contentDescription: null; viewIdResName: com.pingan.yzt:id/tv_loginAccount; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/loginPassword] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4bf2f; boundsInParent: Rect(0, 0 - 640, 89); boundsInScreen: Rect(40, 611 - 680, 700); packageName: com.pingan.yzt; className: android.widget.EditText; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/loginPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/loginPassword] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4bf2f; boundsInParent: Rect(0, 0 - 640, 89); boundsInScreen: Rect(40, 611 - 680, 700); packageName: com.pingan.yzt; className: android.widget.EditText; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/loginPassword; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/loginPassword] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4bf2f; boundsInParent: Rect(0, 0 - 640, 89); boundsInScreen: Rect(40, 611 - 680, 700); packageName: com.pingan.yzt; className: android.widget.EditText; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/loginPassword; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:41 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/loginPassword] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4bf2f; boundsInParent: Rect(0, 0 - 640, 89); boundsInScreen: Rect(40, 611 - 680, 700); packageName: com.pingan.yzt; className: android.widget.EditText; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/loginPassword; checkable: false; checked: false; focusable: true; focused: true; selected: false; clickable: true; longClickable: true; enabled: true; password: true; scrollable: false; [ACTION_CLEAR_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+2016-06-01 14:59:51 app_log : I/QueryController(23979): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=com.pingan.yzt:id/loginPassword] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4bf2f; boundsInParent: Rect(0, 0 - 640, 89); boundsInScreen: Rect(40, 611 - 680, 700); packageName: com.pingan.yzt; className: android.widget.EditText; text: null; contentDescription: null; viewIdResName: com.pingan.yzt:id/loginPassword; checkable: false; checked: false; focusable: true; focused: true; 

@@ -1,0 +1,10 @@
+
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.yzt.service.ReflectUtil.newInstance(ReflectUtil.java:29)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.yzt.service.ServiceManager.getService(ServiceManager.java:123)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.yzt.service.config.cache.ConfigCache.<clinit>(ConfigCache.java:28)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.yzt.service.config.ConfigService.admsAppPlugininfo(ConfigService.java:75)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.mobile.borrow.treasure.home.a.a.b(HomeModel.java:238)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.mobile.borrow.treasure.home.a.j.b(HomePresenter.java:176)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.mobile.borrow.treasure.home.ui.HomeFragment.y_(HomeFragment.java:437)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.mobile.mvp.UIViewFragment.onCreateView(UIViewFragment.java:59)
+2016-06-03 10:15:33 app_log : W/System.err(13754): 	at com.pingan.mobile.borrow.util.FragmentTabHost.onAttachedToWindow(FragmentTabHost.java:294)

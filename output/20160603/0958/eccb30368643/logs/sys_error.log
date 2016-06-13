@@ -1,0 +1,9 @@
+2016-06-03 10:00:39 sys_log : [ERROR]   org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.39 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'macdeMacBook-Pro.local', ip: '172.18.17.224', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_74'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, appiumVersion=1.0, language=zh-Hans, databaseEnabled=false, deviceName=eccb30368643, platform=LINUX, appActivity=com.pingan.yzt.SplashActivityPro, desired={app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, noReset=false, noSign=true, appiumVersion=1.0, language=zh-Hans, deviceName=Mi4, appActivity=com.pingan.yzt.SplashActivityPro, autoLaunch=true, platformVersion=4.3, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}, autoLaunch=true, platformVersion=4.3, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}]
+Session ID: 2effff91-0422-41f8-925e-9c9e66d31d84
+*** Element info: {Using=id, value=com.pingan.yzt:id/rightBtn}

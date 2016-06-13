@@ -1,0 +1,7 @@
+2016-06-07 17:21:00 sys_log : [INFO] click -> //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]
+2016-06-07 17:21:04 sys_log : [INFO] click -> //UIAApplication[1]/UIAWindow[1]/UIAButton[3]
+2016-06-07 17:21:16 sys_log : [INFO] click -> //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2]
+2016-06-07 17:21:21 sys_log : [INFO] input -> //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1], sendKeys -> 15618971003
+2016-06-07 17:21:32 sys_log : [INFO] input -> //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1], sendKeys -> qwer2015
+2016-06-07 17:21:43 sys_log : [INFO] click -> //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1]
+2016-06-07 17:21:48 sys_log : [INFO] gesture -> //UIAButton[@name='blue circle']

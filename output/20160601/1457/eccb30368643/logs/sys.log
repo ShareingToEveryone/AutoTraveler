@@ -1,0 +1,14 @@
+2016-06-01 14:58:40 sys_log : [INFO] 遍历测试持续时间 -> 50.01s
+2016-06-01 14:58:50 sys_log : [INFO] 遍历测试持续时间 -> 1.00m
+2016-06-01 14:59:00 sys_log : [INFO] 遍历测试持续时间 -> 1.17m
+2016-06-01 14:59:04 sys_log : [INFO] click -> com.pingan.yzt:id/btnnext
+2016-06-01 14:59:10 sys_log : [INFO] 遍历测试持续时间 -> 1.33m
+2016-06-01 14:59:11 sys_log : [INFO] click -> com.pingan.yzt:id/rightBtn
+2016-06-01 14:59:17 sys_log : [INFO] click -> com.pingan.yzt:id/text_home_head_login
+2016-06-01 14:59:20 sys_log : [INFO] 遍历测试持续时间 -> 1.50m
+2016-06-01 14:59:23 sys_log : [INFO] click -> com.pingan.yzt:id/otp_tv_login_with_username
+2016-06-01 14:59:27 sys_log : [INFO] input -> com.pingan.yzt:id/tv_loginAccount, sendKeys -> 15618971003
+2016-06-01 14:59:30 sys_log : [INFO] 遍历测试持续时间 -> 1.67m
+2016-06-01 14:59:40 sys_log : [INFO] input -> com.pingan.yzt:id/loginPassword, sendKeys -> qwer2015
+2016-06-01 14:59:40 sys_log : [INFO] 遍历测试持续时间 -> 1.83m
+2016-06-01 14:59:50 sys_log : [INFO] 遍历测试持续时间 -> 2.00m

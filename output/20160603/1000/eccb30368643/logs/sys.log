@@ -1,0 +1,95 @@
+2016-06-03 10:01:16 sys_log : [INFO] 遍历测试持续时间 -> 30.01s
+2016-06-03 10:01:26 sys_log : [INFO] 遍历测试持续时间 -> 40.01s
+2016-06-03 10:01:36 sys_log : [INFO] 遍历测试持续时间 -> 50.01s
+2016-06-03 10:01:39 sys_log : [INFO] click -> com.pingan.yzt:id/btnnext
+2016-06-03 10:01:46 sys_log : [INFO] click -> com.pingan.yzt:id/text_home_head_login
+2016-06-03 10:01:46 sys_log : [INFO] 遍历测试持续时间 -> 1.00m
+2016-06-03 10:01:52 sys_log : [INFO] click -> com.pingan.yzt:id/otp_tv_login_with_username
+2016-06-03 10:01:56 sys_log : [INFO] input -> com.pingan.yzt:id/tv_loginAccount, sendKeys -> 15618971003
+2016-06-03 10:01:56 sys_log : [INFO] 遍历测试持续时间 -> 1.17m
+2016-06-03 10:02:06 sys_log : [INFO] 遍历测试持续时间 -> 1.33m
+2016-06-03 10:02:10 sys_log : [INFO] input -> com.pingan.yzt:id/loginPassword, sendKeys -> qwer2015
+2016-06-03 10:02:16 sys_log : [INFO] 遍历测试持续时间 -> 1.50m
+2016-06-03 10:02:20 sys_log : [INFO] click -> com.pingan.yzt:id/tv_login
+2016-06-03 10:02:25 sys_log : [INFO] input -> com.pingan.yzt:id/et_input, sendKeys -> 8888
+2016-06-03 10:02:26 sys_log : [INFO] 遍历测试持续时间 -> 1.67m
+2016-06-03 10:02:36 sys_log : [INFO] 遍历测试持续时间 -> 1.83m
+2016-06-03 10:02:38 sys_log : [INFO] click -> com.pingan.yzt:id/tv_ok
+2016-06-03 10:02:42 sys_log : [INFO] gesture -> //android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView
+2016-06-03 10:02:46 sys_log : [INFO] 遍历测试持续时间 -> 2.00m
+2016-06-03 10:02:56 sys_log : [INFO] 遍历测试持续时间 -> 2.17m
+2016-06-03 10:03:01 sys_log : [INFO] ########################### 开始执行探索性遍历测试 ###########################
+2016-06-03 10:03:02 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有29个任务待运行, [android.widget.TextView,我的资产,,com.pingan.yzt:id/text_home_head_title], c29913d121585440515d6262d03d1140-280,50-440,138-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
+2016-06-03 10:03:05 sys_log : [INFO] 当前节点任务所属窗口是否就是当前窗口 -> true
+2016-06-03 10:03:05 sys_log : [INFO] [android.widget.TextView,我的资产,,com.pingan.yzt:id/text_home_head_title], c29913d121585440515d6262d03d1140 >> 开始执行节点任务......
+2016-06-03 10:03:05 sys_log : [INFO] click -> [info = android.widget.TextView,我的资产,,com.pingan.yzt:id/text_home_head_title], [depth = 1]c29913d121585440515d6262d03d1140-280,50-440,138-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
+2016-06-03 10:03:06 sys_log : [INFO] 遍历测试持续时间 -> 2.33m
+2016-06-03 10:03:12 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有28个任务待运行, [android.widget.TextView,0.,,com.pingan.yzt:id/text_home_asset], c29913d121585440515d6262d03d1140-279,152-351,269-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]
+2016-06-03 10:03:15 sys_log : [INFO] 当前节点任务所属窗口是否就是当前窗口 -> true
+2016-06-03 10:03:15 sys_log : [INFO] [android.widget.TextView,0.,,com.pingan.yzt:id/text_home_asset], c29913d121585440515d6262d03d1140 >> 开始执行节点任务......
+2016-06-03 10:03:15 sys_log : [INFO] click -> [info = android.widget.TextView,0.,,com.pingan.yzt:id/text_home_asset], [depth = 1]c29913d121585440515d6262d03d1140-279,152-351,269-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]
+2016-06-03 10:03:16 sys_log : [INFO] 遍历测试持续时间 -> 2.50m
+2016-06-03 10:03:19 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有27个任务待运行, [android.widget.TextView,00元,,com.pingan.yzt:id/text_home_asset2], c29913d121585440515d6262d03d1140-351,215-441,253-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
+2016-06-03 10:03:21 sys_log : [INFO] 当前节点任务所属窗口是否就是当前窗口 -> false
+2016-06-03 10:03:21 sys_log : [INFO] c29913d121585440515d6262d03d1140 >> e0fd63a43f778dd56870103a37591645, 窗口迁移至新窗口......
+2016-06-03 10:03:21 sys_log : [INFO] 相同窗口执行次数 -> 0
+2016-06-03 10:03:21 sys_log : [INFO] 10个新任务准备入栈......
+2016-06-03 10:03:21 sys_log : [INFO] 10个新任务允许入栈......
+2016-06-03 10:03:21 sys_log : [INFO] 任务栈已更新, 10个新任务允许入栈, 现在还有38个任务待运行......
+2016-06-03 10:03:21 sys_log : [INFO] 任务栈已更新,现在还有37个任务待运行......
+2016-06-03 10:03:21 sys_log : [INFO] [android.widget.ImageView,,,com.pingan.yzt:id/iv_title_right_image], e0fd63a43f778dd56870103a37591645 >> 开始执行节点任务......
+2016-06-03 10:03:21 sys_log : [INFO] click -> [info = android.widget.ImageView,,,com.pingan.yzt:id/iv_title_right_image], [depth = 2]e0fd63a43f778dd56870103a37591645-624,50-720,140-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.ImageView[2]
+2016-06-03 10:03:26 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有36个任务待运行, [android.widget.ImageView,,,com.pingan.yzt:id/iv_my_assets_time_refresh], e0fd63a43f778dd56870103a37591645-542,304-574,333-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.ImageView[1]
+2016-06-03 10:03:26 sys_log : [INFO] 遍历测试持续时间 -> 2.67m
+2016-06-03 10:03:27 sys_log : [INFO] 当前节点任务所属窗口是否就是当前窗口 -> false
+2016-06-03 10:03:27 sys_log : [INFO] e0fd63a43f778dd56870103a37591645 >> 43df9fc57a428380949bcbac11c0ace3, 窗口迁移至新窗口......
+2016-06-03 10:03:27 sys_log : [INFO] 相同窗口执行次数 -> 0
+2016-06-03 10:03:27 sys_log : [INFO] 19个新任务准备入栈......
+2016-06-03 10:03:27 sys_log : [INFO] 19个新任务允许入栈......
+2016-06-03 10:03:27 sys_log : [INFO] 任务栈已更新, 19个新任务允许入栈, 现在还有56个任务待运行......
+2016-06-03 10:03:27 sys_log : [INFO] 任务栈已更新,现在还有55个任务待运行......
+2016-06-03 10:03:27 sys_log : [INFO] [android.widget.LinearLayout,,,], 43df9fc57a428380949bcbac11c0ace3 >> 开始执行节点任务......
+2016-06-03 10:03:27 sys_log : [INFO] click -> [info = android.widget.LinearLayout,,,], [depth = 3]43df9fc57a428380949bcbac11c0ace3-0,140-720,182-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[1]
+2016-06-03 10:03:34 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有54个任务待运行, [android.widget.LinearLayout,,,], 43df9fc57a428380949bcbac11c0ace3-0,182-720,312-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[2]
+2016-06-03 10:03:35 sys_log : [INFO] 当前节点任务所属窗口是否就是当前窗口 -> true
+2016-06-03 10:03:35 sys_log : [INFO] [android.widget.LinearLayout,,,], 43df9fc57a428380949bcbac11c0ace3 >> 开始执行节点任务......
+2016-06-03 10:03:35 sys_log : [INFO] click -> [info = android.widget.LinearLayout,,,], [depth = 3]43df9fc57a428380949bcbac11c0ace3-0,182-720,312-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[2]
+2016-06-03 10:03:36 sys_log : [INFO] 遍历测试持续时间 -> 2.83m
+2016-06-03 10:03:39 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有53个任务待运行, [android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], 43df9fc57a428380949bcbac11c0ace3-0,182-720,310-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]
+2016-06-03 10:03:40 sys_log : [INFO] 当前节点任务所属窗口是否就是当前窗口 -> false
+2016-06-03 10:03:40 sys_log : [INFO] 43df9fc57a428380949bcbac11c0ace3 >> b0686d1a31f95897c616e98f47c462e5, 窗口迁移至新窗口......
+2016-06-03 10:03:40 sys_log : [INFO] 相同窗口执行次数 -> 0
+2016-06-03 10:03:40 sys_log : [INFO] [android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], 43df9fc57a428380949bcbac11c0ace3 >> b0686d1a31f95897c616e98f47c462e5, 窗口虽然发生迁移,但已达到最大遍历深度 -> 3, 点击返回......
+2016-06-03 10:03:45 sys_log : [INFO] [android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], 43df9fc57a428380949bcbac11c0ace3 >> 开始执行节点任务......
+2016-06-03 10:03:45 sys_log : [INFO] click -> [info = android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], [depth = 3]43df9fc57a428380949bcbac11c0ace3-0,182-720,310-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]
+2016-06-03 10:03:46 sys_log : [INFO] 遍历测试持续时间 -> 3.00m
+2016-06-03 10:03:49 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有52个任务待运行, [android.widget.LinearLayout,,,], 43df9fc57a428380949bcbac11c0ace3-0,312-720,442-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[3]
+2016-06-03 10:03:50 sys_log : [ERROR]   节点任务 -> [info = android.widget.LinearLayout,,,], 发生未知异常, 弹出下一个节点任务, 43df9fc57a428380949bcbac11c0ace3-0,312-720,442-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[3]
+2016-06-03 10:03:50 sys_log : [ERROR]   org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'macdeMacBook-Pro.local', ip: '172.18.17.224', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_74'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, appiumVersion=1.0, language=zh-Hans, databaseEnabled=false, deviceName=eccb30368643, platform=LINUX, appActivity=com.pingan.yzt.SplashActivityPro, desired={app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, noReset=false, noSign=true, appiumVersion=1.0, language=zh-Hans, deviceName=Mi4, appActivity=com.pingan.yzt.SplashActivityPro, autoLaunch=true, platformVersion=4.3, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}, autoLaunch=true, platformVersion=4.3, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}]
+Session ID: aa9d88c7-688c-4631-9043-e1c2b62f40f0
+2016-06-03 10:03:50 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有51个任务待运行, [android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], 43df9fc57a428380949bcbac11c0ace3-0,312-720,440-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]
+2016-06-03 10:03:51 sys_log : [ERROR]   节点任务 -> [info = android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], 发生未知异常, 弹出下一个节点任务, 43df9fc57a428380949bcbac11c0ace3-0,312-720,440-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[3]/android.widget.LinearLayout[1]
+2016-06-03 10:03:51 sys_log : [ERROR]   org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'macdeMacBook-Pro.local', ip: '172.18.17.224', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_74'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, appiumVersion=1.0, language=zh-Hans, databaseEnabled=false, deviceName=eccb30368643, platform=LINUX, appActivity=com.pingan.yzt.SplashActivityPro, desired={app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, noReset=false, noSign=true, appiumVersion=1.0, language=zh-Hans, deviceName=Mi4, appActivity=com.pingan.yzt.SplashActivityPro, autoLaunch=true, platformVersion=4.3, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}, autoLaunch=true, platformVersion=4.3, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}]
+Session ID: aa9d88c7-688c-4631-9043-e1c2b62f40f0
+2016-06-03 10:03:51 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有50个任务待运行, [android.widget.LinearLayout,,,], 43df9fc57a428380949bcbac11c0ace3-0,442-720,572-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[4]
+2016-06-03 10:03:53 sys_log : [ERROR]   节点任务 -> [info = android.widget.LinearLayout,,,], 发生未知异常, 弹出下一个节点任务, 43df9fc57a428380949bcbac11c0ace3-0,442-720,572-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[4]
+2016-06-03 10:03:53 sys_log : [ERROR]   org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'macdeMacBook-Pro.local', ip: '172.18.17.224', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_74'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, appiumVersion=1.0, language=zh-Hans, databaseEnabled=false, deviceName=eccb30368643, platform=LINUX, appActivity=com.pingan.yzt.SplashActivityPro, desired={app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, noReset=false, noSign=true, appiumVersion=1.0, language=zh-Hans, deviceName=Mi4, appActivity=com.pingan.yzt.SplashActivityPro, autoLaunch=true, platformVersion=4.3, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}, autoLaunch=true, platformVersion=4.3, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}]
+Session ID: aa9d88c7-688c-4631-9043-e1c2b62f40f0
+2016-06-03 10:03:53 sys_log : [INFO] 报告主人,有1个节点任务出栈并加入黑名单 -> 现在还有49个任务待运行, [android.widget.LinearLayout,,,com.pingan.yzt:id/item_ll_assets_add], 43df9fc57a428380949bcbac11c0ace3-0,442-720,570-//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[4]/android.widget.LinearLayout[1]
+2016-06-03 10:03:53 sys_log : [INFO] 开始统计异常信息...
+2016-06-03 10:03:53 sys_log : [INFO] 统计异常信息完毕!

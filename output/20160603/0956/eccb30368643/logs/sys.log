@@ -1,0 +1,21 @@
+2016-06-03 09:57:07 sys_log : [INFO] 遍历测试持续时间 -> 20.00s
+2016-06-03 09:57:17 sys_log : [INFO] 遍历测试持续时间 -> 30.01s
+2016-06-03 09:57:27 sys_log : [INFO] 遍历测试持续时间 -> 40.01s
+2016-06-03 09:57:37 sys_log : [INFO] 遍历测试持续时间 -> 50.01s
+2016-06-03 09:57:39 sys_log : [INFO] click -> com.pingan.yzt:id/btnnext
+2016-06-03 09:57:47 sys_log : [INFO] click -> com.pingan.yzt:id/rightBtn
+2016-06-03 09:57:47 sys_log : [INFO] 遍历测试持续时间 -> 1.00m
+2016-06-03 09:57:57 sys_log : [INFO] 遍历测试持续时间 -> 1.17m
+2016-06-03 09:58:07 sys_log : [INFO] 遍历测试持续时间 -> 1.33m
+2016-06-03 09:58:17 sys_log : [INFO] 遍历测试持续时间 -> 1.50m
+2016-06-03 09:58:18 sys_log : [ERROR]   org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.43 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'macdeMacBook-Pro.local', ip: '172.18.17.224', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_74'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, networkConnectionEnabled=true, noReset=false, noSign=true, warnings={}, appiumVersion=1.0, language=zh-Hans, databaseEnabled=false, deviceName=eccb30368643, platform=LINUX, appActivity=com.pingan.yzt.SplashActivityPro, desired={app=/Users/mac/Desktop/apk/yizhangtong.apk, appPackage=com.pingan.yzt, noReset=false, noSign=true, appiumVersion=1.0, language=zh-Hans, deviceName=Mi4, appActivity=com.pingan.yzt.SplashActivityPro, autoLaunch=true, platformVersion=4.3, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}, autoLaunch=true, platformVersion=4.3, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, udid=eccb30368643, platformName=Android, resetKeyboard=true}]
+Session ID: 97a6ae27-8fe2-4c8d-9a5b-59481ef35a9d
+*** Element info: {Using=id, value=com.pingan.yzt:id/rightBtn}
+2016-06-03 09:58:18 sys_log : [INFO] 开始创建视频......
+2016-06-03 09:58:20 sys_log : [INFO] 创建视频完毕!

@@ -1,0 +1,427 @@
+2016-06-03 04:38:32 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 04:38:32 sys_log : [INFO] mode=2
+2016-06-03 04:38:32 sys_log : [INFO] depth=3
+2016-06-03 04:38:32 sys_log : [INFO] port=5757
+2016-06-03 04:38:32 sys_log : [INFO] reverse=1
+2016-06-03 04:38:32 sys_log : [INFO] filter=1
+2016-06-03 04:38:32 sys_log : [INFO] port=5757
+2016-06-03 04:38:32 sys_log : [INFO] duration=0
+2016-06-03 04:38:32 sys_log : [INFO] interval=1
+2016-06-03 04:38:32 sys_log : [INFO] timeout=60
+2016-06-03 04:38:32 sys_log : [INFO] host=127.0.0.1
+2016-06-03 04:38:32 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 04:38:32 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 04:38:32 sys_log : [INFO] tips=null
+2016-06-03 04:38:32 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603043832/
+2016-06-03 04:38:32 sys_log : [INFO] appPackage=null
+2016-06-03 04:38:32 sys_log : [INFO] identifyDefault=8
+2016-06-03 04:38:32 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-03 04:38:32 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-03 04:38:32 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-03 04:38:32 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-03 04:38:32 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 04:38:32 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 04:38:32 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-03 04:38:32 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-03 04:38:32 sys_log : [INFO] #########################################################################
+2016-06-03 04:38:33 sys_log : [INFO] date = 20160603
+2016-06-03 04:38:33 sys_log : [INFO] time = 0438
+2016-06-03 04:38:33 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 04:38:33 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 04:38:33 sys_log : [INFO] noReset = false
+2016-06-03 04:38:33 sys_log : [INFO] autoLaunch = true
+2016-06-03 04:38:33 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 04:38:33 sys_log : [INFO] platformVersion = 8.2
+2016-06-03 04:38:33 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-03 04:38:33 sys_log : [INFO] language = zh-Hans
+2016-06-03 04:38:33 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 04:38:33 sys_log : [INFO] platformName = iOS
+2016-06-03 04:38:33 sys_log : [INFO] deviceName = iPhone 5
+2016-06-03 04:38:33 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-03 04:38:33 sys_log : [INFO] ###########################################################################
+2016-06-03 04:38:33 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 04:43:55 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 04:43:55 sys_log : [INFO] mode=2
+2016-06-03 04:43:55 sys_log : [INFO] depth=3
+2016-06-03 04:43:55 sys_log : [INFO] port=5757
+2016-06-03 04:43:55 sys_log : [INFO] reverse=1
+2016-06-03 04:43:55 sys_log : [INFO] filter=1
+2016-06-03 04:43:55 sys_log : [INFO] port=5757
+2016-06-03 04:43:55 sys_log : [INFO] duration=0
+2016-06-03 04:43:55 sys_log : [INFO] interval=1
+2016-06-03 04:43:55 sys_log : [INFO] timeout=60
+2016-06-03 04:43:55 sys_log : [INFO] host=127.0.0.1
+2016-06-03 04:43:55 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 04:43:55 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 04:43:55 sys_log : [INFO] tips=null
+2016-06-03 04:43:55 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603044355/
+2016-06-03 04:43:55 sys_log : [INFO] appPackage=null
+2016-06-03 04:43:55 sys_log : [INFO] identifyDefault=8
+2016-06-03 04:43:55 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-03 04:43:55 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-03 04:43:55 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-03 04:43:55 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-03 04:43:55 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 04:43:55 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 04:43:55 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-03 04:43:55 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-03 04:43:55 sys_log : [INFO] #########################################################################
+2016-06-03 04:43:55 sys_log : [INFO] date = 20160603
+2016-06-03 04:43:55 sys_log : [INFO] time = 0443
+2016-06-03 04:43:55 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 04:43:55 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 04:43:55 sys_log : [INFO] noReset = false
+2016-06-03 04:43:55 sys_log : [INFO] autoLaunch = true
+2016-06-03 04:43:55 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 04:43:55 sys_log : [INFO] platformVersion = 8.2
+2016-06-03 04:43:55 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-03 04:43:55 sys_log : [INFO] language = zh-Hans
+2016-06-03 04:43:55 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 04:43:55 sys_log : [INFO] platformName = iOS
+2016-06-03 04:43:55 sys_log : [INFO] deviceName = iPhone 5
+2016-06-03 04:43:55 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-03 04:43:55 sys_log : [INFO] ###########################################################################
+2016-06-03 04:43:55 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 09:55:49 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 09:55:49 sys_log : [INFO] mode=2
+2016-06-03 09:55:49 sys_log : [INFO] depth=3
+2016-06-03 09:55:49 sys_log : [INFO] port=5757
+2016-06-03 09:55:49 sys_log : [INFO] reverse=1
+2016-06-03 09:55:49 sys_log : [INFO] filter=1
+2016-06-03 09:55:49 sys_log : [INFO] port=5757
+2016-06-03 09:55:49 sys_log : [INFO] duration=0
+2016-06-03 09:55:49 sys_log : [INFO] interval=1
+2016-06-03 09:55:49 sys_log : [INFO] timeout=60
+2016-06-03 09:55:49 sys_log : [INFO] host=127.0.0.1
+2016-06-03 09:55:49 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 09:55:49 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 09:55:49 sys_log : [INFO] tips=null
+2016-06-03 09:55:49 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603095549/
+2016-06-03 09:55:49 sys_log : [INFO] appPackage=null
+2016-06-03 09:55:49 sys_log : [INFO] identifyDefault=8
+2016-06-03 09:55:49 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-03 09:55:49 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-03 09:55:49 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-03 09:55:49 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-03 09:55:49 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 09:55:49 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 09:55:49 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-03 09:55:49 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-03 09:55:49 sys_log : [INFO] #########################################################################
+2016-06-03 09:55:49 sys_log : [INFO] date = 20160603
+2016-06-03 09:55:49 sys_log : [INFO] time = 0955
+2016-06-03 09:55:49 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 09:55:49 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 09:55:49 sys_log : [INFO] noReset = false
+2016-06-03 09:55:49 sys_log : [INFO] autoLaunch = true
+2016-06-03 09:55:49 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 09:55:49 sys_log : [INFO] platformVersion = 8.2
+2016-06-03 09:55:49 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-03 09:55:49 sys_log : [INFO] language = zh-Hans
+2016-06-03 09:55:49 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 09:55:49 sys_log : [INFO] platformName = iOS
+2016-06-03 09:55:49 sys_log : [INFO] deviceName = iPhone 5
+2016-06-03 09:55:49 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-03 09:55:49 sys_log : [INFO] ###########################################################################
+2016-06-03 09:55:49 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 09:55:51 sys_log : [INFO] 开始创建视频......
+2016-06-03 09:55:51 sys_log : [INFO] 创建视频完毕!
+2016-06-03 09:56:08 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 09:56:08 sys_log : [INFO] mode=2
+2016-06-03 09:56:08 sys_log : [INFO] depth=3
+2016-06-03 09:56:08 sys_log : [INFO] port=5757
+2016-06-03 09:56:08 sys_log : [INFO] reverse=1
+2016-06-03 09:56:08 sys_log : [INFO] filter=1
+2016-06-03 09:56:08 sys_log : [INFO] port=5757
+2016-06-03 09:56:08 sys_log : [INFO] duration=0
+2016-06-03 09:56:08 sys_log : [INFO] interval=1
+2016-06-03 09:56:08 sys_log : [INFO] timeout=60
+2016-06-03 09:56:08 sys_log : [INFO] host=127.0.0.1
+2016-06-03 09:56:08 sys_log : [INFO] app=/Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 09:56:08 sys_log : [INFO] udid=d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 09:56:08 sys_log : [INFO] tips=null
+2016-06-03 09:56:08 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603095607/
+2016-06-03 09:56:08 sys_log : [INFO] appPackage=null
+2016-06-03 09:56:08 sys_log : [INFO] identifyDefault=8
+2016-06-03 09:56:08 sys_log : [INFO] guideFlow=[slide>>2, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAButton[3], click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[2], input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATextField[1]|15618971003, input>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIASecureTextField[1]|qwer2015, click>>xpath:://UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[1], gesture>>xpath:://UIAButton[@name='blue circle']]
+2016-06-03 09:56:08 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAPickerWheel, UIACollectionCell]
+2016-06-03 09:56:08 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField]
+2016-06-03 09:56:08 sys_log : [INFO] backList=[//UIAApplication[1]/UIAWindow[4]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIANavigationBar[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[4]/UIAButton[2], //UIAApplication[1]/UIAWindow[2]/UIAToolbar[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAWebView[1]/UIAImage[1], //UIAApplication[1]/UIAWindow[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[1], //UIAApplication[1]/UIAWindow[3]/UIAButton[2]]
+2016-06-03 09:56:08 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 09:56:08 sys_log : [INFO] blackList=[相机, 相册, 照片, shift, Dictate, DONE, 键盘, 平安行, 天天赢, 交易密码, 退出登录, 拍摄名片, credit card camera, 添加平安信用卡, 如您已完成添加，请重新登录, 重新登录, //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIATableView[1]/UIATableCell[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[2], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIAButton[3], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 09:56:08 sys_log : [INFO] triggerList=[分享到>>back, 车辆品牌>>back, 添加房产|开始评估>>back, 社保计算|账户自动同步>>back, 我的权益>>delay->8, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 取消|确定|添加车辆>>back, 温馨提示|确定>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|立即开通|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|贷款期数不能为空>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 温馨提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 提示|确定|取消>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], closeButton>>//UIAApplication[1]/UIAWindow[1]/UIAButton[1], 安全验证|立即验证|以后再说>>//UIAApplication[1]/UIAWindow[4]/UIAButton[1], 更多解锁方式>>gesture->//UIAButton[@name='blue circle']]
+2016-06-03 09:56:08 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>16, 简单理财,投资,保险,贷款,信用卡>>13]
+2016-06-03 09:56:08 sys_log : [INFO] #########################################################################
+2016-06-03 09:56:08 sys_log : [INFO] date = 20160603
+2016-06-03 09:56:08 sys_log : [INFO] time = 0956
+2016-06-03 09:56:08 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 09:56:08 sys_log : [INFO] app = /Users/mac/Desktop/apk/PANewToapAPP.app
+2016-06-03 09:56:08 sys_log : [INFO] noReset = false
+2016-06-03 09:56:08 sys_log : [INFO] autoLaunch = true
+2016-06-03 09:56:08 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 09:56:08 sys_log : [INFO] platformVersion = 8.2
+2016-06-03 09:56:08 sys_log : [INFO] bundleId = com.pingan.yizhangtong
+2016-06-03 09:56:08 sys_log : [INFO] language = zh-Hans
+2016-06-03 09:56:08 sys_log : [INFO] udid = d32975a39224bc409796bcdc75956cd6530edbdb
+2016-06-03 09:56:08 sys_log : [INFO] platformName = iOS
+2016-06-03 09:56:08 sys_log : [INFO] deviceName = iPhone 5
+2016-06-03 09:56:08 sys_log : [INFO] autoAcceptAlerts = true
+2016-06-03 09:56:08 sys_log : [INFO] ###########################################################################
+2016-06-03 09:56:08 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 09:56:09 sys_log : [INFO] 开始创建视频......
+2016-06-03 09:56:09 sys_log : [INFO] 创建视频完毕!
+2016-06-03 09:56:47 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 09:56:47 sys_log : [INFO] mode=1
+2016-06-03 09:56:47 sys_log : [INFO] depth=3
+2016-06-03 09:56:47 sys_log : [INFO] port=5757
+2016-06-03 09:56:47 sys_log : [INFO] reverse=1
+2016-06-03 09:56:47 sys_log : [INFO] filter=2
+2016-06-03 09:56:47 sys_log : [INFO] port=5757
+2016-06-03 09:56:47 sys_log : [INFO] duration=3
+2016-06-03 09:56:47 sys_log : [INFO] interval=3
+2016-06-03 09:56:47 sys_log : [INFO] timeout=30
+2016-06-03 09:56:47 sys_log : [INFO] host=127.0.0.1
+2016-06-03 09:56:47 sys_log : [INFO] app=/Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 09:56:47 sys_log : [INFO] udid=eccb30368643
+2016-06-03 09:56:47 sys_log : [INFO] tips=禁止|允许>>//android.widget.Button[@resource-id='com.huawei.systemmanager:id/btn_allow']
+2016-06-03 09:56:47 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603095647/
+2016-06-03 09:56:47 sys_log : [INFO] appPackage=com.pingan.yzt
+2016-06-03 09:56:47 sys_log : [INFO] identifyDefault=8
+2016-06-03 09:56:47 sys_log : [INFO] guideFlow=[slide>>2, click>>id::com.pingan.yzt:id/btnnext, click>>id::com.pingan.yzt:id/rightBtn, click>>id::com.pingan.yzt:id/text_home_head_login, click>>id::com.pingan.yzt:id/otp_tv_login_with_username, input>>id::com.pingan.yzt:id/tv_loginAccount|15618971003, input>>id::com.pingan.yzt:id/loginPassword|qwer2015, click>>id::com.pingan.yzt:id/tv_login, input>>id::com.pingan.yzt:id/et_input|8888, click>>id::com.pingan.yzt:id/tv_ok, gesture>>xpath:://android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 09:56:47 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAStaticText, UIAPickerWheel, UIACollectionCell, android.widget.Button, android.widget.ImageButton, android.widget.TextView, android.widget.ImageView, android.widget.FrameLayout, android.widget.LinearLayout]
+2016-06-03 09:56:47 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField, android.widget.EditText]
+2016-06-03 09:56:47 sys_log : [INFO] backList=null
+2016-06-03 09:56:47 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 09:56:47 sys_log : [INFO] blackList=[相机, 平安行, 天天赢, 添加平安信用卡, 退出登录, 如您已完成添加，请重新登录, 重新登录, com.pingan.yzt:id/item_security, com.pingan.yzt:id/ll_pingan_run, com.pingan.yzt:id/iv_title_back_button, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/rl_ewallet_credit_manage, com.pingan.yzt:id/security_open_account_layout, //UIAApplication[1]/UIAWindow[4]/UIAPicker[1]/UIAPickerWheel[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 09:56:47 sys_log : [INFO] triggerList=[拍照>>back, 相册>>back, 扫描框>>back, 分享到>>back, 我的权益>>delay->3, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 应急钱包|立即开通>>back, 添加产品|保存>>back, 消息|全部>>back, 保险|总保额>>back, closeButton>>//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ImageButton, 安全验证|立即验证|以后再说>>//android.widget.Button[@resource-id='com.pingan.yzt:id/rightBtn'], 请选择日期|确定>>//android.widget.TextView[@resource-id='com.pingan.yzt:id/ok'], 更多解锁方式>>gesture->//android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 09:56:47 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>24, 简单理财,投资,保险,贷款,信用卡>>30]
+2016-06-03 09:56:47 sys_log : [INFO] #########################################################################
+2016-06-03 09:56:47 sys_log : [INFO] 遍历测试持续时间 -> 0.00s
+2016-06-03 09:56:48 sys_log : [INFO] date = 20160603
+2016-06-03 09:56:48 sys_log : [INFO] time = 0956
+2016-06-03 09:56:48 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 09:56:48 sys_log : [INFO] app = /Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 09:56:48 sys_log : [INFO] appPackage = com.pingan.yzt
+2016-06-03 09:56:48 sys_log : [INFO] noReset = false
+2016-06-03 09:56:48 sys_log : [INFO] noSign = true
+2016-06-03 09:56:48 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 09:56:48 sys_log : [INFO] language = zh-Hans
+2016-06-03 09:56:48 sys_log : [INFO] deviceName = Mi4
+2016-06-03 09:56:48 sys_log : [INFO] appActivity = com.pingan.yzt.SplashActivityPro
+2016-06-03 09:56:48 sys_log : [INFO] autoLaunch = true
+2016-06-03 09:56:48 sys_log : [INFO] platformVersion = 4.3
+2016-06-03 09:56:48 sys_log : [INFO] unicodeKeyboard = true
+2016-06-03 09:56:48 sys_log : [INFO] udid = eccb30368643
+2016-06-03 09:56:48 sys_log : [INFO] platformName = Android
+2016-06-03 09:56:48 sys_log : [INFO] resetKeyboard = true
+2016-06-03 09:56:48 sys_log : [INFO] ###########################################################################
+2016-06-03 09:56:48 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 09:56:57 sys_log : [INFO] 遍历测试持续时间 -> 10.00s
+2016-06-03 09:57:05 sys_log : [INFO] ########################### app environment ###########################
+2016-06-03 09:57:06 sys_log : [INFO] product = H30-C00
+2016-06-03 09:57:06 sys_log : [INFO] api level = 18
+2016-06-03 09:57:06 sys_log : [INFO] platform version = 4.3
+2016-06-03 09:57:06 sys_log : [INFO] core version = 3.4.0+
+2016-06-03 09:57:06 sys_log : [INFO] system version = EmotionUI 2.0 Lite
+2016-06-03 09:57:06 sys_log : [INFO] version = H30-C00V100R001C92B184
+2016-06-03 09:57:06 sys_log : [INFO] app = com.pingan.yzt
+2016-06-03 09:57:06 sys_log : [INFO] app activity = com.pingan.yzt.SplashActivityPro
+2016-06-03 09:57:06 sys_log : [INFO] app current activity = .SplashActivityProForMultidex
+2016-06-03 09:57:06 sys_log : [INFO] app is alive = true
+2016-06-03 09:57:06 sys_log : [INFO] language = zh
+2016-06-03 09:57:06 sys_log : [INFO] resolution = 1280*720
+2016-06-03 09:57:06 sys_log : [INFO] uiautomator pid = 9000
+2016-06-03 09:57:06 sys_log : [INFO] ########################################################################
+2016-06-03 09:58:44 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 09:58:44 sys_log : [INFO] mode=1
+2016-06-03 09:58:44 sys_log : [INFO] depth=3
+2016-06-03 09:58:44 sys_log : [INFO] port=5757
+2016-06-03 09:58:44 sys_log : [INFO] reverse=1
+2016-06-03 09:58:44 sys_log : [INFO] filter=2
+2016-06-03 09:58:44 sys_log : [INFO] port=5757
+2016-06-03 09:58:44 sys_log : [INFO] duration=3
+2016-06-03 09:58:44 sys_log : [INFO] interval=3
+2016-06-03 09:58:44 sys_log : [INFO] timeout=30
+2016-06-03 09:58:44 sys_log : [INFO] host=127.0.0.1
+2016-06-03 09:58:44 sys_log : [INFO] app=/Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 09:58:44 sys_log : [INFO] udid=eccb30368643
+2016-06-03 09:58:44 sys_log : [INFO] tips=禁止|允许>>//android.widget.Button[@resource-id='com.huawei.systemmanager:id/btn_allow']
+2016-06-03 09:58:44 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603095844/
+2016-06-03 09:58:44 sys_log : [INFO] appPackage=com.pingan.yzt
+2016-06-03 09:58:44 sys_log : [INFO] identifyDefault=8
+2016-06-03 09:58:44 sys_log : [INFO] guideFlow=[slide>>2, click>>id::com.pingan.yzt:id/btnnext, click>>id::com.pingan.yzt:id/rightBtn, click>>id::com.pingan.yzt:id/text_home_head_login, click>>id::com.pingan.yzt:id/otp_tv_login_with_username, input>>id::com.pingan.yzt:id/tv_loginAccount|15618971003, input>>id::com.pingan.yzt:id/loginPassword|qwer2015, click>>id::com.pingan.yzt:id/tv_login, input>>id::com.pingan.yzt:id/et_input|8888, click>>id::com.pingan.yzt:id/tv_ok, gesture>>xpath:://android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 09:58:44 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAStaticText, UIAPickerWheel, UIACollectionCell, android.widget.Button, android.widget.ImageButton, android.widget.TextView, android.widget.ImageView, android.widget.FrameLayout, android.widget.LinearLayout]
+2016-06-03 09:58:44 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField, android.widget.EditText]
+2016-06-03 09:58:44 sys_log : [INFO] backList=null
+2016-06-03 09:58:44 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 09:58:44 sys_log : [INFO] blackList=[相机, 平安行, 天天赢, 添加平安信用卡, 退出登录, 如您已完成添加，请重新登录, 重新登录, com.pingan.yzt:id/item_security, com.pingan.yzt:id/ll_pingan_run, com.pingan.yzt:id/iv_title_back_button, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/rl_ewallet_credit_manage, com.pingan.yzt:id/security_open_account_layout, //UIAApplication[1]/UIAWindow[4]/UIAPicker[1]/UIAPickerWheel[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 09:58:44 sys_log : [INFO] triggerList=[拍照>>back, 相册>>back, 扫描框>>back, 分享到>>back, 我的权益>>delay->3, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 应急钱包|立即开通>>back, 添加产品|保存>>back, 消息|全部>>back, 保险|总保额>>back, closeButton>>//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ImageButton, 安全验证|立即验证|以后再说>>//android.widget.Button[@resource-id='com.pingan.yzt:id/rightBtn'], 请选择日期|确定>>//android.widget.TextView[@resource-id='com.pingan.yzt:id/ok'], 更多解锁方式>>gesture->//android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 09:58:44 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>24, 简单理财,投资,保险,贷款,信用卡>>30]
+2016-06-03 09:58:44 sys_log : [INFO] #########################################################################
+2016-06-03 09:58:44 sys_log : [INFO] 遍历测试持续时间 -> 0.00s
+2016-06-03 09:58:44 sys_log : [INFO] date = 20160603
+2016-06-03 09:58:44 sys_log : [INFO] time = 0958
+2016-06-03 09:58:44 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 09:58:44 sys_log : [INFO] app = /Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 09:58:44 sys_log : [INFO] appPackage = com.pingan.yzt
+2016-06-03 09:58:44 sys_log : [INFO] noReset = false
+2016-06-03 09:58:44 sys_log : [INFO] noSign = true
+2016-06-03 09:58:44 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 09:58:44 sys_log : [INFO] language = zh-Hans
+2016-06-03 09:58:44 sys_log : [INFO] deviceName = Mi4
+2016-06-03 09:58:44 sys_log : [INFO] appActivity = com.pingan.yzt.SplashActivityPro
+2016-06-03 09:58:44 sys_log : [INFO] autoLaunch = true
+2016-06-03 09:58:44 sys_log : [INFO] platformVersion = 4.3
+2016-06-03 09:58:44 sys_log : [INFO] unicodeKeyboard = true
+2016-06-03 09:58:44 sys_log : [INFO] udid = eccb30368643
+2016-06-03 09:58:44 sys_log : [INFO] platformName = Android
+2016-06-03 09:58:44 sys_log : [INFO] resetKeyboard = true
+2016-06-03 09:58:44 sys_log : [INFO] ###########################################################################
+2016-06-03 09:58:44 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 09:58:54 sys_log : [INFO] 遍历测试持续时间 -> 10.00s
+2016-06-03 09:59:04 sys_log : [INFO] 遍历测试持续时间 -> 20.00s
+2016-06-03 09:59:14 sys_log : [INFO] 遍历测试持续时间 -> 30.01s
+2016-06-03 09:59:24 sys_log : [INFO] 遍历测试持续时间 -> 40.01s
+2016-06-03 09:59:32 sys_log : [INFO] ########################### app environment ###########################
+2016-06-03 09:59:32 sys_log : [INFO] product = H30-C00
+2016-06-03 09:59:32 sys_log : [INFO] api level = 18
+2016-06-03 09:59:32 sys_log : [INFO] platform version = 4.3
+2016-06-03 09:59:32 sys_log : [INFO] core version = 3.4.0+
+2016-06-03 09:59:32 sys_log : [INFO] system version = EmotionUI 2.0 Lite
+2016-06-03 09:59:32 sys_log : [INFO] version = H30-C00V100R001C92B184
+2016-06-03 09:59:32 sys_log : [INFO] app = com.pingan.yzt
+2016-06-03 09:59:32 sys_log : [INFO] app activity = com.pingan.yzt.SplashActivityPro
+2016-06-03 09:59:32 sys_log : [INFO] app current activity = .SplashActivityProForMultidex
+2016-06-03 09:59:32 sys_log : [INFO] app is alive = true
+2016-06-03 09:59:33 sys_log : [INFO] language = zh
+2016-06-03 09:59:33 sys_log : [INFO] resolution = 1280*720
+2016-06-03 09:59:33 sys_log : [INFO] uiautomator pid = 10517
+2016-06-03 09:59:33 sys_log : [INFO] ########################################################################
+2016-06-03 10:00:46 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 10:00:46 sys_log : [INFO] mode=1
+2016-06-03 10:00:46 sys_log : [INFO] depth=3
+2016-06-03 10:00:46 sys_log : [INFO] port=5757
+2016-06-03 10:00:46 sys_log : [INFO] reverse=1
+2016-06-03 10:00:46 sys_log : [INFO] filter=2
+2016-06-03 10:00:46 sys_log : [INFO] port=5757
+2016-06-03 10:00:46 sys_log : [INFO] duration=3
+2016-06-03 10:00:46 sys_log : [INFO] interval=3
+2016-06-03 10:00:46 sys_log : [INFO] timeout=30
+2016-06-03 10:00:46 sys_log : [INFO] host=127.0.0.1
+2016-06-03 10:00:46 sys_log : [INFO] app=/Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 10:00:46 sys_log : [INFO] udid=eccb30368643
+2016-06-03 10:00:46 sys_log : [INFO] tips=禁止|允许>>//android.widget.Button[@resource-id='com.huawei.systemmanager:id/btn_allow']
+2016-06-03 10:00:46 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603100046/
+2016-06-03 10:00:46 sys_log : [INFO] appPackage=com.pingan.yzt
+2016-06-03 10:00:46 sys_log : [INFO] identifyDefault=8
+2016-06-03 10:00:46 sys_log : [INFO] guideFlow=[slide>>2, click>>id::com.pingan.yzt:id/btnnext, click>>id::com.pingan.yzt:id/text_home_head_login, click>>id::com.pingan.yzt:id/otp_tv_login_with_username, input>>id::com.pingan.yzt:id/tv_loginAccount|15618971003, input>>id::com.pingan.yzt:id/loginPassword|qwer2015, click>>id::com.pingan.yzt:id/tv_login, input>>id::com.pingan.yzt:id/et_input|8888, click>>id::com.pingan.yzt:id/tv_ok, gesture>>xpath:://android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 10:00:46 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAStaticText, UIAPickerWheel, UIACollectionCell, android.widget.Button, android.widget.ImageButton, android.widget.TextView, android.widget.ImageView, android.widget.FrameLayout, android.widget.LinearLayout]
+2016-06-03 10:00:46 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField, android.widget.EditText]
+2016-06-03 10:00:46 sys_log : [INFO] backList=null
+2016-06-03 10:00:46 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 10:00:46 sys_log : [INFO] blackList=[相机, 平安行, 天天赢, 添加平安信用卡, 退出登录, 如您已完成添加，请重新登录, 重新登录, com.pingan.yzt:id/item_security, com.pingan.yzt:id/ll_pingan_run, com.pingan.yzt:id/iv_title_back_button, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/rl_ewallet_credit_manage, com.pingan.yzt:id/security_open_account_layout, //UIAApplication[1]/UIAWindow[4]/UIAPicker[1]/UIAPickerWheel[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 10:00:46 sys_log : [INFO] triggerList=[拍照>>back, 相册>>back, 扫描框>>back, 分享到>>back, 我的权益>>delay->3, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 应急钱包|立即开通>>back, 添加产品|保存>>back, 消息|全部>>back, 保险|总保额>>back, closeButton>>//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ImageButton, 安全验证|立即验证|以后再说>>//android.widget.Button[@resource-id='com.pingan.yzt:id/rightBtn'], 请选择日期|确定>>//android.widget.TextView[@resource-id='com.pingan.yzt:id/ok'], 更多解锁方式>>gesture->//android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 10:00:46 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>24, 简单理财,投资,保险,贷款,信用卡>>30]
+2016-06-03 10:00:46 sys_log : [INFO] #########################################################################
+2016-06-03 10:00:46 sys_log : [INFO] 遍历测试持续时间 -> 0.00s
+2016-06-03 10:00:47 sys_log : [INFO] date = 20160603
+2016-06-03 10:00:47 sys_log : [INFO] time = 1000
+2016-06-03 10:00:47 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 10:00:47 sys_log : [INFO] app = /Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 10:00:47 sys_log : [INFO] appPackage = com.pingan.yzt
+2016-06-03 10:00:47 sys_log : [INFO] noReset = false
+2016-06-03 10:00:47 sys_log : [INFO] noSign = true
+2016-06-03 10:00:47 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 10:00:47 sys_log : [INFO] language = zh-Hans
+2016-06-03 10:00:47 sys_log : [INFO] deviceName = Mi4
+2016-06-03 10:00:47 sys_log : [INFO] appActivity = com.pingan.yzt.SplashActivityPro
+2016-06-03 10:00:47 sys_log : [INFO] autoLaunch = true
+2016-06-03 10:00:47 sys_log : [INFO] platformVersion = 4.3
+2016-06-03 10:00:47 sys_log : [INFO] unicodeKeyboard = true
+2016-06-03 10:00:47 sys_log : [INFO] udid = eccb30368643
+2016-06-03 10:00:47 sys_log : [INFO] platformName = Android
+2016-06-03 10:00:47 sys_log : [INFO] resetKeyboard = true
+2016-06-03 10:00:47 sys_log : [INFO] ###########################################################################
+2016-06-03 10:00:47 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 10:00:56 sys_log : [INFO] 遍历测试持续时间 -> 10.01s
+2016-06-03 10:01:05 sys_log : [INFO] ########################### app environment ###########################
+2016-06-03 10:01:05 sys_log : [INFO] product = H30-C00
+2016-06-03 10:01:05 sys_log : [INFO] api level = 18
+2016-06-03 10:01:05 sys_log : [INFO] platform version = 4.3
+2016-06-03 10:01:05 sys_log : [INFO] core version = 3.4.0+
+2016-06-03 10:01:05 sys_log : [INFO] system version = EmotionUI 2.0 Lite
+2016-06-03 10:01:05 sys_log : [INFO] version = H30-C00V100R001C92B184
+2016-06-03 10:01:05 sys_log : [INFO] app = com.pingan.yzt
+2016-06-03 10:01:05 sys_log : [INFO] app activity = com.pingan.yzt.SplashActivityPro
+2016-06-03 10:01:05 sys_log : [INFO] app current activity = .SplashActivityProForMultidex
+2016-06-03 10:01:06 sys_log : [INFO] app is alive = true
+2016-06-03 10:01:06 sys_log : [INFO] language = zh
+2016-06-03 10:01:06 sys_log : [INFO] resolution = 1280*720
+2016-06-03 10:01:06 sys_log : [INFO] uiautomator pid = 11582
+2016-06-03 10:01:06 sys_log : [INFO] ########################################################################
+2016-06-03 10:01:06 sys_log : [INFO] 遍历测试持续时间 -> 20.01s
+2016-06-03 10:14:02 sys_log : [INFO] ############################ Config parameters ############################
+2016-06-03 10:14:02 sys_log : [INFO] mode=1
+2016-06-03 10:14:02 sys_log : [INFO] depth=3
+2016-06-03 10:14:02 sys_log : [INFO] port=5757
+2016-06-03 10:14:02 sys_log : [INFO] reverse=1
+2016-06-03 10:14:02 sys_log : [INFO] filter=2
+2016-06-03 10:14:02 sys_log : [INFO] port=5757
+2016-06-03 10:14:02 sys_log : [INFO] duration=3
+2016-06-03 10:14:02 sys_log : [INFO] interval=3
+2016-06-03 10:14:02 sys_log : [INFO] timeout=30
+2016-06-03 10:14:02 sys_log : [INFO] host=127.0.0.1
+2016-06-03 10:14:02 sys_log : [INFO] app=/Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 10:14:02 sys_log : [INFO] udid=eccb30368643
+2016-06-03 10:14:02 sys_log : [INFO] tips=禁止|允许>>//android.widget.Button[@resource-id='com.huawei.systemmanager:id/btn_allow']
+2016-06-03 10:14:02 sys_log : [INFO] screenshot=/Users/mac/Desktop/png/20160603101402/
+2016-06-03 10:14:02 sys_log : [INFO] appPackage=com.pingan.yzt
+2016-06-03 10:14:02 sys_log : [INFO] identifyDefault=8
+2016-06-03 10:14:02 sys_log : [INFO] guideFlow=[slide>>2, click>>id::com.pingan.yzt:id/btnnext, click>>id::com.pingan.yzt:id/text_home_head_login, click>>id::com.pingan.yzt:id/otp_tv_login_with_username, input>>id::com.pingan.yzt:id/tv_loginAccount|15618971003, input>>id::com.pingan.yzt:id/loginPassword|qwer2015, click>>id::com.pingan.yzt:id/tv_login, input>>id::com.pingan.yzt:id/et_input|8888, click>>id::com.pingan.yzt:id/tv_ok, gesture>>xpath:://android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 10:14:02 sys_log : [INFO] clickList=[UIAImage, UIAButton, UIASwitch, UIATableCell, UIAStaticText, UIAPickerWheel, UIACollectionCell, android.widget.Button, android.widget.ImageButton, android.widget.TextView, android.widget.ImageView, android.widget.FrameLayout, android.widget.LinearLayout]
+2016-06-03 10:14:02 sys_log : [INFO] inputList=[UIATextField, UIASearchBar, UIASecureTextField, android.widget.EditText]
+2016-06-03 10:14:02 sys_log : [INFO] backList=null
+2016-06-03 10:14:02 sys_log : [INFO] notbackList=[首页,金融旗舰店,财经快讯,我,我的资产,财富加速,财富排名,健康,房产, 首页,金融旗舰店,财经快讯,我,我的订单,活期,定期, 首页,金融旗舰店,财经快讯,我,直播,要闻,专题,选股, 首页,金融旗舰店,财经快讯,我,账户余额,银行卡,订单中心,我的信用]
+2016-06-03 10:14:02 sys_log : [INFO] blackList=[相机, 平安行, 天天赢, 添加平安信用卡, 退出登录, 如您已完成添加，请重新登录, 重新登录, com.pingan.yzt:id/item_security, com.pingan.yzt:id/ll_pingan_run, com.pingan.yzt:id/iv_title_back_button, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/security_msg_layout, com.pingan.yzt:id/rl_ewallet_credit_manage, com.pingan.yzt:id/security_open_account_layout, //UIAApplication[1]/UIAWindow[4]/UIAPicker[1]/UIAPickerWheel[1], //UIAApplication[1]/UIAWindow[1]/UIATableView[1]/UIATableCell[2]/UIACollectionView[1]/UIACollectionCell[5]]
+2016-06-03 10:14:02 sys_log : [INFO] triggerList=[拍照>>back, 相册>>back, 扫描框>>back, 分享到>>back, 我的权益>>delay->3, 进入平安行>>back, 选择银行>>back, 选择保险公司>>back, 检测到新版本>>back, 应急钱包|立即开通>>back, 添加产品|保存>>back, 消息|全部>>back, 保险|总保额>>back, closeButton>>//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ImageButton, 安全验证|立即验证|以后再说>>//android.widget.Button[@resource-id='com.pingan.yzt:id/rightBtn'], 请选择日期|确定>>//android.widget.TextView[@resource-id='com.pingan.yzt:id/ok'], 更多解锁方式>>gesture->//android.widget.FrameLayout[@resource-id='com.pingan.yzt:id/gesture_container']//android.view.View[1]//android.widget.ImageView]
+2016-06-03 10:14:02 sys_log : [INFO] identifySpecialList=[专题,直播,要闻,选股>>24, 简单理财,投资,保险,贷款,信用卡>>30]
+2016-06-03 10:14:02 sys_log : [INFO] #########################################################################
+2016-06-03 10:14:02 sys_log : [INFO] 遍历测试持续时间 -> 0.00s
+2016-06-03 10:14:02 sys_log : [INFO] date = 20160603
+2016-06-03 10:14:02 sys_log : [INFO] time = 1014
+2016-06-03 10:14:02 sys_log : [INFO] ########################### DesiredCapabilities ###########################
+2016-06-03 10:14:02 sys_log : [INFO] app = /Users/mac/Desktop/apk/yizhangtong.apk
+2016-06-03 10:14:02 sys_log : [INFO] appPackage = com.pingan.yzt
+2016-06-03 10:14:02 sys_log : [INFO] noReset = false
+2016-06-03 10:14:02 sys_log : [INFO] noSign = true
+2016-06-03 10:14:02 sys_log : [INFO] appiumVersion = 1.0
+2016-06-03 10:14:02 sys_log : [INFO] language = zh-Hans
+2016-06-03 10:14:02 sys_log : [INFO] deviceName = Mi4
+2016-06-03 10:14:02 sys_log : [INFO] appActivity = com.pingan.yzt.SplashActivityPro
+2016-06-03 10:14:02 sys_log : [INFO] autoLaunch = true
+2016-06-03 10:14:02 sys_log : [INFO] platformVersion = 4.3
+2016-06-03 10:14:02 sys_log : [INFO] unicodeKeyboard = true
+2016-06-03 10:14:02 sys_log : [INFO] udid = eccb30368643
+2016-06-03 10:14:02 sys_log : [INFO] platformName = Android
+2016-06-03 10:14:02 sys_log : [INFO] resetKeyboard = true
+2016-06-03 10:14:02 sys_log : [INFO] ###########################################################################
+2016-06-03 10:14:02 sys_log : [INFO] Appium Server -> http://127.0.0.1:5757/wd/hub
+2016-06-03 10:14:12 sys_log : [INFO] 遍历测试持续时间 -> 10.01s
+2016-06-03 10:14:22 sys_log : [INFO] 遍历测试持续时间 -> 20.01s
+2016-06-03 10:14:32 sys_log : [INFO] 遍历测试持续时间 -> 30.01s
+2016-06-03 10:14:42 sys_log : [INFO] 遍历测试持续时间 -> 40.01s
+2016-06-03 10:14:44 sys_log : [INFO] ########################### app environment ###########################
+2016-06-03 10:14:44 sys_log : [INFO] product = H30-C00
+2016-06-03 10:14:44 sys_log : [INFO] api level = 18
+2016-06-03 10:14:44 sys_log : [INFO] platform version = 4.3
+2016-06-03 10:14:44 sys_log : [INFO] core version = 3.4.0+
+2016-06-03 10:14:44 sys_log : [INFO] system version = EmotionUI 2.0 Lite
+2016-06-03 10:14:44 sys_log : [INFO] version = H30-C00V100R001C92B184
+2016-06-03 10:14:44 sys_log : [INFO] app = com.pingan.yzt
+2016-06-03 10:14:44 sys_log : [INFO] app activity = com.pingan.yzt.SplashActivityPro
+2016-06-03 10:14:45 sys_log : [INFO] app current activity = .SplashActivityProForMultidex
+2016-06-03 10:14:45 sys_log : [INFO] app is alive = true
+2016-06-03 10:14:45 sys_log : [INFO] language = zh
+2016-06-03 10:14:45 sys_log : [INFO] resolution = 1280*720
+2016-06-03 10:14:45 sys_log : [INFO] uiautomator pid = 13697
+2016-06-03 10:14:45 sys_log : [INFO] ########################################################################
